@@ -19353,7 +19353,7 @@ year,month,Country,Port,HL,port call
 2025,5,Papua New Guinea,Lae,Passenger,2
 2025,5,Papua New Guinea,Lae,Tanker,6
 2025,5,Papua New Guinea,Madang,Cargo,8
-2025,5,Papua New Guinea,Madang,Passenger,2
+2025,5,Papua New Guinea,Madang,Passenger,3
 2025,5,Papua New Guinea,Madang,Tanker,4
 2025,5,Papua New Guinea,Oro Bay,Cargo,3
 2025,5,Papua New Guinea,Oro Bay,Passenger,1
@@ -19411,3 +19411,697 @@ year,month,Country,Port,HL,port call
 2025,5,Vanuatu,Port Vila,Fishing,2
 2025,5,Vanuatu,Port Vila,Passenger,13
 2025,5,Vanuatu,Port Vila,Tanker,2
+2025,6,Fiji,Lautoka Harbor,Cargo,22
+2025,6,Fiji,Lautoka Harbor,Fishing,2
+2025,6,Fiji,Lautoka Harbor,Passenger,6
+2025,6,Fiji,Lautoka Harbor,Tanker,9
+2025,6,Fiji,Levuka,Fishing,4
+2025,6,Fiji,Levuka,Passenger,7
+2025,6,Fiji,Malai,Tanker,2
+2025,6,Fiji,Nabouwalu Jetty,Cargo,2
+2025,6,Fiji,Port of Savusavu Bay,Cargo,1
+2025,6,Fiji,Suva Harbor,Cargo,25
+2025,6,Fiji,Suva Harbor,Fishing,74
+2025,6,Fiji,Suva Harbor,Passenger,9
+2025,6,Fiji,Suva Harbor,Tanker,5
+2025,6,Kiribati,Kiribati,Cargo,2
+2025,6,Kiribati,Kiribati,Fishing,8
+2025,6,Kiribati,Kiribati,Passenger,1
+2025,6,Kiribati,Kiribati,Tanker,1
+2025,6,Kiribati,Tarawa Atoll,Cargo,11
+2025,6,Kiribati,Tarawa Atoll,Fishing,5
+2025,6,Kiribati,Tarawa Atoll,Tanker,1
+2025,6,Marshall Islands,Ebeye,Cargo,4
+2025,6,Marshall Islands,Kwajalein,Cargo,3
+2025,6,Marshall Islands,Kwajalein,Tanker,1
+2025,6,Marshall Islands,Majuro Atoll,Cargo,12
+2025,6,Marshall Islands,Majuro Atoll,Fishing,99
+2025,6,Marshall Islands,Majuro Atoll,Tanker,1
+2025,6,Micronesia,Colonia,Cargo,4
+2025,6,Micronesia,Colonia,Passenger,1
+2025,6,Micronesia,Lele Harbor,Cargo,4
+2025,6,Micronesia,Lele Harbor,Fishing,8
+2025,6,Micronesia,Moen,Cargo,7
+2025,6,Micronesia,Moen,Tanker,1
+2025,6,Micronesia,Pornpei Harbor,Cargo,6
+2025,6,Micronesia,Pornpei Harbor,Fishing,20
+2025,6,Micronesia,Pornpei Harbor,Passenger,1
+2025,6,Micronesia,Pornpei Harbor,Tanker,1
+2025,6,Nauru,Nauru,Cargo,1
+2025,6,Palau,Malakal Harbor,Cargo,4
+2025,6,Palau,Malakal Harbor,Fishing,1
+2025,6,Palau,Malakal Harbor,Tanker,1
+2025,6,Papua New Guinea,Alotoa,Cargo,7
+2025,6,Papua New Guinea,Alotoa,Passenger,1
+2025,6,Papua New Guinea,Alotoa,Tanker,3
+2025,6,Papua New Guinea,Buka,Cargo,8
+2025,6,Papua New Guinea,Buka,Fishing,1
+2025,6,Papua New Guinea,Buka,Passenger,3
+2025,6,Papua New Guinea,Daru,Cargo,2
+2025,6,Papua New Guinea,Kavieng Harbor,Cargo,5
+2025,6,Papua New Guinea,Kavieng Harbor,Tanker,1
+2025,6,Papua New Guinea,Kieta,Cargo,3
+2025,6,Papua New Guinea,Kimbe,Cargo,6
+2025,6,Papua New Guinea,Kimbe,Passenger,6
+2025,6,Papua New Guinea,Kimbe,Tanker,2
+2025,6,Papua New Guinea,Lae,Cargo,76
+2025,6,Papua New Guinea,Lae,Fishing,16
+2025,6,Papua New Guinea,Lae,Passenger,1
+2025,6,Papua New Guinea,Lae,Tanker,5
+2025,6,Papua New Guinea,Madang,Cargo,13
+2025,6,Papua New Guinea,Madang,Passenger,5
+2025,6,Papua New Guinea,Madang,Tanker,2
+2025,6,Papua New Guinea,Oro Bay,Cargo,9
+2025,6,Papua New Guinea,Oro Bay,Passenger,1
+2025,6,Papua New Guinea,Oro Bay,Tanker,2
+2025,6,Papua New Guinea,Port Moresby,Cargo,61
+2025,6,Papua New Guinea,Port Moresby,Fishing,2
+2025,6,Papua New Guinea,Port Moresby,Tanker,16
+2025,6,Papua New Guinea,Put Put,Cargo,3
+2025,6,Papua New Guinea,Put Put,Tanker,1
+2025,6,Papua New Guinea,Rabaul,Cargo,26
+2025,6,Papua New Guinea,Rabaul,Fishing,41
+2025,6,Papua New Guinea,Rabaul,Passenger,4
+2025,6,Papua New Guinea,Rabaul,Tanker,5
+2025,6,Papua New Guinea,Vanimo,Cargo,4
+2025,6,Papua New Guinea,Vanimo,Tanker,1
+2025,6,Papua New Guinea,Wewak Harbor,Cargo,8
+2025,6,Papua New Guinea,Wewak Harbor,Fishing,3
+2025,6,Papua New Guinea,Wewak Harbor,Passenger,5
+2025,6,Papua New Guinea,Wewak Harbor,Tanker,3
+2025,6,Samoa,Apia,Cargo,23
+2025,6,Samoa,Apia,Fishing,19
+2025,6,Samoa,Apia,Passenger,5
+2025,6,Samoa,Apia,Tanker,2
+2025,6,Samoa,Salelologa,Cargo,6
+2025,6,Solomon Islands,Gizo Harbor,Cargo,1
+2025,6,Solomon Islands,Gizo Harbor,Passenger,4
+2025,6,Solomon Islands,Honiara,Cargo,19
+2025,6,Solomon Islands,Honiara,Fishing,15
+2025,6,Solomon Islands,Honiara,Passenger,9
+2025,6,Solomon Islands,Honiara,Tanker,5
+2025,6,Solomon Islands,Lughughi Port,Cargo,1
+2025,6,Solomon Islands,Port Noro,Cargo,10
+2025,6,Solomon Islands,Port Noro,Fishing,13
+2025,6,Solomon Islands,Port Noro,Passenger,6
+2025,6,Solomon Islands,Port Noro,Tanker,1
+2025,6,Solomon Islands,Seghe,Cargo,2
+2025,6,Solomon Islands,Seghe,Passenger,5
+2025,6,Tonga,Neiafu,Cargo,8
+2025,6,Tonga,Neiafu,Passenger,4
+2025,6,Tonga,Neiafu,Tanker,1
+2025,6,Tonga,Nuku Alofa,Cargo,20
+2025,6,Tonga,Nuku Alofa,Fishing,3
+2025,6,Tonga,Nuku Alofa,Passenger,7
+2025,6,Tonga,Nuku Alofa,Tanker,3
+2025,6,Tonga,Pangai,Cargo,13
+2025,6,Tonga,Pangai,Passenger,11
+2025,6,Tuvalu,Funafuti Atoll,Cargo,9
+2025,6,Tuvalu,Funafuti Atoll,Tanker,1
+2025,6,Vanuatu,Luganville,Cargo,5
+2025,6,Vanuatu,Luganville,Passenger,8
+2025,6,Vanuatu,Port Vila,Cargo,12
+2025,6,Vanuatu,Port Vila,Passenger,9
+2025,6,Vanuatu,Port Vila,Tanker,1
+2025,7,Fiji,Lautoka Harbor,Cargo,22
+2025,7,Fiji,Lautoka Harbor,Passenger,6
+2025,7,Fiji,Lautoka Harbor,Tanker,11
+2025,7,Fiji,Levuka,Passenger,9
+2025,7,Fiji,Malai,Cargo,1
+2025,7,Fiji,Malai,Tanker,3
+2025,7,Fiji,Port of Savusavu Bay,Cargo,3
+2025,7,Fiji,Port of Savusavu Bay,Fishing,1
+2025,7,Fiji,Suva Harbor,Cargo,37
+2025,7,Fiji,Suva Harbor,Fishing,64
+2025,7,Fiji,Suva Harbor,Passenger,10
+2025,7,Fiji,Suva Harbor,Tanker,8
+2025,7,Kiribati,Kiribati,Cargo,3
+2025,7,Kiribati,Kiribati,Fishing,3
+2025,7,Kiribati,Kiribati,Tanker,3
+2025,7,Kiribati,Tarawa Atoll,Cargo,15
+2025,7,Kiribati,Tarawa Atoll,Fishing,4
+2025,7,Kiribati,Tarawa Atoll,Passenger,2
+2025,7,Kiribati,Tarawa Atoll,Tanker,1
+2025,7,Marshall Islands,Ebeye,Cargo,5
+2025,7,Marshall Islands,Ebeye,Passenger,1
+2025,7,Marshall Islands,Kwajalein,Cargo,1
+2025,7,Marshall Islands,Majuro Atoll,Cargo,7
+2025,7,Marshall Islands,Majuro Atoll,Fishing,64
+2025,7,Marshall Islands,Majuro Atoll,Tanker,2
+2025,7,Micronesia,Colonia,Cargo,4
+2025,7,Micronesia,Colonia,Passenger,2
+2025,7,Micronesia,Colonia,Tanker,1
+2025,7,Micronesia,Lele Harbor,Cargo,5
+2025,7,Micronesia,Lele Harbor,Fishing,3
+2025,7,Micronesia,Lele Harbor,Tanker,1
+2025,7,Micronesia,Moen,Cargo,7
+2025,7,Micronesia,Moen,Tanker,2
+2025,7,Micronesia,Pornpei Harbor,Cargo,6
+2025,7,Micronesia,Pornpei Harbor,Fishing,35
+2025,7,Micronesia,Pornpei Harbor,Passenger,2
+2025,7,Micronesia,Pornpei Harbor,Tanker,1
+2025,7,Nauru,Nauru,Cargo,2
+2025,7,Nauru,Nauru,Tanker,1
+2025,7,Palau,Koror,Fishing,2
+2025,7,Palau,Malakal Harbor,Cargo,3
+2025,7,Palau,Malakal Harbor,Fishing,4
+2025,7,Palau,Malakal Harbor,Passenger,1
+2025,7,Palau,Malakal Harbor,Tanker,1
+2025,7,Papua New Guinea,Alotoa,Cargo,11
+2025,7,Papua New Guinea,Alotoa,Fishing,2
+2025,7,Papua New Guinea,Alotoa,Tanker,2
+2025,7,Papua New Guinea,Buka,Cargo,4
+2025,7,Papua New Guinea,Buka,Passenger,2
+2025,7,Papua New Guinea,Daru,Cargo,3
+2025,7,Papua New Guinea,Kavieng Harbor,Cargo,5
+2025,7,Papua New Guinea,Kavieng Harbor,Tanker,2
+2025,7,Papua New Guinea,Kieta,Cargo,2
+2025,7,Papua New Guinea,Kimbe,Cargo,8
+2025,7,Papua New Guinea,Kimbe,Passenger,5
+2025,7,Papua New Guinea,Kimbe,Tanker,6
+2025,7,Papua New Guinea,Lae,Cargo,74
+2025,7,Papua New Guinea,Lae,Fishing,8
+2025,7,Papua New Guinea,Lae,Passenger,1
+2025,7,Papua New Guinea,Lae,Tanker,8
+2025,7,Papua New Guinea,Madang,Cargo,13
+2025,7,Papua New Guinea,Madang,Passenger,7
+2025,7,Papua New Guinea,Madang,Tanker,3
+2025,7,Papua New Guinea,Oro Bay,Cargo,6
+2025,7,Papua New Guinea,Oro Bay,Passenger,1
+2025,7,Papua New Guinea,Oro Bay,Tanker,1
+2025,7,Papua New Guinea,Port Moresby,Cargo,66
+2025,7,Papua New Guinea,Port Moresby,Fishing,2
+2025,7,Papua New Guinea,Port Moresby,Passenger,1
+2025,7,Papua New Guinea,Port Moresby,Tanker,18
+2025,7,Papua New Guinea,Put Put,Cargo,4
+2025,7,Papua New Guinea,Put Put,Tanker,2
+2025,7,Papua New Guinea,Rabaul,Cargo,25
+2025,7,Papua New Guinea,Rabaul,Fishing,34
+2025,7,Papua New Guinea,Rabaul,Passenger,3
+2025,7,Papua New Guinea,Rabaul,Tanker,5
+2025,7,Papua New Guinea,Vanimo,Cargo,4
+2025,7,Papua New Guinea,Vanimo,Passenger,1
+2025,7,Papua New Guinea,Wewak Harbor,Cargo,12
+2025,7,Papua New Guinea,Wewak Harbor,Passenger,5
+2025,7,Papua New Guinea,Wewak Harbor,Tanker,1
+2025,7,Samoa,Apia,Cargo,21
+2025,7,Samoa,Apia,Fishing,17
+2025,7,Samoa,Apia,Passenger,6
+2025,7,Samoa,Apia,Tanker,2
+2025,7,Samoa,Salelologa,Cargo,5
+2025,7,Solomon Islands,Gizo Harbor,Cargo,1
+2025,7,Solomon Islands,Gizo Harbor,Passenger,4
+2025,7,Solomon Islands,Honiara,Cargo,30
+2025,7,Solomon Islands,Honiara,Fishing,9
+2025,7,Solomon Islands,Honiara,Passenger,10
+2025,7,Solomon Islands,Honiara,Tanker,4
+2025,7,Solomon Islands,Ndora,Cargo,1
+2025,7,Solomon Islands,Port Noro,Cargo,15
+2025,7,Solomon Islands,Port Noro,Fishing,14
+2025,7,Solomon Islands,Port Noro,Passenger,6
+2025,7,Solomon Islands,Port Noro,Tanker,1
+2025,7,Solomon Islands,Ringgi Cove,Cargo,1
+2025,7,Solomon Islands,Seghe,Cargo,1
+2025,7,Solomon Islands,Seghe,Passenger,5
+2025,7,Tonga,Neiafu,Cargo,8
+2025,7,Tonga,Neiafu,Fishing,1
+2025,7,Tonga,Neiafu,Passenger,2
+2025,7,Tonga,Neiafu,Tanker,3
+2025,7,Tonga,Nuku Alofa,Cargo,21
+2025,7,Tonga,Nuku Alofa,Fishing,8
+2025,7,Tonga,Nuku Alofa,Passenger,5
+2025,7,Tonga,Nuku Alofa,Tanker,4
+2025,7,Tonga,Pangai,Cargo,12
+2025,7,Tonga,Pangai,Passenger,3
+2025,7,Tuvalu,Funafuti Atoll,Cargo,15
+2025,7,Tuvalu,Funafuti Atoll,Fishing,2
+2025,7,Tuvalu,Funafuti Atoll,Tanker,1
+2025,7,Vanuatu,Luganville,Cargo,9
+2025,7,Vanuatu,Luganville,Passenger,6
+2025,7,Vanuatu,Luganville,Tanker,1
+2025,7,Vanuatu,Port Vila,Cargo,17
+2025,7,Vanuatu,Port Vila,Fishing,6
+2025,7,Vanuatu,Port Vila,Passenger,13
+2025,7,Vanuatu,Port Vila,Tanker,2
+2025,8,Fiji,Lautoka Harbor,Cargo,30
+2025,8,Fiji,Lautoka Harbor,Passenger,5
+2025,8,Fiji,Lautoka Harbor,Tanker,13
+2025,8,Fiji,Levuka,Fishing,2
+2025,8,Fiji,Levuka,Passenger,6
+2025,8,Fiji,Malai,Cargo,1
+2025,8,Fiji,Malai,Tanker,3
+2025,8,Fiji,Port of Savusavu Bay,Cargo,2
+2025,8,Fiji,Suva Harbor,Cargo,35
+2025,8,Fiji,Suva Harbor,Fishing,45
+2025,8,Fiji,Suva Harbor,Passenger,7
+2025,8,Fiji,Suva Harbor,Tanker,7
+2025,8,Kiribati,Kiribati,Cargo,2
+2025,8,Kiribati,Kiribati,Fishing,6
+2025,8,Kiribati,Kiribati,Passenger,1
+2025,8,Kiribati,Kiribati,Tanker,3
+2025,8,Kiribati,Tarawa Atoll,Cargo,15
+2025,8,Kiribati,Tarawa Atoll,Fishing,2
+2025,8,Kiribati,Tarawa Atoll,Passenger,3
+2025,8,Kiribati,Tarawa Atoll,Tanker,1
+2025,8,Marshall Islands,Ebeye,Cargo,4
+2025,8,Marshall Islands,Ebeye,Passenger,1
+2025,8,Marshall Islands,Kwajalein,Cargo,2
+2025,8,Marshall Islands,Majuro Atoll,Cargo,12
+2025,8,Marshall Islands,Majuro Atoll,Fishing,88
+2025,8,Marshall Islands,Majuro Atoll,Tanker,2
+2025,8,Micronesia,Colonia,Cargo,3
+2025,8,Micronesia,Colonia,Passenger,2
+2025,8,Micronesia,Lele Harbor,Cargo,3
+2025,8,Micronesia,Lele Harbor,Fishing,14
+2025,8,Micronesia,Lele Harbor,Tanker,1
+2025,8,Micronesia,Moen,Cargo,10
+2025,8,Micronesia,Pornpei Harbor,Cargo,9
+2025,8,Micronesia,Pornpei Harbor,Fishing,32
+2025,8,Micronesia,Pornpei Harbor,Passenger,2
+2025,8,Micronesia,Pornpei Harbor,Tanker,1
+2025,8,Nauru,Nauru,Cargo,3
+2025,8,Nauru,Nauru,Tanker,1
+2025,8,Palau,Koror,Fishing,1
+2025,8,Palau,Malakal Harbor,Cargo,4
+2025,8,Palau,Malakal Harbor,Fishing,8
+2025,8,Palau,Malakal Harbor,Passenger,6
+2025,8,Palau,Malakal Harbor,Tanker,2
+2025,8,Papua New Guinea,Alotoa,Cargo,7
+2025,8,Papua New Guinea,Alotoa,Tanker,2
+2025,8,Papua New Guinea,Buka,Cargo,4
+2025,8,Papua New Guinea,Buka,Passenger,3
+2025,8,Papua New Guinea,Buka,Tanker,1
+2025,8,Papua New Guinea,Daru,Cargo,4
+2025,8,Papua New Guinea,Kavieng Harbor,Cargo,2
+2025,8,Papua New Guinea,Kieta,Cargo,2
+2025,8,Papua New Guinea,Kimbe,Cargo,14
+2025,8,Papua New Guinea,Kimbe,Passenger,5
+2025,8,Papua New Guinea,Kimbe,Tanker,8
+2025,8,Papua New Guinea,Lae,Cargo,71
+2025,8,Papua New Guinea,Lae,Fishing,4
+2025,8,Papua New Guinea,Lae,Passenger,1
+2025,8,Papua New Guinea,Lae,Tanker,5
+2025,8,Papua New Guinea,Madang,Cargo,14
+2025,8,Papua New Guinea,Madang,Passenger,3
+2025,8,Papua New Guinea,Madang,Tanker,1
+2025,8,Papua New Guinea,Oro Bay,Cargo,13
+2025,8,Papua New Guinea,Oro Bay,Passenger,1
+2025,8,Papua New Guinea,Oro Bay,Tanker,2
+2025,8,Papua New Guinea,Port Moresby,Cargo,74
+2025,8,Papua New Guinea,Port Moresby,Fishing,2
+2025,8,Papua New Guinea,Port Moresby,Passenger,1
+2025,8,Papua New Guinea,Port Moresby,Tanker,21
+2025,8,Papua New Guinea,Put Put,Cargo,4
+2025,8,Papua New Guinea,Put Put,Tanker,2
+2025,8,Papua New Guinea,Rabaul,Cargo,18
+2025,8,Papua New Guinea,Rabaul,Fishing,30
+2025,8,Papua New Guinea,Rabaul,Passenger,3
+2025,8,Papua New Guinea,Rabaul,Tanker,4
+2025,8,Papua New Guinea,Vanimo,Cargo,4
+2025,8,Papua New Guinea,Vanimo,Passenger,1
+2025,8,Papua New Guinea,Vanimo,Tanker,1
+2025,8,Papua New Guinea,Wewak Harbor,Cargo,10
+2025,8,Papua New Guinea,Wewak Harbor,Fishing,2
+2025,8,Papua New Guinea,Wewak Harbor,Passenger,4
+2025,8,Papua New Guinea,Wewak Harbor,Tanker,4
+2025,8,Samoa,Apia,Cargo,25
+2025,8,Samoa,Apia,Fishing,14
+2025,8,Samoa,Apia,Passenger,5
+2025,8,Samoa,Apia,Tanker,2
+2025,8,Samoa,Salelologa,Cargo,8
+2025,8,Solomon Islands,Gizo Harbor,Passenger,4
+2025,8,Solomon Islands,Honiara,Cargo,25
+2025,8,Solomon Islands,Honiara,Fishing,7
+2025,8,Solomon Islands,Honiara,Passenger,8
+2025,8,Solomon Islands,Honiara,Tanker,3
+2025,8,Solomon Islands,Mbulo,Cargo,1
+2025,8,Solomon Islands,Ndora,Cargo,1
+2025,8,Solomon Islands,Port Noro,Cargo,14
+2025,8,Solomon Islands,Port Noro,Fishing,28
+2025,8,Solomon Islands,Port Noro,Passenger,7
+2025,8,Solomon Islands,Ringgi Cove,Cargo,2
+2025,8,Solomon Islands,Seghe,Cargo,2
+2025,8,Solomon Islands,Seghe,Passenger,2
+2025,8,Tonga,Neiafu,Cargo,9
+2025,8,Tonga,Neiafu,Tanker,1
+2025,8,Tonga,Nuku Alofa,Cargo,17
+2025,8,Tonga,Nuku Alofa,Fishing,1
+2025,8,Tonga,Nuku Alofa,Tanker,3
+2025,8,Tonga,Pangai,Cargo,9
+2025,8,Tuvalu,Funafuti Atoll,Cargo,14
+2025,8,Tuvalu,Funafuti Atoll,Fishing,2
+2025,8,Tuvalu,Funafuti Atoll,Tanker,1
+2025,8,Vanuatu,Luganville,Cargo,9
+2025,8,Vanuatu,Luganville,Passenger,8
+2025,8,Vanuatu,Port Vila,Cargo,16
+2025,8,Vanuatu,Port Vila,Fishing,2
+2025,8,Vanuatu,Port Vila,Passenger,21
+2025,8,Vanuatu,Port Vila,Tanker,2
+2025,9,Fiji,Lautoka Harbor,Cargo,23
+2025,9,Fiji,Lautoka Harbor,Passenger,3
+2025,9,Fiji,Lautoka Harbor,Tanker,10
+2025,9,Fiji,Levuka,Fishing,11
+2025,9,Fiji,Levuka,Passenger,7
+2025,9,Fiji,Malai,Cargo,3
+2025,9,Fiji,Malai,Tanker,4
+2025,9,Fiji,Nabouwalu Jetty,Cargo,1
+2025,9,Fiji,Port of Savusavu Bay,Cargo,4
+2025,9,Fiji,Port of Savusavu Bay,Passenger,1
+2025,9,Fiji,Suva Harbor,Cargo,40
+2025,9,Fiji,Suva Harbor,Fishing,69
+2025,9,Fiji,Suva Harbor,Passenger,8
+2025,9,Fiji,Suva Harbor,Tanker,6
+2025,9,Kiribati,Kiribati,Cargo,4
+2025,9,Kiribati,Kiribati,Fishing,5
+2025,9,Kiribati,Kiribati,Tanker,2
+2025,9,Kiribati,Tarawa Atoll,Cargo,12
+2025,9,Kiribati,Tarawa Atoll,Fishing,3
+2025,9,Kiribati,Tarawa Atoll,Passenger,7
+2025,9,Kiribati,Tarawa Atoll,Tanker,1
+2025,9,Marshall Islands,Ebeye,Cargo,3
+2025,9,Marshall Islands,Ebeye,Passenger,2
+2025,9,Marshall Islands,Kwajalein,Cargo,1
+2025,9,Marshall Islands,Kwajalein,Tanker,1
+2025,9,Marshall Islands,Majuro Atoll,Cargo,14
+2025,9,Marshall Islands,Majuro Atoll,Fishing,70
+2025,9,Marshall Islands,Majuro Atoll,Tanker,2
+2025,9,Micronesia,Colonia,Cargo,3
+2025,9,Micronesia,Colonia,Passenger,1
+2025,9,Micronesia,Lele Harbor,Cargo,5
+2025,9,Micronesia,Lele Harbor,Fishing,15
+2025,9,Micronesia,Moen,Cargo,5
+2025,9,Micronesia,Moen,Tanker,1
+2025,9,Micronesia,Pornpei Harbor,Cargo,7
+2025,9,Micronesia,Pornpei Harbor,Fishing,20
+2025,9,Micronesia,Pornpei Harbor,Tanker,1
+2025,9,Nauru,Nauru,Cargo,2
+2025,9,Palau,Koror,Fishing,1
+2025,9,Palau,Malakal Harbor,Cargo,3
+2025,9,Palau,Malakal Harbor,Fishing,5
+2025,9,Palau,Malakal Harbor,Passenger,3
+2025,9,Papua New Guinea,Alotoa,Cargo,7
+2025,9,Papua New Guinea,Buka,Cargo,7
+2025,9,Papua New Guinea,Buka,Passenger,4
+2025,9,Papua New Guinea,Daru,Cargo,2
+2025,9,Papua New Guinea,Kavieng Harbor,Cargo,6
+2025,9,Papua New Guinea,Kavieng Harbor,Tanker,1
+2025,9,Papua New Guinea,Kieta,Cargo,3
+2025,9,Papua New Guinea,Kimbe,Cargo,10
+2025,9,Papua New Guinea,Kimbe,Passenger,4
+2025,9,Papua New Guinea,Kimbe,Tanker,3
+2025,9,Papua New Guinea,Lae,Cargo,81
+2025,9,Papua New Guinea,Lae,Fishing,8
+2025,9,Papua New Guinea,Lae,Passenger,2
+2025,9,Papua New Guinea,Lae,Tanker,4
+2025,9,Papua New Guinea,Madang,Cargo,10
+2025,9,Papua New Guinea,Madang,Passenger,6
+2025,9,Papua New Guinea,Madang,Tanker,4
+2025,9,Papua New Guinea,Oro Bay,Cargo,4
+2025,9,Papua New Guinea,Oro Bay,Passenger,1
+2025,9,Papua New Guinea,Oro Bay,Tanker,2
+2025,9,Papua New Guinea,Port Moresby,Cargo,61
+2025,9,Papua New Guinea,Port Moresby,Fishing,2
+2025,9,Papua New Guinea,Port Moresby,Tanker,17
+2025,9,Papua New Guinea,Put Put,Cargo,4
+2025,9,Papua New Guinea,Put Put,Tanker,1
+2025,9,Papua New Guinea,Rabaul,Cargo,23
+2025,9,Papua New Guinea,Rabaul,Fishing,34
+2025,9,Papua New Guinea,Rabaul,Passenger,5
+2025,9,Papua New Guinea,Rabaul,Tanker,3
+2025,9,Papua New Guinea,Vanimo,Cargo,4
+2025,9,Papua New Guinea,Vanimo,Passenger,3
+2025,9,Papua New Guinea,Wewak Harbor,Cargo,11
+2025,9,Papua New Guinea,Wewak Harbor,Fishing,2
+2025,9,Papua New Guinea,Wewak Harbor,Passenger,7
+2025,9,Papua New Guinea,Wewak Harbor,Tanker,1
+2025,9,Samoa,Apia,Cargo,15
+2025,9,Samoa,Apia,Fishing,15
+2025,9,Samoa,Apia,Passenger,6
+2025,9,Samoa,Apia,Tanker,2
+2025,9,Solomon Islands,Gizo Harbor,Cargo,1
+2025,9,Solomon Islands,Gizo Harbor,Passenger,4
+2025,9,Solomon Islands,Honiara,Cargo,27
+2025,9,Solomon Islands,Honiara,Fishing,16
+2025,9,Solomon Islands,Honiara,Passenger,8
+2025,9,Solomon Islands,Honiara,Tanker,4
+2025,9,Solomon Islands,Port Noro,Cargo,7
+2025,9,Solomon Islands,Port Noro,Fishing,8
+2025,9,Solomon Islands,Port Noro,Passenger,6
+2025,9,Solomon Islands,Port Noro,Tanker,1
+2025,9,Solomon Islands,Ringgi Cove,Cargo,1
+2025,9,Solomon Islands,Seghe,Cargo,3
+2025,9,Solomon Islands,Seghe,Passenger,6
+2025,9,Tonga,Neiafu,Cargo,3
+2025,9,Tonga,Neiafu,Fishing,2
+2025,9,Tonga,Neiafu,Passenger,2
+2025,9,Tonga,Nuku Alofa,Cargo,12
+2025,9,Tonga,Nuku Alofa,Passenger,3
+2025,9,Tonga,Nuku Alofa,Tanker,4
+2025,9,Tonga,Pangai,Cargo,4
+2025,9,Tonga,Pangai,Passenger,3
+2025,9,Tuvalu,Funafuti Atoll,Cargo,10
+2025,9,Tuvalu,Funafuti Atoll,Fishing,1
+2025,9,Vanuatu,Luganville,Cargo,6
+2025,9,Vanuatu,Luganville,Passenger,5
+2025,9,Vanuatu,Luganville,Tanker,1
+2025,9,Vanuatu,Port Vila,Cargo,15
+2025,9,Vanuatu,Port Vila,Fishing,4
+2025,9,Vanuatu,Port Vila,Passenger,11
+2025,9,Vanuatu,Port Vila,Tanker,1
+2025,10,Fiji,Lautoka Harbor,Cargo,22
+2025,10,Fiji,Lautoka Harbor,Passenger,6
+2025,10,Fiji,Lautoka Harbor,Tanker,11
+2025,10,Fiji,Levuka,Fishing,5
+2025,10,Fiji,Levuka,Passenger,10
+2025,10,Fiji,Malai,Cargo,3
+2025,10,Fiji,Malai,Tanker,4
+2025,10,Fiji,Nabouwalu Jetty,Cargo,1
+2025,10,Fiji,Port of Savusavu Bay,Cargo,1
+2025,10,Fiji,Port of Savusavu Bay,Passenger,2
+2025,10,Fiji,Suva Harbor,Cargo,31
+2025,10,Fiji,Suva Harbor,Fishing,64
+2025,10,Fiji,Suva Harbor,Passenger,10
+2025,10,Fiji,Suva Harbor,Tanker,5
+2025,10,Kiribati,Kiribati,Cargo,3
+2025,10,Kiribati,Kiribati,Fishing,18
+2025,10,Kiribati,Kiribati,Tanker,1
+2025,10,Kiribati,Tarawa Atoll,Cargo,12
+2025,10,Kiribati,Tarawa Atoll,Fishing,4
+2025,10,Kiribati,Tarawa Atoll,Passenger,3
+2025,10,Kiribati,Tarawa Atoll,Tanker,1
+2025,10,Marshall Islands,Ebeye,Cargo,2
+2025,10,Marshall Islands,Kwajalein,Cargo,1
+2025,10,Marshall Islands,Kwajalein,Tanker,1
+2025,10,Marshall Islands,Majuro Atoll,Cargo,11
+2025,10,Marshall Islands,Majuro Atoll,Fishing,76
+2025,10,Marshall Islands,Majuro Atoll,Tanker,1
+2025,10,Micronesia,Colonia,Cargo,6
+2025,10,Micronesia,Colonia,Fishing,1
+2025,10,Micronesia,Colonia,Passenger,4
+2025,10,Micronesia,Colonia,Tanker,1
+2025,10,Micronesia,Lele Harbor,Cargo,5
+2025,10,Micronesia,Lele Harbor,Fishing,11
+2025,10,Micronesia,Moen,Cargo,6
+2025,10,Micronesia,Moen,Passenger,2
+2025,10,Micronesia,Moen,Tanker,1
+2025,10,Micronesia,Pornpei Harbor,Cargo,7
+2025,10,Micronesia,Pornpei Harbor,Fishing,30
+2025,10,Micronesia,Pornpei Harbor,Tanker,2
+2025,10,Nauru,Nauru,Cargo,6
+2025,10,Nauru,Nauru,Fishing,1
+2025,10,Palau,Malakal Harbor,Cargo,4
+2025,10,Palau,Malakal Harbor,Fishing,6
+2025,10,Palau,Malakal Harbor,Passenger,5
+2025,10,Papua New Guinea,Alotoa,Cargo,9
+2025,10,Papua New Guinea,Alotoa,Passenger,4
+2025,10,Papua New Guinea,Alotoa,Tanker,3
+2025,10,Papua New Guinea,Buka,Cargo,6
+2025,10,Papua New Guinea,Buka,Passenger,3
+2025,10,Papua New Guinea,Daru,Cargo,2
+2025,10,Papua New Guinea,Daru,Passenger,1
+2025,10,Papua New Guinea,Kavieng Harbor,Cargo,8
+2025,10,Papua New Guinea,Kavieng Harbor,Passenger,1
+2025,10,Papua New Guinea,Kavieng Harbor,Tanker,1
+2025,10,Papua New Guinea,Kieta,Cargo,3
+2025,10,Papua New Guinea,Kimbe,Cargo,13
+2025,10,Papua New Guinea,Kimbe,Passenger,2
+2025,10,Papua New Guinea,Kimbe,Tanker,5
+2025,10,Papua New Guinea,Lae,Cargo,77
+2025,10,Papua New Guinea,Lae,Fishing,10
+2025,10,Papua New Guinea,Lae,Passenger,1
+2025,10,Papua New Guinea,Lae,Tanker,6
+2025,10,Papua New Guinea,Madang,Cargo,9
+2025,10,Papua New Guinea,Madang,Passenger,10
+2025,10,Papua New Guinea,Madang,Tanker,3
+2025,10,Papua New Guinea,Oro Bay,Cargo,8
+2025,10,Papua New Guinea,Oro Bay,Tanker,2
+2025,10,Papua New Guinea,Port Moresby,Cargo,80
+2025,10,Papua New Guinea,Port Moresby,Fishing,1
+2025,10,Papua New Guinea,Port Moresby,Passenger,2
+2025,10,Papua New Guinea,Port Moresby,Tanker,18
+2025,10,Papua New Guinea,Put Put,Cargo,6
+2025,10,Papua New Guinea,Put Put,Tanker,2
+2025,10,Papua New Guinea,Rabaul,Cargo,39
+2025,10,Papua New Guinea,Rabaul,Fishing,50
+2025,10,Papua New Guinea,Rabaul,Passenger,1
+2025,10,Papua New Guinea,Rabaul,Tanker,3
+2025,10,Papua New Guinea,Vanimo,Cargo,4
+2025,10,Papua New Guinea,Vanimo,Passenger,2
+2025,10,Papua New Guinea,Vanimo,Tanker,1
+2025,10,Papua New Guinea,Wewak Harbor,Cargo,14
+2025,10,Papua New Guinea,Wewak Harbor,Fishing,4
+2025,10,Papua New Guinea,Wewak Harbor,Passenger,2
+2025,10,Papua New Guinea,Wewak Harbor,Tanker,3
+2025,10,Samoa,Apia,Cargo,15
+2025,10,Samoa,Apia,Fishing,9
+2025,10,Samoa,Apia,Passenger,8
+2025,10,Samoa,Apia,Tanker,3
+2025,10,Samoa,Salelologa,Cargo,2
+2025,10,Solomon Islands,Gizo Harbor,Cargo,1
+2025,10,Solomon Islands,Gizo Harbor,Passenger,5
+2025,10,Solomon Islands,Honiara,Cargo,26
+2025,10,Solomon Islands,Honiara,Fishing,9
+2025,10,Solomon Islands,Honiara,Passenger,9
+2025,10,Solomon Islands,Honiara,Tanker,2
+2025,10,Solomon Islands,Lughughi Port,Cargo,1
+2025,10,Solomon Islands,Port Noro,Cargo,14
+2025,10,Solomon Islands,Port Noro,Fishing,13
+2025,10,Solomon Islands,Port Noro,Passenger,5
+2025,10,Solomon Islands,Port Noro,Tanker,1
+2025,10,Solomon Islands,Ringgi Cove,Cargo,2
+2025,10,Solomon Islands,Ringgi Cove,Passenger,1
+2025,10,Solomon Islands,Seghe,Cargo,4
+2025,10,Solomon Islands,Seghe,Passenger,5
+2025,10,Tonga,Neiafu,Cargo,8
+2025,10,Tonga,Neiafu,Passenger,6
+2025,10,Tonga,Neiafu,Tanker,4
+2025,10,Tonga,Nuku Alofa,Cargo,16
+2025,10,Tonga,Nuku Alofa,Fishing,5
+2025,10,Tonga,Nuku Alofa,Passenger,11
+2025,10,Tonga,Nuku Alofa,Tanker,4
+2025,10,Tonga,Pangai,Cargo,8
+2025,10,Tonga,Pangai,Passenger,14
+2025,10,Tuvalu,Funafuti Atoll,Cargo,8
+2025,10,Tuvalu,Funafuti Atoll,Tanker,1
+2025,10,Vanuatu,Luganville,Cargo,8
+2025,10,Vanuatu,Luganville,Fishing,2
+2025,10,Vanuatu,Luganville,Passenger,9
+2025,10,Vanuatu,Luganville,Tanker,1
+2025,10,Vanuatu,Port Vila,Cargo,16
+2025,10,Vanuatu,Port Vila,Fishing,2
+2025,10,Vanuatu,Port Vila,Passenger,17
+2025,10,Vanuatu,Port Vila,Tanker,3
+2025,11,Fiji,Lautoka Harbor,Cargo,33
+2025,11,Fiji,Lautoka Harbor,Passenger,8
+2025,11,Fiji,Lautoka Harbor,Tanker,9
+2025,11,Fiji,Levuka,Fishing,3
+2025,11,Fiji,Levuka,Passenger,8
+2025,11,Fiji,Malai,Cargo,1
+2025,11,Fiji,Malai,Tanker,3
+2025,11,Fiji,Port of Savusavu Bay,Cargo,3
+2025,11,Fiji,Port of Savusavu Bay,Passenger,4
+2025,11,Fiji,Suva Harbor,Cargo,36
+2025,11,Fiji,Suva Harbor,Fishing,32
+2025,11,Fiji,Suva Harbor,Passenger,22
+2025,11,Fiji,Suva Harbor,Tanker,5
+2025,11,Kiribati,Kiribati,Cargo,5
+2025,11,Kiribati,Kiribati,Fishing,11
+2025,11,Kiribati,Kiribati,Tanker,2
+2025,11,Kiribati,Tarawa Atoll,Cargo,16
+2025,11,Kiribati,Tarawa Atoll,Fishing,4
+2025,11,Kiribati,Tarawa Atoll,Passenger,6
+2025,11,Kiribati,Tarawa Atoll,Tanker,1
+2025,11,Marshall Islands,Ebeye,Cargo,5
+2025,11,Marshall Islands,Kwajalein,Cargo,1
+2025,11,Marshall Islands,Majuro Atoll,Cargo,10
+2025,11,Marshall Islands,Majuro Atoll,Fishing,61
+2025,11,Marshall Islands,Majuro Atoll,Tanker,1
+2025,11,Micronesia,Colonia,Cargo,4
+2025,11,Micronesia,Lele Harbor,Cargo,5
+2025,11,Micronesia,Lele Harbor,Fishing,1
+2025,11,Micronesia,Lele Harbor,Tanker,1
+2025,11,Micronesia,Moen,Cargo,5
+2025,11,Micronesia,Moen,Passenger,1
+2025,11,Micronesia,Moen,Tanker,1
+2025,11,Micronesia,Pornpei Harbor,Cargo,10
+2025,11,Micronesia,Pornpei Harbor,Fishing,24
+2025,11,Micronesia,Pornpei Harbor,Tanker,1
+2025,11,Nauru,Nauru,Cargo,4
+2025,11,Nauru,Nauru,Tanker,1
+2025,11,Palau,Koror,Fishing,1
+2025,11,Palau,Malakal Harbor,Cargo,3
+2025,11,Palau,Malakal Harbor,Fishing,6
+2025,11,Palau,Malakal Harbor,Tanker,1
+2025,11,Papua New Guinea,Alotoa,Cargo,4
+2025,11,Papua New Guinea,Alotoa,Passenger,6
+2025,11,Papua New Guinea,Alotoa,Tanker,2
+2025,11,Papua New Guinea,Buka,Cargo,3
+2025,11,Papua New Guinea,Buka,Passenger,2
+2025,11,Papua New Guinea,Daru,Cargo,4
+2025,11,Papua New Guinea,Kavieng Harbor,Cargo,7
+2025,11,Papua New Guinea,Kavieng Harbor,Passenger,1
+2025,11,Papua New Guinea,Kavieng Harbor,Tanker,1
+2025,11,Papua New Guinea,Kieta,Cargo,2
+2025,11,Papua New Guinea,Kimbe,Cargo,9
+2025,11,Papua New Guinea,Kimbe,Passenger,4
+2025,11,Papua New Guinea,Kimbe,Tanker,4
+2025,11,Papua New Guinea,Lae,Cargo,76
+2025,11,Papua New Guinea,Lae,Fishing,10
+2025,11,Papua New Guinea,Lae,Passenger,1
+2025,11,Papua New Guinea,Lae,Tanker,5
+2025,11,Papua New Guinea,Madang,Cargo,15
+2025,11,Papua New Guinea,Madang,Passenger,9
+2025,11,Papua New Guinea,Madang,Tanker,5
+2025,11,Papua New Guinea,Oro Bay,Cargo,5
+2025,11,Papua New Guinea,Oro Bay,Tanker,1
+2025,11,Papua New Guinea,Port Moresby,Cargo,75
+2025,11,Papua New Guinea,Port Moresby,Passenger,2
+2025,11,Papua New Guinea,Port Moresby,Tanker,19
+2025,11,Papua New Guinea,Put Put,Cargo,3
+2025,11,Papua New Guinea,Put Put,Tanker,2
+2025,11,Papua New Guinea,Rabaul,Cargo,23
+2025,11,Papua New Guinea,Rabaul,Fishing,31
+2025,11,Papua New Guinea,Rabaul,Passenger,5
+2025,11,Papua New Guinea,Rabaul,Tanker,3
+2025,11,Papua New Guinea,Vanimo,Cargo,6
+2025,11,Papua New Guinea,Vanimo,Fishing,1
+2025,11,Papua New Guinea,Vanimo,Passenger,1
+2025,11,Papua New Guinea,Wewak Harbor,Cargo,14
+2025,11,Papua New Guinea,Wewak Harbor,Passenger,3
+2025,11,Papua New Guinea,Wewak Harbor,Tanker,1
+2025,11,Samoa,Apia,Cargo,24
+2025,11,Samoa,Apia,Fishing,13
+2025,11,Samoa,Apia,Passenger,5
+2025,11,Samoa,Apia,Tanker,2
+2025,11,Samoa,Salelologa,Cargo,7
+2025,11,Solomon Islands,Gizo Harbor,Cargo,2
+2025,11,Solomon Islands,Gizo Harbor,Passenger,4
+2025,11,Solomon Islands,Honiara,Cargo,31
+2025,11,Solomon Islands,Honiara,Fishing,13
+2025,11,Solomon Islands,Honiara,Passenger,12
+2025,11,Solomon Islands,Honiara,Tanker,4
+2025,11,Solomon Islands,Lughughi Port,Cargo,2
+2025,11,Solomon Islands,Mbulo,Cargo,2
+2025,11,Solomon Islands,Port Noro,Cargo,11
+2025,11,Solomon Islands,Port Noro,Fishing,20
+2025,11,Solomon Islands,Port Noro,Passenger,5
+2025,11,Solomon Islands,Port Noro,Tanker,2
+2025,11,Solomon Islands,Seghe,Cargo,2
+2025,11,Solomon Islands,Seghe,Passenger,2
+2025,11,Tonga,Neiafu,Cargo,6
+2025,11,Tonga,Neiafu,Fishing,1
+2025,11,Tonga,Neiafu,Passenger,2
+2025,11,Tonga,Nuku Alofa,Cargo,13
+2025,11,Tonga,Nuku Alofa,Fishing,3
+2025,11,Tonga,Nuku Alofa,Passenger,8
+2025,11,Tonga,Nuku Alofa,Tanker,3
+2025,11,Tonga,Pangai,Cargo,8
+2025,11,Tonga,Pangai,Passenger,5
+2025,11,Tuvalu,Funafuti Atoll,Cargo,12
+2025,11,Vanuatu,Luganville,Cargo,10
+2025,11,Vanuatu,Luganville,Fishing,2
+2025,11,Vanuatu,Luganville,Passenger,7
+2025,11,Vanuatu,Port Vila,Cargo,17
+2025,11,Vanuatu,Port Vila,Fishing,7
+2025,11,Vanuatu,Port Vila,Passenger,17
+2025,11,Vanuatu,Port Vila,Tanker,1

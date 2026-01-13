@@ -1,0 +1,37 @@
+"Country", "Category", "Current", "Past"
+"Fiji", "Cargo", 	0.15,	0.1
+"Kiribati", "Cargo",	0.25,	0.14
+"Marshall Islands", "Cargo",	0.41,	0.11
+"Micronesia", "Cargo",	0.39,	0.16
+"Nauru", "Cargo",	0.16,	0.22
+"Palau", "Cargo",	0.55,	0.35
+"Papua New Guinea", "Cargo",	0.28,	0.08
+"Samoa", "Cargo",	0.24,	0.12
+"Solomon Islands", "Cargo",	0.09,	0.05
+"Tonga", "Cargo",	0.25,	0.38
+"Tuvalu", "Cargo",	0.55,	0.18
+"Vanuatu", "Cargo",	0.31,	0.14
+"Fiji", "Fishing", 0.2, 0.1
+"Kiribati", "Fishing", 0.33, 0.2
+"Marshall Islands", "Fishing", 0.35, 0.27
+"Micronesia", "Fishing", 0.21, 0.05
+"Nauru", "Fishing",		,
+"Palau", "Fishing", 1, 0.25
+"Papua New Guinea", "Fishing", 0.5, 0.05
+"Samoa", "Fishing",		0.09,
+"Solomon Islands", "Fishing", 0.4, 0.05
+"Tonga", "Fishing",		0.41
+"Tuvalu", "Fishing",	0.28,	0.18
+"Vanuatu", "Fishing",	1,	0.4
+"Fiji", "Passenger", 0.2, 0.4
+"Kiribati", "Passenger",		1,
+"Marshall Islands", "Passenger",		1,
+"Micronesia", "Passenger",	0.7,	0.35
+"Nauru", "Passenger",		,
+"Palau", "Passenger",		0.38
+"Papua New Guinea", "Passenger",	0.18,	0.22
+"Samoa", "Passenger",	0.18,	0.55
+"Solomon Islands", "Passenger",	0.38,	0.25
+"Tonga", "Passenger",	0.25,	0.85
+"Tuvalu", "Passenger",		,
+"Vanuatu", "Passenger",		0.3,

@@ -1,4 +1,4 @@
-﻿year,month,Country,Black Carbon,Sulfur Oxide,Carbon Dioxide,Nitrogen Oxide,Particulate Matter 2.5,Particulate Matter 10,Non-Methan Volatile Organic Compounds,Nitrous Oxide,Carbon Monoxide,Methane
+﻿year,month,Country,BC,SOX,CO2,NOx,PM2.5,PM10,NMVOC,N2O,CO,CH4
 2009,1,Cook Islands,0.62,120.48,7746.41,432.69,19.41,21.09,16.32,0.81,7.86,0.26
 2009,1,Fiji,0.85,144.33,9519.95,480.14,22.69,24.66,18.89,0.96,9.36,0.31
 2009,1,Kiribati,1.19,168.37,12409.32,667.41,27.89,30.32,25.88,1.29,12.29,0.42

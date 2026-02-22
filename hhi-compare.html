@@ -53,7 +53,7 @@
 <body>
   <div id="titleRow" style="margin-bottom: 10px;">
     <h2>HHI by Country</h2>
-    <p class="subtitle" id="subtitle">2009 vs 2025 Average (Jan - Nov)</p>
+    <p class="subtitle" id="subtitle">HHI, Yearly</p>
   </div>
 
   <select id="categorySelect">
@@ -216,7 +216,7 @@
         });
 
       // Update subtitle
-      document.getElementById('subtitle').textContent = selectedPast + ' vs ' + selectedCurrent;
+      // document.getElementById('subtitle').textContent = 'Yearly HHI: '+selectedPast + ' vs ' + selectedCurrent;
 
       // Sort by current value descending (highest to lowest), handle NaN values
       subset.sort(function(a, b) { 

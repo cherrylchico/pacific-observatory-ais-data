@@ -1,0 +1,5034 @@
+year,month,Gear Type,Country,hours
+2012,1,Drifting longlines,Kiribati,6112
+2012,1,Drifting longlines,Marshall Islands,1093
+2012,1,Drifting longlines,Micronesia,217
+2012,1,Others,Kiribati,786
+2012,1,Others,Marshall Islands,650
+2012,1,Others,Micronesia,371
+2012,1,Others,Solomon Islands,4
+2012,1,Others,Tokelau,5
+2012,1,Others,Tuvalu,9
+2012,1,Set longlines,Kiribati,1032
+2012,1,Tuna purse seines,Kiribati,2629
+2012,1,Tuna purse seines,Marshall Islands,142
+2012,1,Tuna purse seines,Micronesia,32
+2012,1,Tuna purse seines,Nauru,118
+2012,1,Tuna purse seines,Papua New Guinea,645
+2012,1,Tuna purse seines,Samoa,4
+2012,1,Tuna purse seines,Solomon Islands,387
+2012,1,Tuna purse seines,Tokelau,29
+2012,1,Tuna purse seines,Tuvalu,77
+2012,2,Drifting longlines,Kiribati,7889
+2012,2,Drifting longlines,Marshall Islands,547
+2012,2,Drifting longlines,Micronesia,323
+2012,2,Drifting longlines,Papua New Guinea,198
+2012,2,Drifting longlines,Solomon Islands,388
+2012,2,Drifting longlines,Tuvalu,12
+2012,2,Others,Kiribati,627
+2012,2,Others,Marshall Islands,48
+2012,2,Others,Micronesia,509
+2012,2,Others,Papua New Guinea,108
+2012,2,Others,Solomon Islands,32
+2012,2,Others,Tuvalu,30
+2012,2,Others,Vanuatu,13
+2012,2,Set longlines,Kiribati,1614
+2012,2,Tuna purse seines,Kiribati,1715
+2012,2,Tuna purse seines,Marshall Islands,36
+2012,2,Tuna purse seines,Micronesia,696
+2012,2,Tuna purse seines,Nauru,344
+2012,2,Tuna purse seines,Papua New Guinea,2188
+2012,2,Tuna purse seines,Solomon Islands,313
+2012,2,Tuna purse seines,Tokelau,269
+2012,2,Tuna purse seines,Tuvalu,185
+2012,3,Drifting longlines,Kiribati,7907
+2012,3,Drifting longlines,Marshall Islands,263
+2012,3,Drifting longlines,Micronesia,98
+2012,3,Drifting longlines,Papua New Guinea,36
+2012,3,Drifting longlines,Solomon Islands,265
+2012,3,Drifting longlines,Tuvalu,701
+2012,3,Others,Kiribati,17
+2012,3,Others,Micronesia,212
+2012,3,Others,Papua New Guinea,3
+2012,3,Others,Solomon Islands,236
+2012,3,Set longlines,Kiribati,782
+2012,3,Set longlines,Solomon Islands,25
+2012,3,Tuna purse seines,Kiribati,193
+2012,3,Tuna purse seines,Marshall Islands,104
+2012,3,Tuna purse seines,Micronesia,330
+2012,3,Tuna purse seines,Nauru,266
+2012,3,Tuna purse seines,Papua New Guinea,544
+2012,3,Tuna purse seines,Solomon Islands,249
+2012,3,Tuna purse seines,Tokelau,128
+2012,3,Tuna purse seines,Tuvalu,38
+2012,4,Drifting longlines,Kiribati,19938
+2012,4,Drifting longlines,Marshall Islands,656
+2012,4,Drifting longlines,Papua New Guinea,10
+2012,4,Drifting longlines,Solomon Islands,730
+2012,4,Drifting longlines,Tuvalu,1272
+2012,4,Others,Kiribati,68
+2012,4,Others,Marshall Islands,6
+2012,4,Others,Micronesia,629
+2012,4,Others,Solomon Islands,465
+2012,4,Set longlines,Kiribati,1086
+2012,4,Set longlines,Solomon Islands,238
+2012,4,Set longlines,Tuvalu,465
+2012,4,Tuna purse seines,Kiribati,791
+2012,4,Tuna purse seines,Marshall Islands,19
+2012,4,Tuna purse seines,Micronesia,65
+2012,4,Tuna purse seines,Nauru,362
+2012,4,Tuna purse seines,Papua New Guinea,184
+2012,4,Tuna purse seines,Solomon Islands,379
+2012,4,Tuna purse seines,Tokelau,7
+2012,4,Tuna purse seines,Tuvalu,154
+2012,5,Drifting longlines,Kiribati,24176
+2012,5,Drifting longlines,Marshall Islands,206
+2012,5,Drifting longlines,Solomon Islands,3002
+2012,5,Drifting longlines,Tuvalu,2424
+2012,5,Others,Kiribati,512
+2012,5,Others,Micronesia,301
+2012,5,Others,Papua New Guinea,11
+2012,5,Others,Solomon Islands,636
+2012,5,Set longlines,Kiribati,1627
+2012,5,Set longlines,Tuvalu,931
+2012,5,Tuna purse seines,Kiribati,523
+2012,5,Tuna purse seines,Marshall Islands,15
+2012,5,Tuna purse seines,Micronesia,81
+2012,5,Tuna purse seines,Papua New Guinea,63
+2012,5,Tuna purse seines,Solomon Islands,152
+2012,5,Tuna purse seines,Tokelau,4
+2012,5,Tuna purse seines,Tuvalu,113
+2012,6,Drifting longlines,Kiribati,13166
+2012,6,Drifting longlines,Marshall Islands,144
+2012,6,Drifting longlines,Solomon Islands,5157
+2012,6,Drifting longlines,Tuvalu,3766
+2012,6,Others,Kiribati,374
+2012,6,Others,Micronesia,279
+2012,6,Others,Papua New Guinea,3
+2012,6,Others,Solomon Islands,638
+2012,6,Others,Tuvalu,64
+2012,6,Set longlines,Kiribati,1649
+2012,6,Set longlines,Solomon Islands,320
+2012,6,Set longlines,Tuvalu,452
+2012,6,Tuna purse seines,Kiribati,474
+2012,6,Tuna purse seines,Micronesia,2
+2012,6,Tuna purse seines,Nauru,2
+2012,6,Tuna purse seines,Papua New Guinea,14
+2012,6,Tuna purse seines,Tokelau,4
+2012,6,Tuna purse seines,Tuvalu,6
+2012,7,Drifting longlines,Kiribati,19505
+2012,7,Drifting longlines,Marshall Islands,554
+2012,7,Drifting longlines,Nauru,715
+2012,7,Drifting longlines,Papua New Guinea,2
+2012,7,Drifting longlines,Solomon Islands,5731
+2012,7,Drifting longlines,Tuvalu,2280
+2012,7,Others,Kiribati,423
+2012,7,Others,Marshall Islands,2
+2012,7,Others,Solomon Islands,696
+2012,7,Others,Tuvalu,159
+2012,7,Set longlines,Kiribati,2630
+2012,7,Set longlines,Solomon Islands,167
+2012,7,Set longlines,Tuvalu,810
+2012,7,Tuna purse seines,Kiribati,36
+2012,7,Tuna purse seines,Marshall Islands,76
+2012,7,Tuna purse seines,Micronesia,19
+2012,7,Tuna purse seines,Papua New Guinea,5
+2012,7,Tuna purse seines,Tuvalu,14
+2012,8,Drifting longlines,Kiribati,18019
+2012,8,Drifting longlines,Micronesia,61
+2012,8,Drifting longlines,Nauru,691
+2012,8,Drifting longlines,Solomon Islands,2270
+2012,8,Drifting longlines,Tuvalu,1309
+2012,8,Others,Kiribati,350
+2012,8,Others,Nauru,507
+2012,8,Others,Papua New Guinea,17
+2012,8,Others,Solomon Islands,509
+2012,8,Others,Tuvalu,171
+2012,8,Set longlines,Kiribati,2126
+2012,8,Set longlines,Solomon Islands,215
+2012,8,Set longlines,Tuvalu,916
+2012,8,Tuna purse seines,Kiribati,237
+2012,8,Tuna purse seines,Marshall Islands,37
+2012,8,Tuna purse seines,Micronesia,15
+2012,8,Tuna purse seines,Papua New Guinea,26
+2012,9,Drifting longlines,Kiribati,14225
+2012,9,Drifting longlines,Nauru,386
+2012,9,Drifting longlines,Solomon Islands,1008
+2012,9,Drifting longlines,Tokelau,609
+2012,9,Drifting longlines,Tuvalu,667
+2012,9,Others,Kiribati,317
+2012,9,Others,Nauru,506
+2012,9,Set longlines,Kiribati,2386
+2012,9,Set longlines,Tokelau,1102
+2012,9,Set longlines,Tuvalu,540
+2012,9,Tuna purse seines,Kiribati,219
+2012,9,Tuna purse seines,Micronesia,78
+2012,9,Tuna purse seines,Papua New Guinea,16
+2012,9,Tuna purse seines,Tokelau,18
+2012,9,Tuna purse seines,Tuvalu,33
+2012,10,Drifting longlines,Kiribati,21373
+2012,10,Drifting longlines,Marshall Islands,309
+2012,10,Drifting longlines,Micronesia,283
+2012,10,Drifting longlines,Solomon Islands,1488
+2012,10,Drifting longlines,Tokelau,256
+2012,10,Drifting longlines,Tuvalu,610
+2012,10,Others,Kiribati,887
+2012,10,Others,Micronesia,13
+2012,10,Others,Nauru,130
+2012,10,Set longlines,Kiribati,3316
+2012,10,Set longlines,Solomon Islands,16
+2012,10,Set longlines,Tokelau,873
+2012,10,Tuna purse seines,Kiribati,646
+2012,10,Tuna purse seines,Micronesia,18
+2012,10,Tuna purse seines,Nauru,6
+2012,10,Tuna purse seines,Papua New Guinea,26
+2012,10,Tuna purse seines,Tuvalu,121
+2012,11,Drifting longlines,Kiribati,19486
+2012,11,Drifting longlines,Marshall Islands,418
+2012,11,Drifting longlines,Micronesia,349
+2012,11,Drifting longlines,Solomon Islands,413
+2012,11,Drifting longlines,Tuvalu,664
+2012,11,Others,Kiribati,691
+2012,11,Others,Marshall Islands,197
+2012,11,Others,Micronesia,95
+2012,11,Others,Palau,40
+2012,11,Others,Solomon Islands,83
+2012,11,Set longlines,Kiribati,3815
+2012,11,Set longlines,Solomon Islands,307
+2012,11,Set longlines,Tokelau,496
+2012,11,Set longlines,Tuvalu,138
+2012,11,Tuna purse seines,Kiribati,1080
+2012,11,Tuna purse seines,Marshall Islands,38
+2012,11,Tuna purse seines,Micronesia,14
+2012,11,Tuna purse seines,Nauru,108
+2012,11,Tuna purse seines,Papua New Guinea,38
+2012,11,Tuna purse seines,Tuvalu,222
+2012,12,Drifting longlines,Kiribati,9949
+2012,12,Drifting longlines,Marshall Islands,122
+2012,12,Drifting longlines,Micronesia,367
+2012,12,Drifting longlines,Solomon Islands,466
+2012,12,Drifting longlines,Tonga,181
+2012,12,Drifting longlines,Tuvalu,818
+2012,12,Others,Kiribati,693
+2012,12,Others,Marshall Islands,150
+2012,12,Others,Micronesia,33
+2012,12,Set longlines,Fiji,24
+2012,12,Set longlines,Kiribati,2273
+2012,12,Set longlines,Solomon Islands,24
+2012,12,Set longlines,Tuvalu,519
+2012,12,Tuna purse seines,Kiribati,964
+2012,12,Tuna purse seines,Marshall Islands,4
+2012,12,Tuna purse seines,Micronesia,21
+2012,12,Tuna purse seines,Nauru,422
+2012,12,Tuna purse seines,Papua New Guinea,289
+2012,12,Tuna purse seines,Solomon Islands,135
+2012,12,Tuna purse seines,Tuvalu,17
+2013,1,Drifting longlines,Fiji,8
+2013,1,Drifting longlines,Kiribati,6174
+2013,1,Drifting longlines,Marshall Islands,30
+2013,1,Drifting longlines,Micronesia,239
+2013,1,Drifting longlines,Papua New Guinea,4
+2013,1,Drifting longlines,Solomon Islands,611
+2013,1,Drifting longlines,Tonga,340
+2013,1,Others,Kiribati,117
+2013,1,Others,Marshall Islands,150
+2013,1,Others,Micronesia,53
+2013,1,Others,Solomon Islands,43
+2013,1,Set longlines,Kiribati,1996
+2013,1,Set longlines,Solomon Islands,186
+2013,1,Tuna purse seines,Kiribati,815
+2013,1,Tuna purse seines,Marshall Islands,42
+2013,1,Tuna purse seines,Micronesia,70
+2013,1,Tuna purse seines,Nauru,660
+2013,1,Tuna purse seines,Papua New Guinea,977
+2013,1,Tuna purse seines,Solomon Islands,483
+2013,1,Tuna purse seines,Tuvalu,33
+2013,2,Drifting longlines,Kiribati,4294
+2013,2,Drifting longlines,Marshall Islands,61
+2013,2,Drifting longlines,Micronesia,270
+2013,2,Drifting longlines,Papua New Guinea,7
+2013,2,Drifting longlines,Solomon Islands,496
+2013,2,Drifting longlines,Tonga,638
+2013,2,Others,Kiribati,142
+2013,2,Others,Marshall Islands,148
+2013,2,Others,Micronesia,177
+2013,2,Others,Nauru,133
+2013,2,Others,Solomon Islands,4
+2013,2,Others,Tuvalu,62
+2013,2,Set longlines,Fiji,20
+2013,2,Set longlines,Kiribati,895
+2013,2,Set longlines,Solomon Islands,118
+2013,2,Tuna purse seines,Kiribati,714
+2013,2,Tuna purse seines,Marshall Islands,30
+2013,2,Tuna purse seines,Micronesia,44
+2013,2,Tuna purse seines,Nauru,483
+2013,2,Tuna purse seines,Papua New Guinea,371
+2013,2,Tuna purse seines,Solomon Islands,134
+2013,3,Drifting longlines,Kiribati,10847
+2013,3,Drifting longlines,Marshall Islands,119
+2013,3,Drifting longlines,Micronesia,605
+2013,3,Drifting longlines,Solomon Islands,975
+2013,3,Drifting longlines,Tonga,441
+2013,3,Others,Kiribati,102
+2013,3,Others,Marshall Islands,82
+2013,3,Others,Micronesia,139
+2013,3,Others,Papua New Guinea,4
+2013,3,Others,Solomon Islands,9
+2013,3,Set longlines,Fiji,11
+2013,3,Set longlines,Kiribati,1343
+2013,3,Set longlines,Solomon Islands,102
+2013,3,Tuna purse seines,Kiribati,166
+2013,3,Tuna purse seines,Micronesia,558
+2013,3,Tuna purse seines,Papua New Guinea,717
+2013,3,Tuna purse seines,Solomon Islands,172
+2013,4,Drifting longlines,Kiribati,11478
+2013,4,Drifting longlines,Marshall Islands,359
+2013,4,Drifting longlines,Micronesia,525
+2013,4,Drifting longlines,Papua New Guinea,42
+2013,4,Drifting longlines,Solomon Islands,1960
+2013,4,Drifting longlines,Tuvalu,251
+2013,4,Others,Kiribati,327
+2013,4,Others,Micronesia,879
+2013,4,Set longlines,Kiribati,799
+2013,4,Set longlines,Solomon Islands,916
+2013,4,Tuna purse seines,Kiribati,141
+2013,4,Tuna purse seines,Marshall Islands,19
+2013,4,Tuna purse seines,Micronesia,322
+2013,4,Tuna purse seines,Papua New Guinea,307
+2013,4,Tuna purse seines,Solomon Islands,62
+2013,5,Drifting longlines,Kiribati,4000
+2013,5,Drifting longlines,Micronesia,807
+2013,5,Drifting longlines,Nauru,77
+2013,5,Drifting longlines,Papua New Guinea,1
+2013,5,Drifting longlines,Solomon Islands,4997
+2013,5,Drifting longlines,Tonga,17
+2013,5,Drifting longlines,Tuvalu,1481
+2013,5,Others,Micronesia,9
+2013,5,Others,Papua New Guinea,78
+2013,5,Others,Solomon Islands,201
+2013,5,Set longlines,Kiribati,30
+2013,5,Set longlines,Solomon Islands,1540
+2013,5,Tuna purse seines,Kiribati,178
+2013,5,Tuna purse seines,Marshall Islands,45
+2013,5,Tuna purse seines,Micronesia,13
+2013,5,Tuna purse seines,Nauru,142
+2013,5,Tuna purse seines,Papua New Guinea,1109
+2013,5,Tuna purse seines,Solomon Islands,61
+2013,6,Drifting longlines,Kiribati,7738
+2013,6,Drifting longlines,Micronesia,837
+2013,6,Drifting longlines,Nauru,293
+2013,6,Drifting longlines,Papua New Guinea,28
+2013,6,Drifting longlines,Solomon Islands,9067
+2013,6,Drifting longlines,Tuvalu,2785
+2013,6,Others,Kiribati,299
+2013,6,Others,Solomon Islands,565
+2013,6,Set longlines,Kiribati,377
+2013,6,Set longlines,Solomon Islands,2493
+2013,6,Set longlines,Tuvalu,62
+2013,6,Tuna purse seines,Kiribati,295
+2013,6,Tuna purse seines,Marshall Islands,4
+2013,6,Tuna purse seines,Micronesia,43
+2013,6,Tuna purse seines,Nauru,32
+2013,6,Tuna purse seines,Papua New Guinea,47
+2013,6,Tuna purse seines,Solomon Islands,27
+2013,6,Tuna purse seines,Tuvalu,30
+2013,7,Drifting longlines,Fiji,485
+2013,7,Drifting longlines,Kiribati,14512
+2013,7,Drifting longlines,Micronesia,1826
+2013,7,Drifting longlines,Solomon Islands,10579
+2013,7,Drifting longlines,Tokelau,0
+2013,7,Drifting longlines,Tuvalu,1901
+2013,7,Others,Kiribati,1266
+2013,7,Others,Solomon Islands,37
+2013,7,Set longlines,Kiribati,1277
+2013,7,Set longlines,Solomon Islands,1774
+2013,7,Set longlines,Tuvalu,213
+2013,7,Tuna purse seines,Kiribati,94
+2013,7,Tuna purse seines,Marshall Islands,7
+2013,7,Tuna purse seines,Micronesia,3
+2013,7,Tuna purse seines,Nauru,9
+2013,7,Tuna purse seines,Papua New Guinea,99
+2013,7,Tuna purse seines,Tuvalu,41
+2013,8,Drifting longlines,Fiji,491
+2013,8,Drifting longlines,Kiribati,14394
+2013,8,Drifting longlines,Micronesia,465
+2013,8,Drifting longlines,Solomon Islands,7982
+2013,8,Drifting longlines,Tuvalu,198
+2013,8,Others,Kiribati,1444
+2013,8,Others,Papua New Guinea,5
+2013,8,Set longlines,Kiribati,1425
+2013,8,Set longlines,Solomon Islands,1264
+2013,8,Set longlines,Tuvalu,154
+2013,8,Tuna purse seines,Kiribati,163
+2013,8,Tuna purse seines,Marshall Islands,22
+2013,8,Tuna purse seines,Micronesia,23
+2013,8,Tuna purse seines,Nauru,1
+2013,8,Tuna purse seines,Papua New Guinea,39
+2013,8,Tuna purse seines,Solomon Islands,4
+2013,9,Drifting longlines,Fiji,790
+2013,9,Drifting longlines,Kiribati,18602
+2013,9,Drifting longlines,Micronesia,260
+2013,9,Drifting longlines,Solomon Islands,6176
+2013,9,Drifting longlines,Tuvalu,76
+2013,9,Others,Kiribati,1300
+2013,9,Others,Papua New Guinea,39
+2013,9,Set longlines,Fiji,440
+2013,9,Set longlines,Kiribati,1723
+2013,9,Set longlines,Solomon Islands,1503
+2013,9,Set longlines,Tuvalu,375
+2013,9,Tuna purse seines,Kiribati,83
+2013,9,Tuna purse seines,Marshall Islands,61
+2013,9,Tuna purse seines,Micronesia,33
+2013,9,Tuna purse seines,Nauru,56
+2013,9,Tuna purse seines,Papua New Guinea,51
+2013,9,Tuna purse seines,Tuvalu,23
+2013,10,Drifting longlines,Fiji,619
+2013,10,Drifting longlines,Kiribati,25125
+2013,10,Drifting longlines,Micronesia,217
+2013,10,Drifting longlines,Solomon Islands,1480
+2013,10,Drifting longlines,Tuvalu,513
+2013,10,Others,Kiribati,1431
+2013,10,Others,Marshall Islands,13
+2013,10,Others,Nauru,11
+2013,10,Others,Papua New Guinea,14
+2013,10,Others,Tuvalu,93
+2013,10,Set longlines,Fiji,277
+2013,10,Set longlines,Kiribati,2337
+2013,10,Set longlines,Solomon Islands,209
+2013,10,Tuna purse seines,Kiribati,414
+2013,10,Tuna purse seines,Marshall Islands,105
+2013,10,Tuna purse seines,Micronesia,27
+2013,10,Tuna purse seines,Nauru,94
+2013,10,Tuna purse seines,Papua New Guinea,51
+2013,10,Tuna purse seines,Solomon Islands,22
+2013,10,Tuna purse seines,Tokelau,29
+2013,10,Tuna purse seines,Tuvalu,41
+2013,11,Drifting longlines,Fiji,453
+2013,11,Drifting longlines,Kiribati,19220
+2013,11,Drifting longlines,Micronesia,408
+2013,11,Drifting longlines,Papua New Guinea,24
+2013,11,Drifting longlines,Solomon Islands,3077
+2013,11,Drifting longlines,Tuvalu,210
+2013,11,Others,Kiribati,989
+2013,11,Others,Micronesia,26
+2013,11,Others,Nauru,36
+2013,11,Set longlines,Fiji,485
+2013,11,Set longlines,Kiribati,1750
+2013,11,Set longlines,Solomon Islands,49
+2013,11,Tuna purse seines,Kiribati,473
+2013,11,Tuna purse seines,Marshall Islands,44
+2013,11,Tuna purse seines,Micronesia,9
+2013,11,Tuna purse seines,Nauru,335
+2013,11,Tuna purse seines,Papua New Guinea,176
+2013,11,Tuna purse seines,Solomon Islands,360
+2013,11,Tuna purse seines,Tokelau,79
+2013,11,Tuna purse seines,Tuvalu,263
+2013,12,Drifting longlines,Fiji,457
+2013,12,Drifting longlines,Kiribati,12494
+2013,12,Drifting longlines,Micronesia,543
+2013,12,Drifting longlines,Papua New Guinea,16
+2013,12,Drifting longlines,Solomon Islands,1500
+2013,12,Others,Kiribati,1124
+2013,12,Others,Marshall Islands,44
+2013,12,Others,Micronesia,45
+2013,12,Others,Nauru,74
+2013,12,Others,Papua New Guinea,42
+2013,12,Others,Samoa,18
+2013,12,Others,Solomon Islands,3
+2013,12,Others,Tuvalu,67
+2013,12,Set longlines,Fiji,445
+2013,12,Set longlines,Kiribati,915
+2013,12,Set longlines,Solomon Islands,286
+2013,12,Tuna purse seines,Kiribati,881
+2013,12,Tuna purse seines,Marshall Islands,73
+2013,12,Tuna purse seines,Nauru,417
+2013,12,Tuna purse seines,Papua New Guinea,381
+2013,12,Tuna purse seines,Samoa,4
+2013,12,Tuna purse seines,Solomon Islands,135
+2013,12,Tuna purse seines,Tokelau,133
+2013,12,Tuna purse seines,Tuvalu,336
+2014,1,Drifting longlines,Fiji,454
+2014,1,Drifting longlines,Kiribati,13104
+2014,1,Drifting longlines,Marshall Islands,8
+2014,1,Drifting longlines,Micronesia,421
+2014,1,Drifting longlines,Papua New Guinea,4
+2014,1,Drifting longlines,Solomon Islands,620
+2014,1,Others,Kiribati,904
+2014,1,Others,Marshall Islands,12
+2014,1,Others,Micronesia,3
+2014,1,Others,Papua New Guinea,104
+2014,1,Others,Tuvalu,351
+2014,1,Set longlines,Kiribati,780
+2014,1,Set longlines,Tuvalu,35
+2014,1,Tuna purse seines,Kiribati,823
+2014,1,Tuna purse seines,Marshall Islands,177
+2014,1,Tuna purse seines,Micronesia,56
+2014,1,Tuna purse seines,Nauru,602
+2014,1,Tuna purse seines,Papua New Guinea,416
+2014,1,Tuna purse seines,Solomon Islands,186
+2014,1,Tuna purse seines,Tokelau,79
+2014,1,Tuna purse seines,Tuvalu,385
+2014,2,Drifting longlines,Fiji,202
+2014,2,Drifting longlines,Kiribati,13127
+2014,2,Drifting longlines,Marshall Islands,146
+2014,2,Drifting longlines,Micronesia,434
+2014,2,Drifting longlines,Solomon Islands,1275
+2014,2,Drifting longlines,Tuvalu,59
+2014,2,Others,Kiribati,211
+2014,2,Others,Marshall Islands,172
+2014,2,Others,Micronesia,83
+2014,2,Others,Nauru,62
+2014,2,Others,Solomon Islands,91
+2014,2,Others,Tuvalu,59
+2014,2,Set longlines,Kiribati,1364
+2014,2,Set longlines,Solomon Islands,75
+2014,2,Tuna purse seines,Kiribati,1323
+2014,2,Tuna purse seines,Marshall Islands,347
+2014,2,Tuna purse seines,Micronesia,45
+2014,2,Tuna purse seines,Nauru,240
+2014,2,Tuna purse seines,Papua New Guinea,229
+2014,2,Tuna purse seines,Solomon Islands,110
+2014,2,Tuna purse seines,Tokelau,137
+2014,2,Tuna purse seines,Tuvalu,191
+2014,3,Drifting longlines,Fiji,253
+2014,3,Drifting longlines,Kiribati,13621
+2014,3,Drifting longlines,Marshall Islands,83
+2014,3,Drifting longlines,Micronesia,401
+2014,3,Drifting longlines,Solomon Islands,202
+2014,3,Drifting longlines,Tuvalu,10
+2014,3,Others,Kiribati,185
+2014,3,Others,Marshall Islands,90
+2014,3,Others,Papua New Guinea,17
+2014,3,Others,Tuvalu,71
+2014,3,Set longlines,Kiribati,1384
+2014,3,Tuna purse seines,Kiribati,1397
+2014,3,Tuna purse seines,Marshall Islands,77
+2014,3,Tuna purse seines,Micronesia,42
+2014,3,Tuna purse seines,Nauru,167
+2014,3,Tuna purse seines,Papua New Guinea,258
+2014,3,Tuna purse seines,Solomon Islands,46
+2014,4,Drifting longlines,Fiji,311
+2014,4,Drifting longlines,Kiribati,14583
+2014,4,Drifting longlines,Micronesia,959
+2014,4,Drifting longlines,Papua New Guinea,24
+2014,4,Drifting longlines,Solomon Islands,2362
+2014,4,Others,Kiribati,254
+2014,4,Others,Marshall Islands,52
+2014,4,Others,Micronesia,9
+2014,4,Set longlines,Kiribati,1189
+2014,4,Tuna purse seines,Kiribati,716
+2014,4,Tuna purse seines,Marshall Islands,41
+2014,4,Tuna purse seines,Micronesia,78
+2014,4,Tuna purse seines,Nauru,58
+2014,4,Tuna purse seines,Papua New Guinea,36
+2014,4,Tuna purse seines,Solomon Islands,22
+2014,4,Tuna purse seines,Tokelau,33
+2014,4,Tuna purse seines,Tuvalu,16
+2014,5,Drifting longlines,Fiji,780
+2014,5,Drifting longlines,Kiribati,13601
+2014,5,Drifting longlines,Micronesia,1542
+2014,5,Drifting longlines,Solomon Islands,5491
+2014,5,Drifting longlines,Tuvalu,4
+2014,5,Others,Kiribati,603
+2014,5,Others,Tuvalu,51
+2014,5,Set longlines,Kiribati,1603
+2014,5,Set longlines,Solomon Islands,119
+2014,5,Tuna purse seines,Kiribati,1600
+2014,5,Tuna purse seines,Marshall Islands,205
+2014,5,Tuna purse seines,Micronesia,12
+2014,5,Tuna purse seines,Nauru,103
+2014,5,Tuna purse seines,Tokelau,8
+2014,5,Tuna purse seines,Tuvalu,23
+2014,6,Drifting longlines,Fiji,1405
+2014,6,Drifting longlines,Kiribati,21306
+2014,6,Drifting longlines,Micronesia,1491
+2014,6,Drifting longlines,Nauru,514
+2014,6,Drifting longlines,Solomon Islands,9329
+2014,6,Drifting longlines,Tuvalu,308
+2014,6,Others,Kiribati,742
+2014,6,Others,Nauru,5
+2014,6,Others,Tuvalu,22
+2014,6,Set longlines,Kiribati,3347
+2014,6,Set longlines,Solomon Islands,557
+2014,6,Set longlines,Tuvalu,274
+2014,6,Tuna purse seines,Kiribati,1142
+2014,6,Tuna purse seines,Marshall Islands,18
+2014,6,Tuna purse seines,Micronesia,64
+2014,6,Tuna purse seines,Nauru,34
+2014,6,Tuna purse seines,Papua New Guinea,35
+2014,6,Tuna purse seines,Tuvalu,34
+2014,7,Drifting longlines,Fiji,1528
+2014,7,Drifting longlines,Kiribati,17749
+2014,7,Drifting longlines,Micronesia,1962
+2014,7,Drifting longlines,Nauru,1409
+2014,7,Drifting longlines,Papua New Guinea,10
+2014,7,Drifting longlines,Solomon Islands,7219
+2014,7,Drifting longlines,Tuvalu,5053
+2014,7,Others,Kiribati,356
+2014,7,Others,Nauru,51
+2014,7,Set longlines,Kiribati,2696
+2014,7,Set longlines,Solomon Islands,471
+2014,7,Set longlines,Tuvalu,859
+2014,7,Tuna purse seines,Kiribati,670
+2014,7,Tuna purse seines,Marshall Islands,27
+2014,7,Tuna purse seines,Micronesia,46
+2014,7,Tuna purse seines,Nauru,24
+2014,7,Tuna purse seines,Papua New Guinea,27
+2014,8,Drifting longlines,Fiji,1596
+2014,8,Drifting longlines,Kiribati,25297
+2014,8,Drifting longlines,Micronesia,2479
+2014,8,Drifting longlines,Nauru,1575
+2014,8,Drifting longlines,Solomon Islands,4396
+2014,8,Drifting longlines,Tuvalu,1425
+2014,8,Others,Kiribati,1344
+2014,8,Others,Marshall Islands,10
+2014,8,Others,Micronesia,35
+2014,8,Others,Papua New Guinea,77
+2014,8,Others,Tuvalu,119
+2014,8,Set longlines,Fiji,361
+2014,8,Set longlines,Kiribati,3733
+2014,8,Set longlines,Solomon Islands,368
+2014,8,Set longlines,Tuvalu,374
+2014,8,Tuna purse seines,Kiribati,2997
+2014,8,Tuna purse seines,Marshall Islands,283
+2014,8,Tuna purse seines,Micronesia,733
+2014,8,Tuna purse seines,Nauru,14
+2014,8,Tuna purse seines,Papua New Guinea,259
+2014,8,Tuna purse seines,Tokelau,1
+2014,8,Tuna purse seines,Tuvalu,447
+2014,9,Drifting longlines,Fiji,1060
+2014,9,Drifting longlines,Kiribati,18000
+2014,9,Drifting longlines,Micronesia,2547
+2014,9,Drifting longlines,Nauru,276
+2014,9,Drifting longlines,Solomon Islands,4894
+2014,9,Drifting longlines,Tuvalu,1578
+2014,9,Others,Kiribati,2000
+2014,9,Others,Marshall Islands,48
+2014,9,Others,Micronesia,162
+2014,9,Others,Papua New Guinea,44
+2014,9,Others,Samoa,4
+2014,9,Others,Solomon Islands,3
+2014,9,Others,Tuvalu,176
+2014,9,Set longlines,Fiji,431
+2014,9,Set longlines,Kiribati,4217
+2014,9,Set longlines,Solomon Islands,113
+2014,9,Set longlines,Tuvalu,234
+2014,9,Tuna purse seines,Kiribati,4004
+2014,9,Tuna purse seines,Marshall Islands,869
+2014,9,Tuna purse seines,Micronesia,3421
+2014,9,Tuna purse seines,Nauru,149
+2014,9,Tuna purse seines,Papua New Guinea,1269
+2014,9,Tuna purse seines,Tokelau,27
+2014,9,Tuna purse seines,Tuvalu,302
+2014,10,Drifting longlines,Fiji,1124
+2014,10,Drifting longlines,Kiribati,11732
+2014,10,Drifting longlines,Marshall Islands,498
+2014,10,Drifting longlines,Micronesia,1750
+2014,10,Drifting longlines,Nauru,93
+2014,10,Drifting longlines,Solomon Islands,3928
+2014,10,Drifting longlines,Tuvalu,624
+2014,10,Others,Kiribati,1145
+2014,10,Others,Marshall Islands,71
+2014,10,Others,Micronesia,44
+2014,10,Others,Nauru,41
+2014,10,Others,Papua New Guinea,150
+2014,10,Others,Tuvalu,38
+2014,10,Set longlines,Fiji,369
+2014,10,Set longlines,Kiribati,1981
+2014,10,Set longlines,Solomon Islands,491
+2014,10,Tuna purse seines,Kiribati,7389
+2014,10,Tuna purse seines,Marshall Islands,181
+2014,10,Tuna purse seines,Micronesia,1047
+2014,10,Tuna purse seines,Nauru,460
+2014,10,Tuna purse seines,Papua New Guinea,1352
+2014,10,Tuna purse seines,Solomon Islands,166
+2014,10,Tuna purse seines,Tokelau,170
+2014,10,Tuna purse seines,Tuvalu,578
+2014,11,Drifting longlines,Fiji,1548
+2014,11,Drifting longlines,Kiribati,12378
+2014,11,Drifting longlines,Marshall Islands,1127
+2014,11,Drifting longlines,Micronesia,2166
+2014,11,Drifting longlines,Nauru,24
+2014,11,Drifting longlines,Solomon Islands,3060
+2014,11,Drifting longlines,Tuvalu,2
+2014,11,Others,Kiribati,1532
+2014,11,Others,Marshall Islands,991
+2014,11,Others,Micronesia,378
+2014,11,Others,Nauru,284
+2014,11,Others,Papua New Guinea,108
+2014,11,Others,Tuvalu,110
+2014,11,Set longlines,Fiji,510
+2014,11,Set longlines,Kiribati,2656
+2014,11,Set longlines,Solomon Islands,205
+2014,11,Tuna purse seines,Kiribati,6517
+2014,11,Tuna purse seines,Marshall Islands,137
+2014,11,Tuna purse seines,Micronesia,265
+2014,11,Tuna purse seines,Nauru,2281
+2014,11,Tuna purse seines,Papua New Guinea,2950
+2014,11,Tuna purse seines,Samoa,4
+2014,11,Tuna purse seines,Solomon Islands,93
+2014,11,Tuna purse seines,Tokelau,646
+2014,11,Tuna purse seines,Tuvalu,1500
+2014,12,Drifting longlines,Fiji,1365
+2014,12,Drifting longlines,Kiribati,12404
+2014,12,Drifting longlines,Marshall Islands,2165
+2014,12,Drifting longlines,Micronesia,3217
+2014,12,Drifting longlines,Solomon Islands,1391
+2014,12,Others,Kiribati,737
+2014,12,Others,Micronesia,192
+2014,12,Others,Papua New Guinea,458
+2014,12,Others,Solomon Islands,148
+2014,12,Others,Tuvalu,52
+2014,12,Set longlines,Fiji,493
+2014,12,Set longlines,Kiribati,2507
+2014,12,Set longlines,Tuvalu,31
+2014,12,Tuna purse seines,Fiji,1
+2014,12,Tuna purse seines,Kiribati,5150
+2014,12,Tuna purse seines,Marshall Islands,282
+2014,12,Tuna purse seines,Micronesia,385
+2014,12,Tuna purse seines,Nauru,3135
+2014,12,Tuna purse seines,Papua New Guinea,4458
+2014,12,Tuna purse seines,Solomon Islands,1294
+2014,12,Tuna purse seines,Tokelau,180
+2014,12,Tuna purse seines,Tuvalu,937
+2015,1,Drifting longlines,Fiji,1546
+2015,1,Drifting longlines,Kiribati,11685
+2015,1,Drifting longlines,Marshall Islands,2713
+2015,1,Drifting longlines,Micronesia,3201
+2015,1,Drifting longlines,Solomon Islands,1309
+2015,1,Drifting longlines,Tuvalu,114
+2015,1,Others,Kiribati,495
+2015,1,Others,Marshall Islands,216
+2015,1,Others,Micronesia,1645
+2015,1,Others,Nauru,355
+2015,1,Others,Papua New Guinea,211
+2015,1,Others,Solomon Islands,127
+2015,1,Others,Tuvalu,31
+2015,1,Set longlines,Fiji,418
+2015,1,Set longlines,Kiribati,900
+2015,1,Set longlines,Micronesia,68
+2015,1,Set longlines,Tuvalu,118
+2015,1,Tuna purse seines,Kiribati,5386
+2015,1,Tuna purse seines,Marshall Islands,726
+2015,1,Tuna purse seines,Micronesia,1138
+2015,1,Tuna purse seines,Nauru,2799
+2015,1,Tuna purse seines,Papua New Guinea,3041
+2015,1,Tuna purse seines,Solomon Islands,2658
+2015,1,Tuna purse seines,Tokelau,354
+2015,1,Tuna purse seines,Tuvalu,663
+2015,2,Drifting longlines,Fiji,1442
+2015,2,Drifting longlines,Kiribati,6847
+2015,2,Drifting longlines,Marshall Islands,1815
+2015,2,Drifting longlines,Micronesia,2947
+2015,2,Drifting longlines,Papua New Guinea,11
+2015,2,Drifting longlines,Solomon Islands,1080
+2015,2,Drifting longlines,Tonga,207
+2015,2,Drifting longlines,Tuvalu,542
+2015,2,Others,Kiribati,321
+2015,2,Others,Marshall Islands,46
+2015,2,Others,Micronesia,1379
+2015,2,Others,Nauru,46
+2015,2,Others,Papua New Guinea,121
+2015,2,Others,Solomon Islands,78
+2015,2,Others,Tuvalu,96
+2015,2,Set longlines,Fiji,317
+2015,2,Set longlines,Kiribati,645
+2015,2,Set longlines,Micronesia,365
+2015,2,Set longlines,Solomon Islands,70
+2015,2,Set longlines,Tuvalu,435
+2015,2,Tuna purse seines,Kiribati,7705
+2015,2,Tuna purse seines,Marshall Islands,405
+2015,2,Tuna purse seines,Micronesia,1286
+2015,2,Tuna purse seines,Nauru,1670
+2015,2,Tuna purse seines,Papua New Guinea,4046
+2015,2,Tuna purse seines,Solomon Islands,1098
+2015,2,Tuna purse seines,Tokelau,117
+2015,2,Tuna purse seines,Tuvalu,498
+2015,3,Drifting longlines,Fiji,1192
+2015,3,Drifting longlines,Kiribati,11958
+2015,3,Drifting longlines,Marshall Islands,908
+2015,3,Drifting longlines,Micronesia,2758
+2015,3,Drifting longlines,Papua New Guinea,330
+2015,3,Drifting longlines,Solomon Islands,1749
+2015,3,Drifting longlines,Tokelau,1
+2015,3,Drifting longlines,Tonga,472
+2015,3,Drifting longlines,Tuvalu,939
+2015,3,Others,Kiribati,500
+2015,3,Others,Marshall Islands,103
+2015,3,Others,Micronesia,951
+2015,3,Others,Papua New Guinea,69
+2015,3,Others,Tuvalu,52
+2015,3,Set longlines,Fiji,449
+2015,3,Set longlines,Kiribati,1177
+2015,3,Set longlines,Marshall Islands,13
+2015,3,Set longlines,Micronesia,713
+2015,3,Set longlines,Solomon Islands,838
+2015,3,Set longlines,Tuvalu,445
+2015,3,Tuna purse seines,Fiji,9
+2015,3,Tuna purse seines,Kiribati,8044
+2015,3,Tuna purse seines,Marshall Islands,188
+2015,3,Tuna purse seines,Micronesia,1968
+2015,3,Tuna purse seines,Nauru,409
+2015,3,Tuna purse seines,Palau,4
+2015,3,Tuna purse seines,Papua New Guinea,3286
+2015,3,Tuna purse seines,Solomon Islands,31
+2015,3,Tuna purse seines,Tokelau,102
+2015,3,Tuna purse seines,Tuvalu,195
+2015,4,Drifting longlines,Fiji,963
+2015,4,Drifting longlines,Kiribati,14507
+2015,4,Drifting longlines,Marshall Islands,260
+2015,4,Drifting longlines,Micronesia,1910
+2015,4,Drifting longlines,Papua New Guinea,20
+2015,4,Drifting longlines,Solomon Islands,1238
+2015,4,Drifting longlines,Tonga,494
+2015,4,Drifting longlines,Tuvalu,504
+2015,4,Others,Fiji,121
+2015,4,Others,Kiribati,471
+2015,4,Others,Marshall Islands,404
+2015,4,Others,Micronesia,345
+2015,4,Others,Papua New Guinea,1048
+2015,4,Set longlines,Fiji,376
+2015,4,Set longlines,Kiribati,2121
+2015,4,Set longlines,Marshall Islands,209
+2015,4,Set longlines,Micronesia,573
+2015,4,Set longlines,Solomon Islands,337
+2015,4,Set longlines,Tuvalu,287
+2015,4,Tuna purse seines,Kiribati,7881
+2015,4,Tuna purse seines,Marshall Islands,44
+2015,4,Tuna purse seines,Micronesia,2691
+2015,4,Tuna purse seines,Nauru,377
+2015,4,Tuna purse seines,Palau,49
+2015,4,Tuna purse seines,Papua New Guinea,3831
+2015,4,Tuna purse seines,Solomon Islands,13
+2015,4,Tuna purse seines,Tokelau,233
+2015,4,Tuna purse seines,Tuvalu,592
+2015,5,Drifting longlines,Fiji,1877
+2015,5,Drifting longlines,Kiribati,9492
+2015,5,Drifting longlines,Marshall Islands,40
+2015,5,Drifting longlines,Micronesia,1838
+2015,5,Drifting longlines,Papua New Guinea,623
+2015,5,Drifting longlines,Solomon Islands,4664
+2015,5,Drifting longlines,Tokelau,31
+2015,5,Drifting longlines,Tonga,811
+2015,5,Drifting longlines,Tuvalu,1708
+2015,5,Drifting longlines,Vanuatu,151
+2015,5,Others,Fiji,465
+2015,5,Others,Kiribati,506
+2015,5,Others,Marshall Islands,508
+2015,5,Others,Micronesia,46
+2015,5,Others,Papua New Guinea,596
+2015,5,Others,Tuvalu,14
+2015,5,Set longlines,Fiji,420
+2015,5,Set longlines,Kiribati,2911
+2015,5,Set longlines,Marshall Islands,4
+2015,5,Set longlines,Solomon Islands,295
+2015,5,Set longlines,Tuvalu,623
+2015,5,Tuna purse seines,Kiribati,9484
+2015,5,Tuna purse seines,Marshall Islands,73
+2015,5,Tuna purse seines,Micronesia,830
+2015,5,Tuna purse seines,Nauru,1402
+2015,5,Tuna purse seines,Papua New Guinea,1974
+2015,5,Tuna purse seines,Solomon Islands,257
+2015,5,Tuna purse seines,Tokelau,119
+2015,5,Tuna purse seines,Tuvalu,1771
+2015,6,Drifting longlines,Fiji,2458
+2015,6,Drifting longlines,Kiribati,11540
+2015,6,Drifting longlines,Marshall Islands,4983
+2015,6,Drifting longlines,Micronesia,2846
+2015,6,Drifting longlines,Papua New Guinea,1411
+2015,6,Drifting longlines,Solomon Islands,9573
+2015,6,Drifting longlines,Tokelau,1570
+2015,6,Drifting longlines,Tonga,549
+2015,6,Drifting longlines,Tuvalu,677
+2015,6,Drifting longlines,Vanuatu,6316
+2015,6,Others,Fiji,171
+2015,6,Others,Kiribati,1127
+2015,6,Others,Marshall Islands,559
+2015,6,Others,Micronesia,57
+2015,6,Others,Nauru,51
+2015,6,Others,Papua New Guinea,460
+2015,6,Others,Solomon Islands,79
+2015,6,Others,Tuvalu,70
+2015,6,Set longlines,Fiji,137
+2015,6,Set longlines,Kiribati,1925
+2015,6,Set longlines,Marshall Islands,238
+2015,6,Set longlines,Solomon Islands,551
+2015,6,Set longlines,Tuvalu,588
+2015,6,Tuna purse seines,Kiribati,4995
+2015,6,Tuna purse seines,Marshall Islands,824
+2015,6,Tuna purse seines,Micronesia,3827
+2015,6,Tuna purse seines,Nauru,1132
+2015,6,Tuna purse seines,Papua New Guinea,279
+2015,6,Tuna purse seines,Samoa,2
+2015,6,Tuna purse seines,Solomon Islands,2
+2015,6,Tuna purse seines,Tokelau,367
+2015,6,Tuna purse seines,Tuvalu,1174
+2015,7,Drifting longlines,Fiji,4026
+2015,7,Drifting longlines,Kiribati,17112
+2015,7,Drifting longlines,Marshall Islands,4854
+2015,7,Drifting longlines,Micronesia,1415
+2015,7,Drifting longlines,Nauru,133
+2015,7,Drifting longlines,Papua New Guinea,1193
+2015,7,Drifting longlines,Samoa,85
+2015,7,Drifting longlines,Solomon Islands,7385
+2015,7,Drifting longlines,Tokelau,3734
+2015,7,Drifting longlines,Tonga,436
+2015,7,Drifting longlines,Tuvalu,176
+2015,7,Drifting longlines,Vanuatu,1584
+2015,7,Others,Fiji,289
+2015,7,Others,Kiribati,1056
+2015,7,Others,Marshall Islands,10
+2015,7,Others,Micronesia,291
+2015,7,Others,Papua New Guinea,649
+2015,7,Others,Solomon Islands,635
+2015,7,Set longlines,Fiji,810
+2015,7,Set longlines,Kiribati,1450
+2015,7,Set longlines,Marshall Islands,281
+2015,7,Set longlines,Micronesia,67
+2015,7,Set longlines,Samoa,1
+2015,7,Set longlines,Solomon Islands,701
+2015,7,Set longlines,Tokelau,419
+2015,7,Set longlines,Tuvalu,110
+2015,7,Set longlines,Vanuatu,96
+2015,7,Tuna purse seines,Kiribati,2253
+2015,7,Tuna purse seines,Marshall Islands,939
+2015,7,Tuna purse seines,Micronesia,7112
+2015,7,Tuna purse seines,Nauru,165
+2015,7,Tuna purse seines,Papua New Guinea,223
+2015,7,Tuna purse seines,Solomon Islands,23
+2015,7,Tuna purse seines,Tokelau,283
+2015,7,Tuna purse seines,Tuvalu,55
+2015,8,Drifting longlines,Fiji,2640
+2015,8,Drifting longlines,Kiribati,20727
+2015,8,Drifting longlines,Marshall Islands,5821
+2015,8,Drifting longlines,Micronesia,3023
+2015,8,Drifting longlines,Nauru,215
+2015,8,Drifting longlines,Papua New Guinea,240
+2015,8,Drifting longlines,Samoa,606
+2015,8,Drifting longlines,Solomon Islands,6532
+2015,8,Drifting longlines,Tokelau,3303
+2015,8,Drifting longlines,Tonga,615
+2015,8,Drifting longlines,Tuvalu,437
+2015,8,Drifting longlines,Vanuatu,3431
+2015,8,Others,Fiji,427
+2015,8,Others,Kiribati,1651
+2015,8,Others,Papua New Guinea,468
+2015,8,Others,Solomon Islands,22
+2015,8,Others,Tokelau,398
+2015,8,Others,Tonga,36
+2015,8,Others,Tuvalu,73
+2015,8,Set longlines,Fiji,175
+2015,8,Set longlines,Kiribati,3607
+2015,8,Set longlines,Marshall Islands,482
+2015,8,Set longlines,Micronesia,148
+2015,8,Set longlines,Solomon Islands,601
+2015,8,Set longlines,Tokelau,553
+2015,8,Set longlines,Tuvalu,127
+2015,8,Set longlines,Vanuatu,424
+2015,8,Tuna purse seines,Kiribati,7797
+2015,8,Tuna purse seines,Marshall Islands,605
+2015,8,Tuna purse seines,Micronesia,1216
+2015,8,Tuna purse seines,Nauru,208
+2015,8,Tuna purse seines,Papua New Guinea,89
+2015,8,Tuna purse seines,Solomon Islands,378
+2015,8,Tuna purse seines,Tokelau,398
+2015,8,Tuna purse seines,Tonga,1
+2015,8,Tuna purse seines,Tuvalu,198
+2015,9,Drifting longlines,Fiji,3526
+2015,9,Drifting longlines,Kiribati,21149
+2015,9,Drifting longlines,Marshall Islands,6473
+2015,9,Drifting longlines,Micronesia,3032
+2015,9,Drifting longlines,Nauru,137
+2015,9,Drifting longlines,Papua New Guinea,366
+2015,9,Drifting longlines,Samoa,698
+2015,9,Drifting longlines,Solomon Islands,4101
+2015,9,Drifting longlines,Tokelau,3728
+2015,9,Drifting longlines,Tonga,377
+2015,9,Drifting longlines,Tuvalu,221
+2015,9,Drifting longlines,Vanuatu,4446
+2015,9,Others,Fiji,68
+2015,9,Others,Kiribati,1731
+2015,9,Others,Papua New Guinea,666
+2015,9,Others,Solomon Islands,464
+2015,9,Others,Tokelau,549
+2015,9,Set longlines,Fiji,305
+2015,9,Set longlines,Kiribati,2889
+2015,9,Set longlines,Marshall Islands,447
+2015,9,Set longlines,Micronesia,475
+2015,9,Set longlines,Samoa,3
+2015,9,Set longlines,Solomon Islands,291
+2015,9,Set longlines,Tokelau,189
+2015,9,Set longlines,Tuvalu,28
+2015,9,Set longlines,Vanuatu,719
+2015,9,Tuna purse seines,Kiribati,4257
+2015,9,Tuna purse seines,Marshall Islands,173
+2015,9,Tuna purse seines,Micronesia,7
+2015,9,Tuna purse seines,Nauru,452
+2015,9,Tuna purse seines,Papua New Guinea,166
+2015,9,Tuna purse seines,Solomon Islands,157
+2015,9,Tuna purse seines,Tokelau,630
+2015,9,Tuna purse seines,Tuvalu,382
+2015,10,Drifting longlines,Fiji,5746
+2015,10,Drifting longlines,Kiribati,28107
+2015,10,Drifting longlines,Marshall Islands,7693
+2015,10,Drifting longlines,Micronesia,3421
+2015,10,Drifting longlines,Palau,78
+2015,10,Drifting longlines,Papua New Guinea,1243
+2015,10,Drifting longlines,Samoa,402
+2015,10,Drifting longlines,Solomon Islands,6214
+2015,10,Drifting longlines,Tokelau,4040
+2015,10,Drifting longlines,Tonga,331
+2015,10,Drifting longlines,Tuvalu,355
+2015,10,Drifting longlines,Vanuatu,10456
+2015,10,Others,Fiji,28
+2015,10,Others,Kiribati,1580
+2015,10,Others,Papua New Guinea,459
+2015,10,Others,Solomon Islands,490
+2015,10,Others,Tokelau,73
+2015,10,Others,Tuvalu,1
+2015,10,Others,Vanuatu,229
+2015,10,Set longlines,Fiji,593
+2015,10,Set longlines,Kiribati,3285
+2015,10,Set longlines,Marshall Islands,257
+2015,10,Set longlines,Micronesia,257
+2015,10,Set longlines,Solomon Islands,794
+2015,10,Set longlines,Tokelau,409
+2015,10,Set longlines,Vanuatu,1099
+2015,10,Tuna purse seines,Kiribati,4449
+2015,10,Tuna purse seines,Marshall Islands,245
+2015,10,Tuna purse seines,Micronesia,308
+2015,10,Tuna purse seines,Nauru,1421
+2015,10,Tuna purse seines,Papua New Guinea,965
+2015,10,Tuna purse seines,Solomon Islands,623
+2015,10,Tuna purse seines,Tokelau,93
+2015,10,Tuna purse seines,Tuvalu,1350
+2015,11,Drifting longlines,Fiji,5810
+2015,11,Drifting longlines,Kiribati,28493
+2015,11,Drifting longlines,Marshall Islands,6566
+2015,11,Drifting longlines,Micronesia,3963
+2015,11,Drifting longlines,Papua New Guinea,1384
+2015,11,Drifting longlines,Samoa,1686
+2015,11,Drifting longlines,Solomon Islands,4289
+2015,11,Drifting longlines,Tokelau,4081
+2015,11,Drifting longlines,Tonga,380
+2015,11,Drifting longlines,Tuvalu,124
+2015,11,Drifting longlines,Vanuatu,12823
+2015,11,Others,Fiji,54
+2015,11,Others,Kiribati,1373
+2015,11,Others,Marshall Islands,7
+2015,11,Others,Micronesia,268
+2015,11,Others,Papua New Guinea,694
+2015,11,Others,Solomon Islands,351
+2015,11,Others,Tokelau,526
+2015,11,Others,Vanuatu,365
+2015,11,Set longlines,Fiji,435
+2015,11,Set longlines,Kiribati,3754
+2015,11,Set longlines,Marshall Islands,218
+2015,11,Set longlines,Micronesia,516
+2015,11,Set longlines,Samoa,21
+2015,11,Set longlines,Solomon Islands,635
+2015,11,Set longlines,Tokelau,461
+2015,11,Set longlines,Tuvalu,252
+2015,11,Set longlines,Vanuatu,1788
+2015,11,Tuna purse seines,Fiji,97
+2015,11,Tuna purse seines,Kiribati,6870
+2015,11,Tuna purse seines,Marshall Islands,19
+2015,11,Tuna purse seines,Micronesia,564
+2015,11,Tuna purse seines,Nauru,155
+2015,11,Tuna purse seines,Papua New Guinea,999
+2015,11,Tuna purse seines,Samoa,50
+2015,11,Tuna purse seines,Solomon Islands,2460
+2015,11,Tuna purse seines,Tokelau,874
+2015,11,Tuna purse seines,Tuvalu,1980
+2015,12,Drifting longlines,Fiji,6275
+2015,12,Drifting longlines,Kiribati,26255
+2015,12,Drifting longlines,Marshall Islands,7306
+2015,12,Drifting longlines,Micronesia,6287
+2015,12,Drifting longlines,Papua New Guinea,1650
+2015,12,Drifting longlines,Samoa,3103
+2015,12,Drifting longlines,Solomon Islands,5846
+2015,12,Drifting longlines,Tokelau,4034
+2015,12,Drifting longlines,Tonga,535
+2015,12,Drifting longlines,Tuvalu,25
+2015,12,Drifting longlines,Vanuatu,12519
+2015,12,Others,Kiribati,1515
+2015,12,Others,Micronesia,331
+2015,12,Others,Nauru,36
+2015,12,Others,Papua New Guinea,341
+2015,12,Others,Solomon Islands,714
+2015,12,Others,Tokelau,520
+2015,12,Others,Tuvalu,29
+2015,12,Others,Vanuatu,346
+2015,12,Set longlines,Fiji,652
+2015,12,Set longlines,Kiribati,3247
+2015,12,Set longlines,Marshall Islands,250
+2015,12,Set longlines,Micronesia,334
+2015,12,Set longlines,Solomon Islands,504
+2015,12,Set longlines,Tokelau,363
+2015,12,Set longlines,Tuvalu,192
+2015,12,Set longlines,Vanuatu,1840
+2015,12,Tuna purse seines,Fiji,67
+2015,12,Tuna purse seines,Kiribati,6453
+2015,12,Tuna purse seines,Marshall Islands,1224
+2015,12,Tuna purse seines,Micronesia,2788
+2015,12,Tuna purse seines,Nauru,1683
+2015,12,Tuna purse seines,Papua New Guinea,1
+2015,12,Tuna purse seines,Samoa,36
+2015,12,Tuna purse seines,Solomon Islands,2259
+2015,12,Tuna purse seines,Tokelau,97
+2015,12,Tuna purse seines,Tuvalu,685
+2015,12,Tuna purse seines,Vanuatu,12
+2016,1,Drifting longlines,Fiji,5688
+2016,1,Drifting longlines,Kiribati,18213
+2016,1,Drifting longlines,Marshall Islands,7464
+2016,1,Drifting longlines,Micronesia,6979
+2016,1,Drifting longlines,Papua New Guinea,4598
+2016,1,Drifting longlines,Samoa,2187
+2016,1,Drifting longlines,Solomon Islands,2848
+2016,1,Drifting longlines,Tokelau,2344
+2016,1,Drifting longlines,Tonga,448
+2016,1,Drifting longlines,Tuvalu,48
+2016,1,Drifting longlines,Vanuatu,8530
+2016,1,Others,Kiribati,781
+2016,1,Others,Marshall Islands,46
+2016,1,Others,Micronesia,907
+2016,1,Others,Nauru,4
+2016,1,Others,Papua New Guinea,561
+2016,1,Others,Solomon Islands,540
+2016,1,Others,Tokelau,189
+2016,1,Others,Tuvalu,41
+2016,1,Others,Vanuatu,60
+2016,1,Set longlines,Fiji,514
+2016,1,Set longlines,Kiribati,2062
+2016,1,Set longlines,Marshall Islands,318
+2016,1,Set longlines,Micronesia,712
+2016,1,Set longlines,Papua New Guinea,289
+2016,1,Set longlines,Solomon Islands,602
+2016,1,Set longlines,Tuvalu,49
+2016,1,Set longlines,Vanuatu,1075
+2016,1,Tuna purse seines,Kiribati,2948
+2016,1,Tuna purse seines,Marshall Islands,101
+2016,1,Tuna purse seines,Micronesia,545
+2016,1,Tuna purse seines,Nauru,3343
+2016,1,Tuna purse seines,Papua New Guinea,2165
+2016,1,Tuna purse seines,Solomon Islands,4206
+2016,1,Tuna purse seines,Tuvalu,504
+2016,2,Drifting longlines,Fiji,3880
+2016,2,Drifting longlines,Kiribati,15938
+2016,2,Drifting longlines,Marshall Islands,8165
+2016,2,Drifting longlines,Micronesia,6582
+2016,2,Drifting longlines,Papua New Guinea,5177
+2016,2,Drifting longlines,Samoa,730
+2016,2,Drifting longlines,Solomon Islands,5289
+2016,2,Drifting longlines,Tokelau,5812
+2016,2,Drifting longlines,Tonga,667
+2016,2,Drifting longlines,Tuvalu,48
+2016,2,Drifting longlines,Vanuatu,5668
+2016,2,Others,Fiji,14
+2016,2,Others,Kiribati,1035
+2016,2,Others,Marshall Islands,41
+2016,2,Others,Micronesia,1231
+2016,2,Others,Palau,1
+2016,2,Others,Papua New Guinea,642
+2016,2,Others,Solomon Islands,630
+2016,2,Others,Tokelau,589
+2016,2,Others,Tuvalu,63
+2016,2,Others,Vanuatu,395
+2016,2,Set longlines,Fiji,568
+2016,2,Set longlines,Kiribati,1064
+2016,2,Set longlines,Marshall Islands,772
+2016,2,Set longlines,Micronesia,510
+2016,2,Set longlines,Palau,138
+2016,2,Set longlines,Papua New Guinea,356
+2016,2,Set longlines,Solomon Islands,574
+2016,2,Set longlines,Tokelau,419
+2016,2,Set longlines,Vanuatu,800
+2016,2,Tuna purse seines,Fiji,3
+2016,2,Tuna purse seines,Kiribati,4947
+2016,2,Tuna purse seines,Marshall Islands,147
+2016,2,Tuna purse seines,Micronesia,1432
+2016,2,Tuna purse seines,Nauru,477
+2016,2,Tuna purse seines,Palau,28
+2016,2,Tuna purse seines,Papua New Guinea,3921
+2016,2,Tuna purse seines,Solomon Islands,3306
+2016,2,Tuna purse seines,Tokelau,2
+2016,2,Tuna purse seines,Tuvalu,854
+2016,3,Drifting longlines,Fiji,4968
+2016,3,Drifting longlines,Kiribati,16594
+2016,3,Drifting longlines,Marshall Islands,8072
+2016,3,Drifting longlines,Micronesia,4807
+2016,3,Drifting longlines,Palau,4
+2016,3,Drifting longlines,Papua New Guinea,2968
+2016,3,Drifting longlines,Samoa,678
+2016,3,Drifting longlines,Solomon Islands,6909
+2016,3,Drifting longlines,Tokelau,5897
+2016,3,Drifting longlines,Tonga,536
+2016,3,Drifting longlines,Tuvalu,13
+2016,3,Drifting longlines,Vanuatu,6909
+2016,3,Others,Kiribati,758
+2016,3,Others,Micronesia,412
+2016,3,Others,Nauru,3
+2016,3,Others,Palau,16
+2016,3,Others,Papua New Guinea,600
+2016,3,Others,Samoa,89
+2016,3,Others,Solomon Islands,497
+2016,3,Others,Tokelau,298
+2016,3,Others,Tuvalu,177
+2016,3,Set longlines,Fiji,1029
+2016,3,Set longlines,Kiribati,983
+2016,3,Set longlines,Marshall Islands,598
+2016,3,Set longlines,Micronesia,643
+2016,3,Set longlines,Papua New Guinea,193
+2016,3,Set longlines,Solomon Islands,774
+2016,3,Set longlines,Tokelau,307
+2016,3,Set longlines,Tuvalu,24
+2016,3,Set longlines,Vanuatu,532
+2016,3,Tuna purse seines,Fiji,93
+2016,3,Tuna purse seines,Kiribati,5444
+2016,3,Tuna purse seines,Marshall Islands,89
+2016,3,Tuna purse seines,Micronesia,1764
+2016,3,Tuna purse seines,Nauru,1652
+2016,3,Tuna purse seines,Papua New Guinea,3530
+2016,3,Tuna purse seines,Solomon Islands,2727
+2016,3,Tuna purse seines,Tokelau,119
+2016,3,Tuna purse seines,Tuvalu,2849
+2016,4,Drifting longlines,Fiji,3864
+2016,4,Drifting longlines,Kiribati,6674
+2016,4,Drifting longlines,Marshall Islands,6599
+2016,4,Drifting longlines,Micronesia,2803
+2016,4,Drifting longlines,Papua New Guinea,1590
+2016,4,Drifting longlines,Samoa,588
+2016,4,Drifting longlines,Solomon Islands,6424
+2016,4,Drifting longlines,Tokelau,5730
+2016,4,Drifting longlines,Tonga,612
+2016,4,Drifting longlines,Tuvalu,23
+2016,4,Drifting longlines,Vanuatu,7832
+2016,4,Others,Kiribati,557
+2016,4,Others,Marshall Islands,7
+2016,4,Others,Micronesia,801
+2016,4,Others,Nauru,150
+2016,4,Others,Papua New Guinea,195
+2016,4,Others,Samoa,189
+2016,4,Others,Solomon Islands,330
+2016,4,Others,Tokelau,362
+2016,4,Others,Tuvalu,7
+2016,4,Set longlines,Fiji,640
+2016,4,Set longlines,Kiribati,258
+2016,4,Set longlines,Marshall Islands,739
+2016,4,Set longlines,Micronesia,245
+2016,4,Set longlines,Samoa,25
+2016,4,Set longlines,Solomon Islands,834
+2016,4,Set longlines,Tokelau,200
+2016,4,Set longlines,Vanuatu,941
+2016,4,Tuna purse seines,Fiji,29
+2016,4,Tuna purse seines,Kiribati,2758
+2016,4,Tuna purse seines,Marshall Islands,295
+2016,4,Tuna purse seines,Micronesia,4109
+2016,4,Tuna purse seines,Nauru,858
+2016,4,Tuna purse seines,Papua New Guinea,8319
+2016,4,Tuna purse seines,Solomon Islands,1519
+2016,4,Tuna purse seines,Tokelau,105
+2016,4,Tuna purse seines,Tuvalu,800
+2016,5,Drifting longlines,Fiji,4898
+2016,5,Drifting longlines,Kiribati,12929
+2016,5,Drifting longlines,Marshall Islands,6755
+2016,5,Drifting longlines,Micronesia,1528
+2016,5,Drifting longlines,Papua New Guinea,2910
+2016,5,Drifting longlines,Samoa,231
+2016,5,Drifting longlines,Solomon Islands,4904
+2016,5,Drifting longlines,Tokelau,6864
+2016,5,Drifting longlines,Tonga,649
+2016,5,Drifting longlines,Tuvalu,148
+2016,5,Drifting longlines,Vanuatu,6391
+2016,5,Others,Fiji,68
+2016,5,Others,Kiribati,373
+2016,5,Others,Marshall Islands,273
+2016,5,Others,Micronesia,192
+2016,5,Others,Nauru,15
+2016,5,Others,Papua New Guinea,510
+2016,5,Others,Samoa,72
+2016,5,Others,Solomon Islands,341
+2016,5,Others,Tokelau,359
+2016,5,Set longlines,Fiji,1029
+2016,5,Set longlines,Kiribati,1031
+2016,5,Set longlines,Marshall Islands,773
+2016,5,Set longlines,Micronesia,310
+2016,5,Set longlines,Papua New Guinea,296
+2016,5,Set longlines,Solomon Islands,1089
+2016,5,Set longlines,Tokelau,475
+2016,5,Set longlines,Tuvalu,347
+2016,5,Set longlines,Vanuatu,363
+2016,5,Tuna purse seines,Kiribati,1337
+2016,5,Tuna purse seines,Marshall Islands,4782
+2016,5,Tuna purse seines,Micronesia,9687
+2016,5,Tuna purse seines,Nauru,1831
+2016,5,Tuna purse seines,Papua New Guinea,2650
+2016,5,Tuna purse seines,Solomon Islands,1054
+2016,5,Tuna purse seines,Tokelau,12
+2016,5,Tuna purse seines,Tuvalu,51
+2016,6,Drifting longlines,Fiji,6097
+2016,6,Drifting longlines,Kiribati,17279
+2016,6,Drifting longlines,Marshall Islands,5909
+2016,6,Drifting longlines,Micronesia,1554
+2016,6,Drifting longlines,Palau,299
+2016,6,Drifting longlines,Papua New Guinea,7187
+2016,6,Drifting longlines,Samoa,1043
+2016,6,Drifting longlines,Solomon Islands,6607
+2016,6,Drifting longlines,Tokelau,5135
+2016,6,Drifting longlines,Tonga,605
+2016,6,Drifting longlines,Tuvalu,5641
+2016,6,Drifting longlines,Vanuatu,8911
+2016,6,Others,Fiji,237
+2016,6,Others,Kiribati,169
+2016,6,Others,Marshall Islands,483
+2016,6,Others,Micronesia,113
+2016,6,Others,Palau,50
+2016,6,Others,Papua New Guinea,804
+2016,6,Others,Samoa,27
+2016,6,Others,Solomon Islands,546
+2016,6,Others,Tokelau,455
+2016,6,Others,Vanuatu,19
+2016,6,Set longlines,Fiji,1236
+2016,6,Set longlines,Kiribati,1836
+2016,6,Set longlines,Marshall Islands,635
+2016,6,Set longlines,Micronesia,519
+2016,6,Set longlines,Palau,27
+2016,6,Set longlines,Papua New Guinea,489
+2016,6,Set longlines,Samoa,5
+2016,6,Set longlines,Solomon Islands,1381
+2016,6,Set longlines,Tokelau,491
+2016,6,Set longlines,Tuvalu,1038
+2016,6,Set longlines,Vanuatu,814
+2016,6,Tuna purse seines,Kiribati,2159
+2016,6,Tuna purse seines,Marshall Islands,3099
+2016,6,Tuna purse seines,Micronesia,5582
+2016,6,Tuna purse seines,Nauru,458
+2016,6,Tuna purse seines,Palau,261
+2016,6,Tuna purse seines,Papua New Guinea,5487
+2016,6,Tuna purse seines,Samoa,8
+2016,6,Tuna purse seines,Solomon Islands,70
+2016,6,Tuna purse seines,Tokelau,153
+2016,6,Tuna purse seines,Tuvalu,848
+2016,7,Drifting longlines,Fiji,5788
+2016,7,Drifting longlines,Kiribati,24463
+2016,7,Drifting longlines,Marshall Islands,8105
+2016,7,Drifting longlines,Micronesia,2244
+2016,7,Drifting longlines,Nauru,49
+2016,7,Drifting longlines,Palau,269
+2016,7,Drifting longlines,Papua New Guinea,7745
+2016,7,Drifting longlines,Samoa,604
+2016,7,Drifting longlines,Solomon Islands,7316
+2016,7,Drifting longlines,Tokelau,5691
+2016,7,Drifting longlines,Tonga,878
+2016,7,Drifting longlines,Tuvalu,5421
+2016,7,Drifting longlines,Vanuatu,6103
+2016,7,Others,Fiji,53
+2016,7,Others,Kiribati,894
+2016,7,Others,Papua New Guinea,744
+2016,7,Others,Samoa,37
+2016,7,Others,Solomon Islands,704
+2016,7,Others,Tokelau,465
+2016,7,Others,Tuvalu,14
+2016,7,Others,Vanuatu,78
+2016,7,Set longlines,Fiji,1335
+2016,7,Set longlines,Kiribati,3293
+2016,7,Set longlines,Marshall Islands,667
+2016,7,Set longlines,Micronesia,361
+2016,7,Set longlines,Palau,70
+2016,7,Set longlines,Papua New Guinea,487
+2016,7,Set longlines,Samoa,13
+2016,7,Set longlines,Solomon Islands,1635
+2016,7,Set longlines,Tokelau,483
+2016,7,Set longlines,Tuvalu,849
+2016,7,Set longlines,Vanuatu,656
+2016,7,Tuna purse seines,Fiji,12
+2016,7,Tuna purse seines,Kiribati,7664
+2016,7,Tuna purse seines,Marshall Islands,453
+2016,7,Tuna purse seines,Micronesia,4056
+2016,7,Tuna purse seines,Nauru,134
+2016,7,Tuna purse seines,Palau,275
+2016,7,Tuna purse seines,Papua New Guinea,2153
+2016,7,Tuna purse seines,Samoa,13
+2016,7,Tuna purse seines,Solomon Islands,2
+2016,7,Tuna purse seines,Tuvalu,233
+2016,8,Drifting longlines,Fiji,5394
+2016,8,Drifting longlines,Kiribati,21656
+2016,8,Drifting longlines,Marshall Islands,8109
+2016,8,Drifting longlines,Micronesia,2188
+2016,8,Drifting longlines,Nauru,307
+2016,8,Drifting longlines,Palau,207
+2016,8,Drifting longlines,Papua New Guinea,7121
+2016,8,Drifting longlines,Samoa,1083
+2016,8,Drifting longlines,Solomon Islands,9840
+2016,8,Drifting longlines,Tokelau,5201
+2016,8,Drifting longlines,Tonga,864
+2016,8,Drifting longlines,Tuvalu,8271
+2016,8,Drifting longlines,Vanuatu,5859
+2016,8,Others,Fiji,59
+2016,8,Others,Kiribati,1212
+2016,8,Others,Marshall Islands,8
+2016,8,Others,Nauru,16
+2016,8,Others,Palau,36
+2016,8,Others,Papua New Guinea,732
+2016,8,Others,Samoa,209
+2016,8,Others,Solomon Islands,750
+2016,8,Others,Tokelau,232
+2016,8,Others,Tuvalu,45
+2016,8,Others,Vanuatu,103
+2016,8,Set longlines,Fiji,1161
+2016,8,Set longlines,Kiribati,3672
+2016,8,Set longlines,Marshall Islands,647
+2016,8,Set longlines,Micronesia,334
+2016,8,Set longlines,Palau,47
+2016,8,Set longlines,Papua New Guinea,276
+2016,8,Set longlines,Solomon Islands,1391
+2016,8,Set longlines,Tokelau,253
+2016,8,Set longlines,Tuvalu,1222
+2016,8,Set longlines,Vanuatu,719
+2016,8,Tuna purse seines,Kiribati,8797
+2016,8,Tuna purse seines,Marshall Islands,28
+2016,8,Tuna purse seines,Micronesia,2197
+2016,8,Tuna purse seines,Nauru,3375
+2016,8,Tuna purse seines,Papua New Guinea,2511
+2016,8,Tuna purse seines,Tokelau,61
+2016,8,Tuna purse seines,Tuvalu,1249
+2016,9,Drifting longlines,Fiji,5007
+2016,9,Drifting longlines,Kiribati,28933
+2016,9,Drifting longlines,Marshall Islands,8191
+2016,9,Drifting longlines,Micronesia,2968
+2016,9,Drifting longlines,Nauru,23
+2016,9,Drifting longlines,Palau,237
+2016,9,Drifting longlines,Papua New Guinea,3851
+2016,9,Drifting longlines,Samoa,1678
+2016,9,Drifting longlines,Solomon Islands,8714
+2016,9,Drifting longlines,Tokelau,4664
+2016,9,Drifting longlines,Tonga,748
+2016,9,Drifting longlines,Tuvalu,13391
+2016,9,Drifting longlines,Vanuatu,4188
+2016,9,Others,Fiji,88
+2016,9,Others,Kiribati,808
+2016,9,Others,Marshall Islands,1
+2016,9,Others,Nauru,131
+2016,9,Others,Palau,45
+2016,9,Others,Papua New Guinea,233
+2016,9,Others,Solomon Islands,112
+2016,9,Others,Tokelau,548
+2016,9,Others,Tonga,191
+2016,9,Others,Tuvalu,10
+2016,9,Set longlines,Fiji,950
+2016,9,Set longlines,Kiribati,4784
+2016,9,Set longlines,Marshall Islands,575
+2016,9,Set longlines,Micronesia,569
+2016,9,Set longlines,Samoa,2
+2016,9,Set longlines,Solomon Islands,1349
+2016,9,Set longlines,Tokelau,543
+2016,9,Set longlines,Tuvalu,2128
+2016,9,Set longlines,Vanuatu,496
+2016,9,Tuna purse seines,Kiribati,6911
+2016,9,Tuna purse seines,Marshall Islands,1425
+2016,9,Tuna purse seines,Micronesia,2856
+2016,9,Tuna purse seines,Nauru,4062
+2016,9,Tuna purse seines,Palau,27
+2016,9,Tuna purse seines,Papua New Guinea,3094
+2016,9,Tuna purse seines,Solomon Islands,8
+2016,9,Tuna purse seines,Tokelau,41
+2016,9,Tuna purse seines,Tuvalu,2960
+2016,10,Drifting longlines,Fiji,5642
+2016,10,Drifting longlines,Kiribati,32757
+2016,10,Drifting longlines,Marshall Islands,8285
+2016,10,Drifting longlines,Micronesia,6068
+2016,10,Drifting longlines,Nauru,54
+2016,10,Drifting longlines,Palau,262
+2016,10,Drifting longlines,Papua New Guinea,6347
+2016,10,Drifting longlines,Samoa,1441
+2016,10,Drifting longlines,Solomon Islands,7858
+2016,10,Drifting longlines,Tokelau,4729
+2016,10,Drifting longlines,Tonga,1024
+2016,10,Drifting longlines,Tuvalu,5479
+2016,10,Drifting longlines,Vanuatu,14104
+2016,10,Others,Fiji,264
+2016,10,Others,Kiribati,719
+2016,10,Others,Marshall Islands,44
+2016,10,Others,Micronesia,1079
+2016,10,Others,Nauru,181
+2016,10,Others,Papua New Guinea,62
+2016,10,Others,Solomon Islands,320
+2016,10,Others,Tokelau,491
+2016,10,Others,Tonga,183
+2016,10,Others,Tuvalu,27
+2016,10,Set longlines,Fiji,1054
+2016,10,Set longlines,Kiribati,4920
+2016,10,Set longlines,Marshall Islands,622
+2016,10,Set longlines,Micronesia,1204
+2016,10,Set longlines,Papua New Guinea,209
+2016,10,Set longlines,Solomon Islands,1737
+2016,10,Set longlines,Tokelau,659
+2016,10,Set longlines,Tuvalu,341
+2016,10,Set longlines,Vanuatu,1199
+2016,10,Tuna purse seines,Kiribati,6839
+2016,10,Tuna purse seines,Marshall Islands,191
+2016,10,Tuna purse seines,Micronesia,3481
+2016,10,Tuna purse seines,Nauru,3942
+2016,10,Tuna purse seines,Papua New Guinea,3637
+2016,10,Tuna purse seines,Samoa,48
+2016,10,Tuna purse seines,Solomon Islands,619
+2016,10,Tuna purse seines,Tonga,37
+2016,10,Tuna purse seines,Tuvalu,3790
+2016,11,Drifting longlines,Fiji,6632
+2016,11,Drifting longlines,Kiribati,26202
+2016,11,Drifting longlines,Marshall Islands,10894
+2016,11,Drifting longlines,Micronesia,6604
+2016,11,Drifting longlines,Palau,185
+2016,11,Drifting longlines,Papua New Guinea,7789
+2016,11,Drifting longlines,Samoa,2338
+2016,11,Drifting longlines,Solomon Islands,7012
+2016,11,Drifting longlines,Tokelau,2982
+2016,11,Drifting longlines,Tonga,1122
+2016,11,Drifting longlines,Tuvalu,6087
+2016,11,Drifting longlines,Vanuatu,18618
+2016,11,Others,Fiji,252
+2016,11,Others,Kiribati,1468
+2016,11,Others,Marshall Islands,724
+2016,11,Others,Micronesia,1761
+2016,11,Others,Nauru,66
+2016,11,Others,Papua New Guinea,247
+2016,11,Others,Samoa,487
+2016,11,Others,Solomon Islands,775
+2016,11,Others,Tokelau,82
+2016,11,Others,Tonga,269
+2016,11,Others,Tuvalu,39
+2016,11,Others,Vanuatu,22
+2016,11,Set longlines,Fiji,919
+2016,11,Set longlines,Kiribati,5331
+2016,11,Set longlines,Marshall Islands,541
+2016,11,Set longlines,Micronesia,683
+2016,11,Set longlines,Papua New Guinea,219
+2016,11,Set longlines,Samoa,6
+2016,11,Set longlines,Solomon Islands,1536
+2016,11,Set longlines,Tokelau,530
+2016,11,Set longlines,Tuvalu,364
+2016,11,Set longlines,Vanuatu,2213
+2016,11,Tuna purse seines,Fiji,2
+2016,11,Tuna purse seines,Kiribati,3804
+2016,11,Tuna purse seines,Marshall Islands,668
+2016,11,Tuna purse seines,Micronesia,4936
+2016,11,Tuna purse seines,Nauru,1310
+2016,11,Tuna purse seines,Papua New Guinea,8511
+2016,11,Tuna purse seines,Samoa,295
+2016,11,Tuna purse seines,Solomon Islands,1242
+2016,11,Tuna purse seines,Tokelau,138
+2016,11,Tuna purse seines,Tonga,27
+2016,11,Tuna purse seines,Tuvalu,1686
+2016,12,Drifting longlines,Fiji,4779
+2016,12,Drifting longlines,Kiribati,25131
+2016,12,Drifting longlines,Marshall Islands,9182
+2016,12,Drifting longlines,Micronesia,7396
+2016,12,Drifting longlines,Palau,208
+2016,12,Drifting longlines,Papua New Guinea,7295
+2016,12,Drifting longlines,Samoa,1000
+2016,12,Drifting longlines,Solomon Islands,3863
+2016,12,Drifting longlines,Tokelau,2603
+2016,12,Drifting longlines,Tonga,1216
+2016,12,Drifting longlines,Tuvalu,1394
+2016,12,Drifting longlines,Vanuatu,17337
+2016,12,Others,Fiji,292
+2016,12,Others,Kiribati,1483
+2016,12,Others,Marshall Islands,153
+2016,12,Others,Micronesia,2
+2016,12,Others,Nauru,91
+2016,12,Others,Papua New Guinea,190
+2016,12,Others,Samoa,434
+2016,12,Others,Solomon Islands,513
+2016,12,Others,Tokelau,133
+2016,12,Others,Tonga,418
+2016,12,Others,Tuvalu,104
+2016,12,Set longlines,Fiji,874
+2016,12,Set longlines,Kiribati,2710
+2016,12,Set longlines,Marshall Islands,245
+2016,12,Set longlines,Micronesia,694
+2016,12,Set longlines,Palau,34
+2016,12,Set longlines,Papua New Guinea,221
+2016,12,Set longlines,Solomon Islands,1114
+2016,12,Set longlines,Tokelau,117
+2016,12,Set longlines,Vanuatu,2235
+2016,12,Tuna purse seines,Fiji,95
+2016,12,Tuna purse seines,Kiribati,6213
+2016,12,Tuna purse seines,Marshall Islands,149
+2016,12,Tuna purse seines,Micronesia,997
+2016,12,Tuna purse seines,Nauru,1389
+2016,12,Tuna purse seines,Papua New Guinea,8533
+2016,12,Tuna purse seines,Samoa,181
+2016,12,Tuna purse seines,Solomon Islands,2698
+2016,12,Tuna purse seines,Tokelau,41
+2016,12,Tuna purse seines,Tonga,6
+2016,12,Tuna purse seines,Tuvalu,1081
+2017,1,Drifting longlines,Fiji,5764
+2017,1,Drifting longlines,Kiribati,16937
+2017,1,Drifting longlines,Marshall Islands,9079
+2017,1,Drifting longlines,Micronesia,7616
+2017,1,Drifting longlines,Palau,657
+2017,1,Drifting longlines,Papua New Guinea,5726
+2017,1,Drifting longlines,Samoa,2666
+2017,1,Drifting longlines,Solomon Islands,4183
+2017,1,Drifting longlines,Tokelau,6
+2017,1,Drifting longlines,Tonga,1194
+2017,1,Drifting longlines,Tuvalu,21
+2017,1,Drifting longlines,Vanuatu,19902
+2017,1,Others,Fiji,138
+2017,1,Others,Kiribati,649
+2017,1,Others,Marshall Islands,113
+2017,1,Others,Micronesia,150
+2017,1,Others,Nauru,316
+2017,1,Others,Papua New Guinea,57
+2017,1,Others,Samoa,342
+2017,1,Others,Solomon Islands,620
+2017,1,Others,Tokelau,10
+2017,1,Others,Tonga,355
+2017,1,Others,Tuvalu,132
+2017,1,Set longlines,Fiji,339
+2017,1,Set longlines,Kiribati,3570
+2017,1,Set longlines,Marshall Islands,188
+2017,1,Set longlines,Micronesia,1136
+2017,1,Set longlines,Palau,77
+2017,1,Set longlines,Solomon Islands,131
+2017,1,Set longlines,Vanuatu,1145
+2017,1,Tuna purse seines,Kiribati,5516
+2017,1,Tuna purse seines,Marshall Islands,958
+2017,1,Tuna purse seines,Micronesia,1840
+2017,1,Tuna purse seines,Nauru,3025
+2017,1,Tuna purse seines,Papua New Guinea,9767
+2017,1,Tuna purse seines,Samoa,6
+2017,1,Tuna purse seines,Solomon Islands,3523
+2017,1,Tuna purse seines,Tokelau,128
+2017,1,Tuna purse seines,Tuvalu,712
+2017,2,Drifting longlines,Fiji,5489
+2017,2,Drifting longlines,Kiribati,1857
+2017,2,Drifting longlines,Marshall Islands,7331
+2017,2,Drifting longlines,Micronesia,7713
+2017,2,Drifting longlines,Palau,500
+2017,2,Drifting longlines,Papua New Guinea,5554
+2017,2,Drifting longlines,Samoa,1212
+2017,2,Drifting longlines,Solomon Islands,5733
+2017,2,Drifting longlines,Tonga,915
+2017,2,Drifting longlines,Tuvalu,298
+2017,2,Drifting longlines,Vanuatu,17176
+2017,2,Others,Fiji,253
+2017,2,Others,Kiribati,115
+2017,2,Others,Marshall Islands,325
+2017,2,Others,Micronesia,4
+2017,2,Others,Nauru,295
+2017,2,Others,Papua New Guinea,538
+2017,2,Others,Samoa,11
+2017,2,Others,Solomon Islands,654
+2017,2,Others,Tonga,400
+2017,2,Others,Tuvalu,85
+2017,2,Set longlines,Fiji,416
+2017,2,Set longlines,Kiribati,775
+2017,2,Set longlines,Marshall Islands,191
+2017,2,Set longlines,Micronesia,631
+2017,2,Set longlines,Palau,19
+2017,2,Set longlines,Papua New Guinea,559
+2017,2,Set longlines,Samoa,8
+2017,2,Set longlines,Solomon Islands,319
+2017,2,Set longlines,Tuvalu,222
+2017,2,Set longlines,Vanuatu,1007
+2017,2,Tuna purse seines,Fiji,98
+2017,2,Tuna purse seines,Kiribati,2376
+2017,2,Tuna purse seines,Marshall Islands,993
+2017,2,Tuna purse seines,Micronesia,4119
+2017,2,Tuna purse seines,Nauru,3605
+2017,2,Tuna purse seines,Papua New Guinea,8746
+2017,2,Tuna purse seines,Solomon Islands,3077
+2017,2,Tuna purse seines,Tokelau,341
+2017,2,Tuna purse seines,Tuvalu,854
+2017,3,Drifting longlines,Fiji,5192
+2017,3,Drifting longlines,Kiribati,2702
+2017,3,Drifting longlines,Marshall Islands,7831
+2017,3,Drifting longlines,Micronesia,7052
+2017,3,Drifting longlines,Palau,93
+2017,3,Drifting longlines,Papua New Guinea,3592
+2017,3,Drifting longlines,Samoa,544
+2017,3,Drifting longlines,Solomon Islands,10280
+2017,3,Drifting longlines,Tokelau,792
+2017,3,Drifting longlines,Tonga,1208
+2017,3,Drifting longlines,Tuvalu,1366
+2017,3,Drifting longlines,Vanuatu,9927
+2017,3,Others,Fiji,163
+2017,3,Others,Kiribati,126
+2017,3,Others,Marshall Islands,217
+2017,3,Others,Micronesia,330
+2017,3,Others,Nauru,12
+2017,3,Others,Papua New Guinea,910
+2017,3,Others,Samoa,19
+2017,3,Others,Solomon Islands,743
+2017,3,Others,Tokelau,75
+2017,3,Others,Tonga,150
+2017,3,Others,Tuvalu,57
+2017,3,Set longlines,Fiji,311
+2017,3,Set longlines,Kiribati,394
+2017,3,Set longlines,Marshall Islands,67
+2017,3,Set longlines,Micronesia,393
+2017,3,Set longlines,Papua New Guinea,514
+2017,3,Set longlines,Solomon Islands,39
+2017,3,Set longlines,Tuvalu,636
+2017,3,Set longlines,Vanuatu,1415
+2017,3,Tuna purse seines,Fiji,60
+2017,3,Tuna purse seines,Kiribati,1947
+2017,3,Tuna purse seines,Marshall Islands,437
+2017,3,Tuna purse seines,Micronesia,8243
+2017,3,Tuna purse seines,Nauru,1055
+2017,3,Tuna purse seines,Papua New Guinea,10102
+2017,3,Tuna purse seines,Solomon Islands,2429
+2017,3,Tuna purse seines,Tokelau,216
+2017,3,Tuna purse seines,Tuvalu,873
+2017,3,Tuna purse seines,Vanuatu,4
+2017,4,Drifting longlines,Fiji,4293
+2017,4,Drifting longlines,Kiribati,3233
+2017,4,Drifting longlines,Marshall Islands,7654
+2017,4,Drifting longlines,Micronesia,4803
+2017,4,Drifting longlines,Papua New Guinea,1495
+2017,4,Drifting longlines,Samoa,752
+2017,4,Drifting longlines,Solomon Islands,11476
+2017,4,Drifting longlines,Tokelau,1873
+2017,4,Drifting longlines,Tonga,1815
+2017,4,Drifting longlines,Tuvalu,2696
+2017,4,Drifting longlines,Vanuatu,10513
+2017,4,Others,Fiji,145
+2017,4,Others,Kiribati,223
+2017,4,Others,Marshall Islands,103
+2017,4,Others,Micronesia,34
+2017,4,Others,Nauru,27
+2017,4,Others,Papua New Guinea,509
+2017,4,Others,Samoa,173
+2017,4,Others,Solomon Islands,851
+2017,4,Others,Tokelau,2
+2017,4,Others,Tuvalu,18
+2017,4,Set longlines,Fiji,139
+2017,4,Set longlines,Kiribati,856
+2017,4,Set longlines,Marshall Islands,74
+2017,4,Set longlines,Micronesia,253
+2017,4,Set longlines,Papua New Guinea,657
+2017,4,Set longlines,Solomon Islands,12
+2017,4,Set longlines,Tuvalu,1241
+2017,4,Set longlines,Vanuatu,1598
+2017,4,Tuna purse seines,Kiribati,4812
+2017,4,Tuna purse seines,Marshall Islands,953
+2017,4,Tuna purse seines,Micronesia,6793
+2017,4,Tuna purse seines,Nauru,1257
+2017,4,Tuna purse seines,Palau,11
+2017,4,Tuna purse seines,Papua New Guinea,6554
+2017,4,Tuna purse seines,Solomon Islands,3310
+2017,4,Tuna purse seines,Tokelau,45
+2017,4,Tuna purse seines,Tuvalu,568
+2017,5,Drifting longlines,Fiji,5982
+2017,5,Drifting longlines,Kiribati,5944
+2017,5,Drifting longlines,Marshall Islands,10384
+2017,5,Drifting longlines,Micronesia,7011
+2017,5,Drifting longlines,Palau,35
+2017,5,Drifting longlines,Papua New Guinea,3030
+2017,5,Drifting longlines,Samoa,1984
+2017,5,Drifting longlines,Solomon Islands,11578
+2017,5,Drifting longlines,Tokelau,3034
+2017,5,Drifting longlines,Tonga,1426
+2017,5,Drifting longlines,Tuvalu,8468
+2017,5,Drifting longlines,Vanuatu,6594
+2017,5,Others,Fiji,154
+2017,5,Others,Kiribati,377
+2017,5,Others,Marshall Islands,44
+2017,5,Others,Nauru,84
+2017,5,Others,Papua New Guinea,383
+2017,5,Others,Samoa,701
+2017,5,Others,Solomon Islands,369
+2017,5,Others,Tuvalu,12
+2017,5,Set longlines,Fiji,196
+2017,5,Set longlines,Kiribati,988
+2017,5,Set longlines,Marshall Islands,223
+2017,5,Set longlines,Micronesia,316
+2017,5,Set longlines,Papua New Guinea,134
+2017,5,Set longlines,Solomon Islands,824
+2017,5,Set longlines,Tuvalu,887
+2017,5,Set longlines,Vanuatu,1289
+2017,5,Tuna purse seines,Kiribati,5557
+2017,5,Tuna purse seines,Marshall Islands,1099
+2017,5,Tuna purse seines,Micronesia,6021
+2017,5,Tuna purse seines,Nauru,1030
+2017,5,Tuna purse seines,Papua New Guinea,5846
+2017,5,Tuna purse seines,Solomon Islands,1745
+2017,5,Tuna purse seines,Tuvalu,1116
+2017,6,Drifting longlines,Fiji,6231
+2017,6,Drifting longlines,Kiribati,3115
+2017,6,Drifting longlines,Marshall Islands,10916
+2017,6,Drifting longlines,Micronesia,6914
+2017,6,Drifting longlines,Palau,45
+2017,6,Drifting longlines,Papua New Guinea,7271
+2017,6,Drifting longlines,Samoa,2347
+2017,6,Drifting longlines,Solomon Islands,10697
+2017,6,Drifting longlines,Tokelau,2517
+2017,6,Drifting longlines,Tonga,1283
+2017,6,Drifting longlines,Tuvalu,13130
+2017,6,Drifting longlines,Vanuatu,15156
+2017,6,Others,Kiribati,339
+2017,6,Others,Marshall Islands,109
+2017,6,Others,Micronesia,29
+2017,6,Others,Nauru,134
+2017,6,Others,Papua New Guinea,816
+2017,6,Others,Samoa,593
+2017,6,Others,Solomon Islands,54
+2017,6,Others,Tuvalu,23
+2017,6,Set longlines,Fiji,743
+2017,6,Set longlines,Kiribati,591
+2017,6,Set longlines,Marshall Islands,491
+2017,6,Set longlines,Micronesia,338
+2017,6,Set longlines,Papua New Guinea,390
+2017,6,Set longlines,Solomon Islands,643
+2017,6,Set longlines,Tuvalu,1105
+2017,6,Set longlines,Vanuatu,1748
+2017,6,Tuna purse seines,Fiji,7
+2017,6,Tuna purse seines,Kiribati,5545
+2017,6,Tuna purse seines,Marshall Islands,624
+2017,6,Tuna purse seines,Micronesia,5720
+2017,6,Tuna purse seines,Nauru,2542
+2017,6,Tuna purse seines,Papua New Guinea,6279
+2017,6,Tuna purse seines,Samoa,10
+2017,6,Tuna purse seines,Solomon Islands,258
+2017,6,Tuna purse seines,Tokelau,24
+2017,6,Tuna purse seines,Tuvalu,230
+2017,7,Drifting longlines,Fiji,7870
+2017,7,Drifting longlines,Kiribati,4351
+2017,7,Drifting longlines,Marshall Islands,13017
+2017,7,Drifting longlines,Micronesia,8400
+2017,7,Drifting longlines,Palau,191
+2017,7,Drifting longlines,Papua New Guinea,7602
+2017,7,Drifting longlines,Samoa,2631
+2017,7,Drifting longlines,Solomon Islands,15128
+2017,7,Drifting longlines,Tokelau,2793
+2017,7,Drifting longlines,Tonga,1386
+2017,7,Drifting longlines,Tuvalu,10144
+2017,7,Drifting longlines,Vanuatu,13118
+2017,7,Others,Fiji,116
+2017,7,Others,Kiribati,271
+2017,7,Others,Marshall Islands,50
+2017,7,Others,Nauru,62
+2017,7,Others,Palau,41
+2017,7,Others,Papua New Guinea,862
+2017,7,Others,Samoa,230
+2017,7,Others,Solomon Islands,87
+2017,7,Others,Tokelau,374
+2017,7,Set longlines,Fiji,1476
+2017,7,Set longlines,Kiribati,127
+2017,7,Set longlines,Marshall Islands,791
+2017,7,Set longlines,Micronesia,216
+2017,7,Set longlines,Papua New Guinea,519
+2017,7,Set longlines,Solomon Islands,988
+2017,7,Set longlines,Tuvalu,920
+2017,7,Set longlines,Vanuatu,1451
+2017,7,Tuna purse seines,Kiribati,7062
+2017,7,Tuna purse seines,Marshall Islands,573
+2017,7,Tuna purse seines,Micronesia,2812
+2017,7,Tuna purse seines,Nauru,2780
+2017,7,Tuna purse seines,Palau,163
+2017,7,Tuna purse seines,Papua New Guinea,3138
+2017,7,Tuna purse seines,Tuvalu,158
+2017,8,Drifting longlines,Fiji,7914
+2017,8,Drifting longlines,Kiribati,3766
+2017,8,Drifting longlines,Marshall Islands,14510
+2017,8,Drifting longlines,Micronesia,6805
+2017,8,Drifting longlines,Palau,933
+2017,8,Drifting longlines,Papua New Guinea,6473
+2017,8,Drifting longlines,Samoa,1543
+2017,8,Drifting longlines,Solomon Islands,17045
+2017,8,Drifting longlines,Tokelau,3649
+2017,8,Drifting longlines,Tonga,1610
+2017,8,Drifting longlines,Tuvalu,6410
+2017,8,Drifting longlines,Vanuatu,12341
+2017,8,Others,Fiji,413
+2017,8,Others,Kiribati,207
+2017,8,Others,Marshall Islands,326
+2017,8,Others,Nauru,121
+2017,8,Others,Palau,655
+2017,8,Others,Papua New Guinea,100
+2017,8,Others,Samoa,156
+2017,8,Others,Solomon Islands,73
+2017,8,Others,Tokelau,447
+2017,8,Others,Tuvalu,14
+2017,8,Set longlines,Fiji,1845
+2017,8,Set longlines,Kiribati,70
+2017,8,Set longlines,Marshall Islands,868
+2017,8,Set longlines,Micronesia,108
+2017,8,Set longlines,Palau,21
+2017,8,Set longlines,Papua New Guinea,620
+2017,8,Set longlines,Solomon Islands,1245
+2017,8,Set longlines,Tuvalu,611
+2017,8,Set longlines,Vanuatu,1443
+2017,8,Tuna purse seines,Kiribati,5575
+2017,8,Tuna purse seines,Marshall Islands,377
+2017,8,Tuna purse seines,Micronesia,3043
+2017,8,Tuna purse seines,Nauru,4766
+2017,8,Tuna purse seines,Palau,426
+2017,8,Tuna purse seines,Papua New Guinea,1462
+2017,8,Tuna purse seines,Tuvalu,99
+2017,9,Drifting longlines,Fiji,5750
+2017,9,Drifting longlines,Kiribati,2589
+2017,9,Drifting longlines,Marshall Islands,14011
+2017,9,Drifting longlines,Micronesia,7154
+2017,9,Drifting longlines,Palau,1332
+2017,9,Drifting longlines,Papua New Guinea,6737
+2017,9,Drifting longlines,Samoa,2582
+2017,9,Drifting longlines,Solomon Islands,15979
+2017,9,Drifting longlines,Tokelau,2101
+2017,9,Drifting longlines,Tonga,1817
+2017,9,Drifting longlines,Tuvalu,1486
+2017,9,Drifting longlines,Vanuatu,14375
+2017,9,Others,Fiji,261
+2017,9,Others,Kiribati,213
+2017,9,Others,Marshall Islands,173
+2017,9,Others,Palau,548
+2017,9,Others,Papua New Guinea,469
+2017,9,Others,Samoa,332
+2017,9,Others,Solomon Islands,47
+2017,9,Others,Tokelau,274
+2017,9,Set longlines,Fiji,1231
+2017,9,Set longlines,Marshall Islands,733
+2017,9,Set longlines,Micronesia,109
+2017,9,Set longlines,Palau,76
+2017,9,Set longlines,Papua New Guinea,659
+2017,9,Set longlines,Solomon Islands,1763
+2017,9,Set longlines,Tuvalu,198
+2017,9,Set longlines,Vanuatu,1051
+2017,9,Tuna purse seines,Kiribati,8242
+2017,9,Tuna purse seines,Marshall Islands,500
+2017,9,Tuna purse seines,Micronesia,2521
+2017,9,Tuna purse seines,Nauru,164
+2017,9,Tuna purse seines,Palau,374
+2017,9,Tuna purse seines,Papua New Guinea,1267
+2017,9,Tuna purse seines,Samoa,4
+2017,9,Tuna purse seines,Solomon Islands,17
+2017,9,Tuna purse seines,Tokelau,34
+2017,9,Tuna purse seines,Tuvalu,370
+2017,10,Drifting longlines,Fiji,6053
+2017,10,Drifting longlines,Kiribati,1945
+2017,10,Drifting longlines,Marshall Islands,13482
+2017,10,Drifting longlines,Micronesia,8465
+2017,10,Drifting longlines,Palau,757
+2017,10,Drifting longlines,Papua New Guinea,7665
+2017,10,Drifting longlines,Samoa,519
+2017,10,Drifting longlines,Solomon Islands,19566
+2017,10,Drifting longlines,Tokelau,4395
+2017,10,Drifting longlines,Tonga,1404
+2017,10,Drifting longlines,Tuvalu,146
+2017,10,Drifting longlines,Vanuatu,18820
+2017,10,Others,Fiji,198
+2017,10,Others,Kiribati,506
+2017,10,Others,Marshall Islands,21
+2017,10,Others,Micronesia,38
+2017,10,Others,Palau,565
+2017,10,Others,Papua New Guinea,265
+2017,10,Others,Samoa,234
+2017,10,Others,Solomon Islands,55
+2017,10,Others,Tokelau,353
+2017,10,Others,Tonga,94
+2017,10,Others,Tuvalu,92
+2017,10,Set longlines,Fiji,1307
+2017,10,Set longlines,Marshall Islands,601
+2017,10,Set longlines,Micronesia,511
+2017,10,Set longlines,Palau,155
+2017,10,Set longlines,Papua New Guinea,25
+2017,10,Set longlines,Solomon Islands,2470
+2017,10,Set longlines,Tuvalu,577
+2017,10,Set longlines,Vanuatu,1029
+2017,10,Tuna purse seines,Kiribati,7400
+2017,10,Tuna purse seines,Marshall Islands,172
+2017,10,Tuna purse seines,Micronesia,2471
+2017,10,Tuna purse seines,Nauru,93
+2017,10,Tuna purse seines,Palau,71
+2017,10,Tuna purse seines,Papua New Guinea,4642
+2017,10,Tuna purse seines,Solomon Islands,67
+2017,10,Tuna purse seines,Tokelau,729
+2017,10,Tuna purse seines,Tuvalu,2545
+2017,11,Drifting longlines,Fiji,6284
+2017,11,Drifting longlines,Kiribati,2393
+2017,11,Drifting longlines,Marshall Islands,13349
+2017,11,Drifting longlines,Micronesia,8131
+2017,11,Drifting longlines,Palau,797
+2017,11,Drifting longlines,Papua New Guinea,5623
+2017,11,Drifting longlines,Samoa,2379
+2017,11,Drifting longlines,Solomon Islands,18764
+2017,11,Drifting longlines,Tokelau,2043
+2017,11,Drifting longlines,Tonga,924
+2017,11,Drifting longlines,Tuvalu,739
+2017,11,Drifting longlines,Vanuatu,23425
+2017,11,Others,Fiji,172
+2017,11,Others,Kiribati,363
+2017,11,Others,Marshall Islands,46
+2017,11,Others,Micronesia,37
+2017,11,Others,Nauru,61
+2017,11,Others,Palau,427
+2017,11,Others,Samoa,232
+2017,11,Others,Solomon Islands,100
+2017,11,Others,Tokelau,381
+2017,11,Others,Tuvalu,38
+2017,11,Set longlines,Fiji,1613
+2017,11,Set longlines,Marshall Islands,381
+2017,11,Set longlines,Micronesia,482
+2017,11,Set longlines,Palau,53
+2017,11,Set longlines,Samoa,76
+2017,11,Set longlines,Solomon Islands,1881
+2017,11,Set longlines,Tuvalu,116
+2017,11,Set longlines,Vanuatu,1621
+2017,11,Tuna purse seines,Kiribati,3356
+2017,11,Tuna purse seines,Marshall Islands,237
+2017,11,Tuna purse seines,Micronesia,2990
+2017,11,Tuna purse seines,Nauru,1123
+2017,11,Tuna purse seines,Papua New Guinea,7371
+2017,11,Tuna purse seines,Solomon Islands,3058
+2017,11,Tuna purse seines,Tokelau,943
+2017,11,Tuna purse seines,Tuvalu,1303
+2017,12,Drifting longlines,Fiji,5159
+2017,12,Drifting longlines,Kiribati,1749
+2017,12,Drifting longlines,Marshall Islands,12248
+2017,12,Drifting longlines,Micronesia,9833
+2017,12,Drifting longlines,Palau,1317
+2017,12,Drifting longlines,Papua New Guinea,4370
+2017,12,Drifting longlines,Samoa,1962
+2017,12,Drifting longlines,Solomon Islands,13121
+2017,12,Drifting longlines,Tokelau,1694
+2017,12,Drifting longlines,Tonga,1039
+2017,12,Drifting longlines,Tuvalu,232
+2017,12,Drifting longlines,Vanuatu,27376
+2017,12,Others,Fiji,62
+2017,12,Others,Kiribati,150
+2017,12,Others,Marshall Islands,21
+2017,12,Others,Micronesia,60
+2017,12,Others,Nauru,97
+2017,12,Others,Palau,778
+2017,12,Others,Papua New Guinea,220
+2017,12,Others,Samoa,118
+2017,12,Others,Solomon Islands,261
+2017,12,Others,Tokelau,515
+2017,12,Others,Tuvalu,91
+2017,12,Set longlines,Fiji,1081
+2017,12,Set longlines,Marshall Islands,278
+2017,12,Set longlines,Micronesia,348
+2017,12,Set longlines,Palau,233
+2017,12,Set longlines,Papua New Guinea,266
+2017,12,Set longlines,Solomon Islands,1477
+2017,12,Set longlines,Tuvalu,186
+2017,12,Set longlines,Vanuatu,2498
+2017,12,Tuna purse seines,Kiribati,2299
+2017,12,Tuna purse seines,Marshall Islands,126
+2017,12,Tuna purse seines,Micronesia,1663
+2017,12,Tuna purse seines,Nauru,472
+2017,12,Tuna purse seines,Papua New Guinea,6053
+2017,12,Tuna purse seines,Samoa,1
+2017,12,Tuna purse seines,Solomon Islands,8715
+2017,12,Tuna purse seines,Tokelau,596
+2017,12,Tuna purse seines,Tuvalu,1151
+2018,1,Drifting longlines,Fiji,6856
+2018,1,Drifting longlines,Kiribati,426
+2018,1,Drifting longlines,Marshall Islands,9288
+2018,1,Drifting longlines,Micronesia,13205
+2018,1,Drifting longlines,Nauru,2
+2018,1,Drifting longlines,Palau,2681
+2018,1,Drifting longlines,Papua New Guinea,3915
+2018,1,Drifting longlines,Samoa,3272
+2018,1,Drifting longlines,Solomon Islands,12402
+2018,1,Drifting longlines,Tokelau,10
+2018,1,Drifting longlines,Tonga,906
+2018,1,Drifting longlines,Tuvalu,44
+2018,1,Drifting longlines,Vanuatu,9573
+2018,1,Others,Fiji,87
+2018,1,Others,Kiribati,28
+2018,1,Others,Marshall Islands,6
+2018,1,Others,Micronesia,238
+2018,1,Others,Palau,1643
+2018,1,Others,Papua New Guinea,847
+2018,1,Others,Samoa,385
+2018,1,Others,Solomon Islands,15
+2018,1,Others,Tuvalu,52
+2018,1,Set longlines,Fiji,1207
+2018,1,Set longlines,Kiribati,9
+2018,1,Set longlines,Marshall Islands,223
+2018,1,Set longlines,Micronesia,824
+2018,1,Set longlines,Palau,444
+2018,1,Set longlines,Papua New Guinea,551
+2018,1,Set longlines,Solomon Islands,758
+2018,1,Set longlines,Tuvalu,329
+2018,1,Set longlines,Vanuatu,1009
+2018,1,Tuna purse seines,Kiribati,2285
+2018,1,Tuna purse seines,Marshall Islands,57
+2018,1,Tuna purse seines,Micronesia,8174
+2018,1,Tuna purse seines,Nauru,119
+2018,1,Tuna purse seines,Papua New Guinea,4488
+2018,1,Tuna purse seines,Solomon Islands,2023
+2018,1,Tuna purse seines,Tokelau,527
+2018,1,Tuna purse seines,Tuvalu,1676
+2018,2,Drifting longlines,Fiji,6507
+2018,2,Drifting longlines,Kiribati,11
+2018,2,Drifting longlines,Marshall Islands,7772
+2018,2,Drifting longlines,Micronesia,11461
+2018,2,Drifting longlines,Palau,1906
+2018,2,Drifting longlines,Papua New Guinea,4754
+2018,2,Drifting longlines,Samoa,1938
+2018,2,Drifting longlines,Solomon Islands,19507
+2018,2,Drifting longlines,Tokelau,106
+2018,2,Drifting longlines,Tonga,705
+2018,2,Drifting longlines,Tuvalu,56
+2018,2,Drifting longlines,Vanuatu,7801
+2018,2,Others,Kiribati,211
+2018,2,Others,Marshall Islands,71
+2018,2,Others,Micronesia,60
+2018,2,Others,Nauru,102
+2018,2,Others,Palau,1148
+2018,2,Others,Papua New Guinea,204
+2018,2,Others,Tuvalu,17
+2018,2,Set longlines,Fiji,559
+2018,2,Set longlines,Marshall Islands,368
+2018,2,Set longlines,Micronesia,560
+2018,2,Set longlines,Palau,683
+2018,2,Set longlines,Papua New Guinea,566
+2018,2,Set longlines,Solomon Islands,1771
+2018,2,Set longlines,Tuvalu,247
+2018,2,Set longlines,Vanuatu,1121
+2018,2,Tuna purse seines,Fiji,4
+2018,2,Tuna purse seines,Kiribati,2835
+2018,2,Tuna purse seines,Marshall Islands,111
+2018,2,Tuna purse seines,Micronesia,5511
+2018,2,Tuna purse seines,Nauru,2157
+2018,2,Tuna purse seines,Papua New Guinea,6925
+2018,2,Tuna purse seines,Solomon Islands,559
+2018,2,Tuna purse seines,Tokelau,79
+2018,2,Tuna purse seines,Tuvalu,641
+2018,3,Drifting longlines,Fiji,8149
+2018,3,Drifting longlines,Marshall Islands,7766
+2018,3,Drifting longlines,Micronesia,12262
+2018,3,Drifting longlines,Palau,2225
+2018,3,Drifting longlines,Papua New Guinea,3981
+2018,3,Drifting longlines,Samoa,2050
+2018,3,Drifting longlines,Solomon Islands,19426
+2018,3,Drifting longlines,Tokelau,513
+2018,3,Drifting longlines,Tonga,828
+2018,3,Drifting longlines,Tuvalu,978
+2018,3,Drifting longlines,Vanuatu,6408
+2018,3,Others,Fiji,163
+2018,3,Others,Kiribati,95
+2018,3,Others,Marshall Islands,950
+2018,3,Others,Micronesia,496
+2018,3,Others,Nauru,165
+2018,3,Others,Palau,1274
+2018,3,Others,Papua New Guinea,376
+2018,3,Others,Tuvalu,183
+2018,3,Set longlines,Fiji,797
+2018,3,Set longlines,Marshall Islands,258
+2018,3,Set longlines,Micronesia,478
+2018,3,Set longlines,Palau,324
+2018,3,Set longlines,Papua New Guinea,574
+2018,3,Set longlines,Solomon Islands,2241
+2018,3,Set longlines,Tuvalu,234
+2018,3,Set longlines,Vanuatu,813
+2018,3,Tuna purse seines,Kiribati,3967
+2018,3,Tuna purse seines,Marshall Islands,961
+2018,3,Tuna purse seines,Micronesia,2292
+2018,3,Tuna purse seines,Nauru,5845
+2018,3,Tuna purse seines,Papua New Guinea,5736
+2018,3,Tuna purse seines,Solomon Islands,759
+2018,3,Tuna purse seines,Tokelau,214
+2018,3,Tuna purse seines,Tuvalu,869
+2018,4,Drifting longlines,Fiji,8040
+2018,4,Drifting longlines,Kiribati,3
+2018,4,Drifting longlines,Marshall Islands,7886
+2018,4,Drifting longlines,Micronesia,11288
+2018,4,Drifting longlines,Palau,1914
+2018,4,Drifting longlines,Papua New Guinea,4436
+2018,4,Drifting longlines,Samoa,1759
+2018,4,Drifting longlines,Solomon Islands,20590
+2018,4,Drifting longlines,Tokelau,197
+2018,4,Drifting longlines,Tonga,925
+2018,4,Drifting longlines,Tuvalu,3820
+2018,4,Drifting longlines,Vanuatu,4772
+2018,4,Others,Fiji,58
+2018,4,Others,Kiribati,13
+2018,4,Others,Marshall Islands,344
+2018,4,Others,Micronesia,234
+2018,4,Others,Nauru,168
+2018,4,Others,Palau,564
+2018,4,Others,Papua New Guinea,132
+2018,4,Others,Solomon Islands,88
+2018,4,Others,Tuvalu,131
+2018,4,Set longlines,Fiji,701
+2018,4,Set longlines,Marshall Islands,282
+2018,4,Set longlines,Micronesia,610
+2018,4,Set longlines,Palau,190
+2018,4,Set longlines,Papua New Guinea,187
+2018,4,Set longlines,Solomon Islands,2431
+2018,4,Set longlines,Tuvalu,432
+2018,4,Set longlines,Vanuatu,696
+2018,4,Tuna purse seines,Kiribati,5128
+2018,4,Tuna purse seines,Marshall Islands,620
+2018,4,Tuna purse seines,Micronesia,3567
+2018,4,Tuna purse seines,Nauru,4801
+2018,4,Tuna purse seines,Papua New Guinea,3727
+2018,4,Tuna purse seines,Samoa,3
+2018,4,Tuna purse seines,Solomon Islands,221
+2018,4,Tuna purse seines,Tokelau,42
+2018,4,Tuna purse seines,Tonga,41
+2018,4,Tuna purse seines,Tuvalu,933
+2018,5,Drifting longlines,Fiji,11013
+2018,5,Drifting longlines,Kiribati,12
+2018,5,Drifting longlines,Marshall Islands,8527
+2018,5,Drifting longlines,Micronesia,12045
+2018,5,Drifting longlines,Palau,2663
+2018,5,Drifting longlines,Papua New Guinea,7687
+2018,5,Drifting longlines,Samoa,2938
+2018,5,Drifting longlines,Solomon Islands,25350
+2018,5,Drifting longlines,Tokelau,1
+2018,5,Drifting longlines,Tonga,1511
+2018,5,Drifting longlines,Tuvalu,4239
+2018,5,Drifting longlines,Vanuatu,5955
+2018,5,Others,Fiji,247
+2018,5,Others,Kiribati,197
+2018,5,Others,Marshall Islands,7
+2018,5,Others,Micronesia,69
+2018,5,Others,Nauru,54
+2018,5,Others,Palau,316
+2018,5,Others,Papua New Guinea,482
+2018,5,Others,Samoa,139
+2018,5,Others,Tonga,69
+2018,5,Others,Tuvalu,118
+2018,5,Others,Vanuatu,7
+2018,5,Set longlines,Fiji,1937
+2018,5,Set longlines,Marshall Islands,1075
+2018,5,Set longlines,Micronesia,1824
+2018,5,Set longlines,Palau,87
+2018,5,Set longlines,Papua New Guinea,342
+2018,5,Set longlines,Samoa,9
+2018,5,Set longlines,Solomon Islands,3892
+2018,5,Set longlines,Tonga,4
+2018,5,Set longlines,Tuvalu,708
+2018,5,Set longlines,Vanuatu,868
+2018,5,Tuna purse seines,Kiribati,2613
+2018,5,Tuna purse seines,Marshall Islands,653
+2018,5,Tuna purse seines,Micronesia,6458
+2018,5,Tuna purse seines,Nauru,3923
+2018,5,Tuna purse seines,Palau,194
+2018,5,Tuna purse seines,Papua New Guinea,4282
+2018,5,Tuna purse seines,Solomon Islands,527
+2018,5,Tuna purse seines,Tokelau,117
+2018,5,Tuna purse seines,Tuvalu,209
+2018,6,Drifting longlines,Fiji,10013
+2018,6,Drifting longlines,Kiribati,1316
+2018,6,Drifting longlines,Marshall Islands,8735
+2018,6,Drifting longlines,Micronesia,11036
+2018,6,Drifting longlines,Palau,2279
+2018,6,Drifting longlines,Papua New Guinea,8353
+2018,6,Drifting longlines,Samoa,1931
+2018,6,Drifting longlines,Solomon Islands,27965
+2018,6,Drifting longlines,Tokelau,144
+2018,6,Drifting longlines,Tonga,1991
+2018,6,Drifting longlines,Tuvalu,6884
+2018,6,Drifting longlines,Vanuatu,6310
+2018,6,Others,Fiji,856
+2018,6,Others,Kiribati,24
+2018,6,Others,Micronesia,213
+2018,6,Others,Nauru,78
+2018,6,Others,Palau,301
+2018,6,Others,Papua New Guinea,938
+2018,6,Others,Samoa,446
+2018,6,Others,Tonga,8
+2018,6,Others,Tuvalu,53
+2018,6,Others,Vanuatu,30
+2018,6,Set longlines,Fiji,2374
+2018,6,Set longlines,Kiribati,2
+2018,6,Set longlines,Marshall Islands,1596
+2018,6,Set longlines,Micronesia,1855
+2018,6,Set longlines,Palau,255
+2018,6,Set longlines,Papua New Guinea,691
+2018,6,Set longlines,Samoa,177
+2018,6,Set longlines,Solomon Islands,3441
+2018,6,Set longlines,Tuvalu,532
+2018,6,Set longlines,Vanuatu,1201
+2018,6,Tuna purse seines,Kiribati,2543
+2018,6,Tuna purse seines,Marshall Islands,994
+2018,6,Tuna purse seines,Micronesia,8613
+2018,6,Tuna purse seines,Nauru,2626
+2018,6,Tuna purse seines,Palau,269
+2018,6,Tuna purse seines,Papua New Guinea,3001
+2018,6,Tuna purse seines,Solomon Islands,86
+2018,6,Tuna purse seines,Tokelau,92
+2018,6,Tuna purse seines,Tuvalu,36
+2018,7,Drifting longlines,Fiji,10392
+2018,7,Drifting longlines,Kiribati,2136
+2018,7,Drifting longlines,Marshall Islands,9474
+2018,7,Drifting longlines,Micronesia,13240
+2018,7,Drifting longlines,Nauru,32
+2018,7,Drifting longlines,Palau,2824
+2018,7,Drifting longlines,Papua New Guinea,11642
+2018,7,Drifting longlines,Samoa,831
+2018,7,Drifting longlines,Solomon Islands,29376
+2018,7,Drifting longlines,Tokelau,185
+2018,7,Drifting longlines,Tonga,1880
+2018,7,Drifting longlines,Tuvalu,4288
+2018,7,Drifting longlines,Vanuatu,7473
+2018,7,Others,Fiji,669
+2018,7,Others,Kiribati,28
+2018,7,Others,Marshall Islands,124
+2018,7,Others,Micronesia,27
+2018,7,Others,Nauru,60
+2018,7,Others,Palau,1014
+2018,7,Others,Papua New Guinea,1167
+2018,7,Others,Samoa,236
+2018,7,Others,Vanuatu,16
+2018,7,Set longlines,Fiji,2247
+2018,7,Set longlines,Marshall Islands,2180
+2018,7,Set longlines,Micronesia,2120
+2018,7,Set longlines,Palau,580
+2018,7,Set longlines,Papua New Guinea,1279
+2018,7,Set longlines,Samoa,14
+2018,7,Set longlines,Solomon Islands,3383
+2018,7,Set longlines,Tuvalu,280
+2018,7,Set longlines,Vanuatu,1546
+2018,7,Tuna purse seines,Kiribati,2124
+2018,7,Tuna purse seines,Marshall Islands,1655
+2018,7,Tuna purse seines,Micronesia,6159
+2018,7,Tuna purse seines,Nauru,6452
+2018,7,Tuna purse seines,Palau,166
+2018,7,Tuna purse seines,Papua New Guinea,2508
+2018,7,Tuna purse seines,Tuvalu,1
+2018,8,Drifting longlines,Fiji,10535
+2018,8,Drifting longlines,Kiribati,1987
+2018,8,Drifting longlines,Marshall Islands,8636
+2018,8,Drifting longlines,Micronesia,11862
+2018,8,Drifting longlines,Palau,7377
+2018,8,Drifting longlines,Papua New Guinea,12706
+2018,8,Drifting longlines,Samoa,515
+2018,8,Drifting longlines,Solomon Islands,31273
+2018,8,Drifting longlines,Tokelau,684
+2018,8,Drifting longlines,Tonga,2010
+2018,8,Drifting longlines,Tuvalu,10935
+2018,8,Drifting longlines,Vanuatu,8376
+2018,8,Others,Fiji,415
+2018,8,Others,Kiribati,143
+2018,8,Others,Marshall Islands,18
+2018,8,Others,Palau,2190
+2018,8,Others,Papua New Guinea,938
+2018,8,Others,Samoa,257
+2018,8,Others,Tokelau,120
+2018,8,Others,Tonga,9
+2018,8,Set longlines,Fiji,2349
+2018,8,Set longlines,Marshall Islands,1883
+2018,8,Set longlines,Micronesia,695
+2018,8,Set longlines,Palau,1180
+2018,8,Set longlines,Papua New Guinea,1255
+2018,8,Set longlines,Samoa,52
+2018,8,Set longlines,Solomon Islands,4297
+2018,8,Set longlines,Tokelau,170
+2018,8,Set longlines,Tonga,2
+2018,8,Set longlines,Tuvalu,345
+2018,8,Set longlines,Vanuatu,805
+2018,8,Tuna purse seines,Fiji,96
+2018,8,Tuna purse seines,Kiribati,4992
+2018,8,Tuna purse seines,Marshall Islands,1807
+2018,8,Tuna purse seines,Micronesia,3358
+2018,8,Tuna purse seines,Nauru,2687
+2018,8,Tuna purse seines,Papua New Guinea,2429
+2018,8,Tuna purse seines,Solomon Islands,9
+2018,8,Tuna purse seines,Tuvalu,177
+2018,9,Drifting longlines,Fiji,9690
+2018,9,Drifting longlines,Kiribati,1763
+2018,9,Drifting longlines,Marshall Islands,8555
+2018,9,Drifting longlines,Micronesia,9137
+2018,9,Drifting longlines,Palau,6186
+2018,9,Drifting longlines,Papua New Guinea,10958
+2018,9,Drifting longlines,Samoa,1124
+2018,9,Drifting longlines,Solomon Islands,27908
+2018,9,Drifting longlines,Tokelau,704
+2018,9,Drifting longlines,Tonga,1624
+2018,9,Drifting longlines,Tuvalu,4052
+2018,9,Drifting longlines,Vanuatu,8184
+2018,9,Others,Fiji,270
+2018,9,Others,Kiribati,170
+2018,9,Others,Marshall Islands,1
+2018,9,Others,Micronesia,37
+2018,9,Others,Nauru,69
+2018,9,Others,Palau,2720
+2018,9,Others,Papua New Guinea,572
+2018,9,Others,Tokelau,506
+2018,9,Set longlines,Fiji,1455
+2018,9,Set longlines,Kiribati,5
+2018,9,Set longlines,Marshall Islands,1586
+2018,9,Set longlines,Micronesia,1335
+2018,9,Set longlines,Palau,559
+2018,9,Set longlines,Papua New Guinea,447
+2018,9,Set longlines,Solomon Islands,4586
+2018,9,Set longlines,Tokelau,208
+2018,9,Set longlines,Tuvalu,642
+2018,9,Set longlines,Vanuatu,1204
+2018,9,Tuna purse seines,Fiji,52
+2018,9,Tuna purse seines,Kiribati,7821
+2018,9,Tuna purse seines,Marshall Islands,1162
+2018,9,Tuna purse seines,Micronesia,3530
+2018,9,Tuna purse seines,Nauru,1948
+2018,9,Tuna purse seines,Papua New Guinea,1452
+2018,9,Tuna purse seines,Solomon Islands,8
+2018,9,Tuna purse seines,Tokelau,55
+2018,9,Tuna purse seines,Tuvalu,689
+2018,10,Drifting longlines,Fiji,8871
+2018,10,Drifting longlines,Kiribati,1953
+2018,10,Drifting longlines,Marshall Islands,7915
+2018,10,Drifting longlines,Micronesia,12357
+2018,10,Drifting longlines,Palau,3814
+2018,10,Drifting longlines,Papua New Guinea,8361
+2018,10,Drifting longlines,Samoa,410
+2018,10,Drifting longlines,Solomon Islands,25508
+2018,10,Drifting longlines,Tokelau,1362
+2018,10,Drifting longlines,Tonga,1371
+2018,10,Drifting longlines,Tuvalu,4509
+2018,10,Drifting longlines,Vanuatu,19979
+2018,10,Others,Fiji,115
+2018,10,Others,Kiribati,281
+2018,10,Others,Micronesia,438
+2018,10,Others,Nauru,52
+2018,10,Others,Palau,2062
+2018,10,Others,Papua New Guinea,634
+2018,10,Others,Samoa,134
+2018,10,Others,Solomon Islands,7
+2018,10,Others,Tokelau,434
+2018,10,Others,Tuvalu,13
+2018,10,Set longlines,Fiji,1587
+2018,10,Set longlines,Marshall Islands,1852
+2018,10,Set longlines,Micronesia,2141
+2018,10,Set longlines,Palau,329
+2018,10,Set longlines,Papua New Guinea,197
+2018,10,Set longlines,Solomon Islands,3383
+2018,10,Set longlines,Tokelau,344
+2018,10,Set longlines,Tuvalu,547
+2018,10,Set longlines,Vanuatu,1332
+2018,10,Tuna purse seines,Kiribati,7726
+2018,10,Tuna purse seines,Marshall Islands,502
+2018,10,Tuna purse seines,Micronesia,3291
+2018,10,Tuna purse seines,Nauru,2233
+2018,10,Tuna purse seines,Papua New Guinea,5725
+2018,10,Tuna purse seines,Solomon Islands,545
+2018,10,Tuna purse seines,Tokelau,591
+2018,10,Tuna purse seines,Tuvalu,1336
+2018,11,Drifting longlines,Fiji,7873
+2018,11,Drifting longlines,Kiribati,1112
+2018,11,Drifting longlines,Marshall Islands,8110
+2018,11,Drifting longlines,Micronesia,13064
+2018,11,Drifting longlines,Palau,3789
+2018,11,Drifting longlines,Papua New Guinea,7780
+2018,11,Drifting longlines,Samoa,1240
+2018,11,Drifting longlines,Solomon Islands,23410
+2018,11,Drifting longlines,Tokelau,241
+2018,11,Drifting longlines,Tonga,2554
+2018,11,Drifting longlines,Tuvalu,967
+2018,11,Drifting longlines,Vanuatu,23262
+2018,11,Others,Fiji,25
+2018,11,Others,Kiribati,283
+2018,11,Others,Micronesia,439
+2018,11,Others,Nauru,8
+2018,11,Others,Palau,456
+2018,11,Others,Papua New Guinea,704
+2018,11,Others,Samoa,448
+2018,11,Others,Solomon Islands,23
+2018,11,Others,Tokelau,66
+2018,11,Set longlines,Fiji,2031
+2018,11,Set longlines,Marshall Islands,1294
+2018,11,Set longlines,Micronesia,1358
+2018,11,Set longlines,Palau,419
+2018,11,Set longlines,Papua New Guinea,672
+2018,11,Set longlines,Samoa,252
+2018,11,Set longlines,Solomon Islands,3741
+2018,11,Set longlines,Tokelau,25
+2018,11,Set longlines,Tuvalu,349
+2018,11,Set longlines,Vanuatu,1846
+2018,11,Tuna purse seines,Kiribati,6984
+2018,11,Tuna purse seines,Marshall Islands,496
+2018,11,Tuna purse seines,Micronesia,3792
+2018,11,Tuna purse seines,Nauru,540
+2018,11,Tuna purse seines,Palau,54
+2018,11,Tuna purse seines,Papua New Guinea,6625
+2018,11,Tuna purse seines,Solomon Islands,1033
+2018,11,Tuna purse seines,Tokelau,331
+2018,11,Tuna purse seines,Tuvalu,1084
+2018,12,Drifting longlines,Fiji,8742
+2018,12,Drifting longlines,Kiribati,2214
+2018,12,Drifting longlines,Marshall Islands,7428
+2018,12,Drifting longlines,Micronesia,15476
+2018,12,Drifting longlines,Palau,7012
+2018,12,Drifting longlines,Papua New Guinea,8252
+2018,12,Drifting longlines,Samoa,928
+2018,12,Drifting longlines,Solomon Islands,18085
+2018,12,Drifting longlines,Tokelau,169
+2018,12,Drifting longlines,Tonga,2698
+2018,12,Drifting longlines,Tuvalu,1160
+2018,12,Drifting longlines,Vanuatu,20831
+2018,12,Others,Kiribati,353
+2018,12,Others,Marshall Islands,79
+2018,12,Others,Micronesia,464
+2018,12,Others,Palau,1788
+2018,12,Others,Papua New Guinea,530
+2018,12,Others,Samoa,441
+2018,12,Others,Solomon Islands,30
+2018,12,Others,Tokelau,106
+2018,12,Set longlines,Fiji,1523
+2018,12,Set longlines,Marshall Islands,1579
+2018,12,Set longlines,Micronesia,1600
+2018,12,Set longlines,Palau,583
+2018,12,Set longlines,Papua New Guinea,211
+2018,12,Set longlines,Samoa,135
+2018,12,Set longlines,Solomon Islands,2567
+2018,12,Set longlines,Tokelau,60
+2018,12,Set longlines,Tuvalu,428
+2018,12,Set longlines,Vanuatu,2106
+2018,12,Tuna purse seines,Kiribati,3987
+2018,12,Tuna purse seines,Marshall Islands,147
+2018,12,Tuna purse seines,Micronesia,2723
+2018,12,Tuna purse seines,Nauru,649
+2018,12,Tuna purse seines,Papua New Guinea,7977
+2018,12,Tuna purse seines,Solomon Islands,1135
+2018,12,Tuna purse seines,Tokelau,400
+2018,12,Tuna purse seines,Tuvalu,2325
+2019,1,Drifting longlines,Fiji,7601
+2019,1,Drifting longlines,Kiribati,1495
+2019,1,Drifting longlines,Marshall Islands,6474
+2019,1,Drifting longlines,Micronesia,15961
+2019,1,Drifting longlines,Palau,4717
+2019,1,Drifting longlines,Papua New Guinea,7790
+2019,1,Drifting longlines,Samoa,389
+2019,1,Drifting longlines,Solomon Islands,17610
+2019,1,Drifting longlines,Tonga,3245
+2019,1,Drifting longlines,Tuvalu,11
+2019,1,Drifting longlines,Vanuatu,11096
+2019,1,Others,Fiji,186
+2019,1,Others,Kiribati,165
+2019,1,Others,Marshall Islands,217
+2019,1,Others,Micronesia,110
+2019,1,Others,Nauru,28
+2019,1,Others,Palau,1440
+2019,1,Others,Papua New Guinea,577
+2019,1,Others,Samoa,596
+2019,1,Others,Tokelau,60
+2019,1,Set longlines,Fiji,1329
+2019,1,Set longlines,Marshall Islands,1586
+2019,1,Set longlines,Micronesia,1461
+2019,1,Set longlines,Nauru,14
+2019,1,Set longlines,Palau,498
+2019,1,Set longlines,Samoa,140
+2019,1,Set longlines,Solomon Islands,1059
+2019,1,Set longlines,Vanuatu,2300
+2019,1,Tuna purse seines,Fiji,2
+2019,1,Tuna purse seines,Kiribati,6222
+2019,1,Tuna purse seines,Marshall Islands,306
+2019,1,Tuna purse seines,Micronesia,2011
+2019,1,Tuna purse seines,Nauru,2367
+2019,1,Tuna purse seines,Papua New Guinea,8490
+2019,1,Tuna purse seines,Solomon Islands,689
+2019,1,Tuna purse seines,Tokelau,345
+2019,1,Tuna purse seines,Tuvalu,965
+2019,2,Drifting longlines,Fiji,6782
+2019,2,Drifting longlines,Kiribati,787
+2019,2,Drifting longlines,Marshall Islands,6550
+2019,2,Drifting longlines,Micronesia,11797
+2019,2,Drifting longlines,Nauru,40
+2019,2,Drifting longlines,Palau,4634
+2019,2,Drifting longlines,Papua New Guinea,11278
+2019,2,Drifting longlines,Samoa,89
+2019,2,Drifting longlines,Solomon Islands,17428
+2019,2,Drifting longlines,Tonga,2529
+2019,2,Drifting longlines,Vanuatu,12101
+2019,2,Others,Kiribati,86
+2019,2,Others,Marshall Islands,2264
+2019,2,Others,Micronesia,91
+2019,2,Others,Palau,702
+2019,2,Others,Papua New Guinea,905
+2019,2,Others,Samoa,496
+2019,2,Others,Tuvalu,10
+2019,2,Set longlines,Fiji,1640
+2019,2,Set longlines,Marshall Islands,1863
+2019,2,Set longlines,Micronesia,830
+2019,2,Set longlines,Palau,210
+2019,2,Set longlines,Solomon Islands,717
+2019,2,Set longlines,Tuvalu,287
+2019,2,Set longlines,Vanuatu,2082
+2019,2,Tuna purse seines,Kiribati,4557
+2019,2,Tuna purse seines,Marshall Islands,83
+2019,2,Tuna purse seines,Micronesia,632
+2019,2,Tuna purse seines,Nauru,1577
+2019,2,Tuna purse seines,Palau,63
+2019,2,Tuna purse seines,Papua New Guinea,7617
+2019,2,Tuna purse seines,Solomon Islands,39
+2019,2,Tuna purse seines,Tuvalu,221
+2019,3,Drifting longlines,Fiji,7188
+2019,3,Drifting longlines,Kiribati,1002
+2019,3,Drifting longlines,Marshall Islands,6810
+2019,3,Drifting longlines,Micronesia,14249
+2019,3,Drifting longlines,Nauru,205
+2019,3,Drifting longlines,Palau,2989
+2019,3,Drifting longlines,Papua New Guinea,10058
+2019,3,Drifting longlines,Samoa,597
+2019,3,Drifting longlines,Solomon Islands,24296
+2019,3,Drifting longlines,Tonga,3641
+2019,3,Drifting longlines,Vanuatu,11905
+2019,3,Others,Fiji,215
+2019,3,Others,Kiribati,71
+2019,3,Others,Marshall Islands,495
+2019,3,Others,Micronesia,387
+2019,3,Others,Nauru,145
+2019,3,Others,Palau,548
+2019,3,Others,Papua New Guinea,811
+2019,3,Others,Solomon Islands,175
+2019,3,Others,Tokelau,10
+2019,3,Set longlines,Fiji,1756
+2019,3,Set longlines,Marshall Islands,1528
+2019,3,Set longlines,Micronesia,758
+2019,3,Set longlines,Palau,180
+2019,3,Set longlines,Papua New Guinea,1
+2019,3,Set longlines,Samoa,72
+2019,3,Set longlines,Solomon Islands,2032
+2019,3,Set longlines,Tuvalu,423
+2019,3,Set longlines,Vanuatu,1315
+2019,3,Tuna purse seines,Kiribati,3229
+2019,3,Tuna purse seines,Marshall Islands,122
+2019,3,Tuna purse seines,Micronesia,960
+2019,3,Tuna purse seines,Nauru,1904
+2019,3,Tuna purse seines,Palau,33
+2019,3,Tuna purse seines,Papua New Guinea,7551
+2019,3,Tuna purse seines,Samoa,4
+2019,3,Tuna purse seines,Solomon Islands,610
+2019,3,Tuna purse seines,Tuvalu,701
+2019,4,Drifting longlines,Fiji,8088
+2019,4,Drifting longlines,Kiribati,546
+2019,4,Drifting longlines,Marshall Islands,7780
+2019,4,Drifting longlines,Micronesia,15716
+2019,4,Drifting longlines,Palau,3193
+2019,4,Drifting longlines,Papua New Guinea,10478
+2019,4,Drifting longlines,Samoa,523
+2019,4,Drifting longlines,Solomon Islands,23470
+2019,4,Drifting longlines,Tokelau,702
+2019,4,Drifting longlines,Tonga,3870
+2019,4,Drifting longlines,Tuvalu,2
+2019,4,Drifting longlines,Vanuatu,9341
+2019,4,Others,Fiji,544
+2019,4,Others,Kiribati,58
+2019,4,Others,Marshall Islands,621
+2019,4,Others,Micronesia,121
+2019,4,Others,Nauru,226
+2019,4,Others,Palau,768
+2019,4,Others,Papua New Guinea,828
+2019,4,Others,Samoa,222
+2019,4,Set longlines,Fiji,1388
+2019,4,Set longlines,Marshall Islands,1599
+2019,4,Set longlines,Micronesia,1155
+2019,4,Set longlines,Palau,123
+2019,4,Set longlines,Papua New Guinea,327
+2019,4,Set longlines,Samoa,149
+2019,4,Set longlines,Solomon Islands,1905
+2019,4,Set longlines,Tokelau,96
+2019,4,Set longlines,Tuvalu,455
+2019,4,Set longlines,Vanuatu,1064
+2019,4,Tuna purse seines,Fiji,3
+2019,4,Tuna purse seines,Kiribati,7730
+2019,4,Tuna purse seines,Marshall Islands,126
+2019,4,Tuna purse seines,Micronesia,432
+2019,4,Tuna purse seines,Nauru,1607
+2019,4,Tuna purse seines,Papua New Guinea,6640
+2019,4,Tuna purse seines,Solomon Islands,16
+2019,4,Tuna purse seines,Tokelau,180
+2019,4,Tuna purse seines,Tuvalu,2121
+2019,5,Drifting longlines,Fiji,8295
+2019,5,Drifting longlines,Kiribati,2187
+2019,5,Drifting longlines,Marshall Islands,7264
+2019,5,Drifting longlines,Micronesia,12810
+2019,5,Drifting longlines,Palau,1229
+2019,5,Drifting longlines,Papua New Guinea,12791
+2019,5,Drifting longlines,Samoa,1320
+2019,5,Drifting longlines,Solomon Islands,24890
+2019,5,Drifting longlines,Tokelau,1444
+2019,5,Drifting longlines,Tonga,5192
+2019,5,Drifting longlines,Tuvalu,824
+2019,5,Drifting longlines,Vanuatu,8667
+2019,5,Others,Kiribati,241
+2019,5,Others,Marshall Islands,210
+2019,5,Others,Micronesia,185
+2019,5,Others,Nauru,37
+2019,5,Others,Palau,270
+2019,5,Others,Papua New Guinea,825
+2019,5,Others,Samoa,14
+2019,5,Others,Solomon Islands,134
+2019,5,Set longlines,Fiji,1541
+2019,5,Set longlines,Marshall Islands,1805
+2019,5,Set longlines,Micronesia,1144
+2019,5,Set longlines,Papua New Guinea,1053
+2019,5,Set longlines,Samoa,373
+2019,5,Set longlines,Solomon Islands,2477
+2019,5,Set longlines,Tokelau,403
+2019,5,Set longlines,Tuvalu,633
+2019,5,Set longlines,Vanuatu,1249
+2019,5,Tuna purse seines,Fiji,8
+2019,5,Tuna purse seines,Kiribati,7623
+2019,5,Tuna purse seines,Marshall Islands,369
+2019,5,Tuna purse seines,Micronesia,4168
+2019,5,Tuna purse seines,Nauru,726
+2019,5,Tuna purse seines,Palau,19
+2019,5,Tuna purse seines,Papua New Guinea,1130
+2019,5,Tuna purse seines,Solomon Islands,38
+2019,5,Tuna purse seines,Tokelau,7
+2019,5,Tuna purse seines,Tuvalu,514
+2019,6,Drifting longlines,Fiji,6748
+2019,6,Drifting longlines,Kiribati,5752
+2019,6,Drifting longlines,Marshall Islands,5981
+2019,6,Drifting longlines,Micronesia,8944
+2019,6,Drifting longlines,Nauru,276
+2019,6,Drifting longlines,Palau,1882
+2019,6,Drifting longlines,Papua New Guinea,17562
+2019,6,Drifting longlines,Samoa,1440
+2019,6,Drifting longlines,Solomon Islands,24936
+2019,6,Drifting longlines,Tokelau,2075
+2019,6,Drifting longlines,Tonga,4000
+2019,6,Drifting longlines,Tuvalu,1372
+2019,6,Drifting longlines,Vanuatu,7363
+2019,6,Others,Fiji,461
+2019,6,Others,Kiribati,235
+2019,6,Others,Marshall Islands,377
+2019,6,Others,Nauru,72
+2019,6,Others,Palau,258
+2019,6,Others,Papua New Guinea,972
+2019,6,Others,Solomon Islands,61
+2019,6,Set longlines,Fiji,1244
+2019,6,Set longlines,Kiribati,61
+2019,6,Set longlines,Marshall Islands,1565
+2019,6,Set longlines,Micronesia,1275
+2019,6,Set longlines,Papua New Guinea,1709
+2019,6,Set longlines,Samoa,487
+2019,6,Set longlines,Solomon Islands,2962
+2019,6,Set longlines,Tokelau,291
+2019,6,Set longlines,Tuvalu,677
+2019,6,Set longlines,Vanuatu,997
+2019,6,Tuna purse seines,Kiribati,6348
+2019,6,Tuna purse seines,Marshall Islands,1254
+2019,6,Tuna purse seines,Micronesia,1236
+2019,6,Tuna purse seines,Nauru,1822
+2019,6,Tuna purse seines,Palau,85
+2019,6,Tuna purse seines,Papua New Guinea,3118
+2019,6,Tuna purse seines,Samoa,1
+2019,6,Tuna purse seines,Tuvalu,320
+2019,7,Drifting longlines,Fiji,7369
+2019,7,Drifting longlines,Kiribati,9462
+2019,7,Drifting longlines,Marshall Islands,7038
+2019,7,Drifting longlines,Micronesia,9553
+2019,7,Drifting longlines,Nauru,395
+2019,7,Drifting longlines,Palau,2965
+2019,7,Drifting longlines,Papua New Guinea,19832
+2019,7,Drifting longlines,Samoa,1765
+2019,7,Drifting longlines,Solomon Islands,25195
+2019,7,Drifting longlines,Tokelau,2140
+2019,7,Drifting longlines,Tonga,4889
+2019,7,Drifting longlines,Tuvalu,5249
+2019,7,Drifting longlines,Vanuatu,10099
+2019,7,Others,Fiji,704
+2019,7,Others,Kiribati,283
+2019,7,Others,Marshall Islands,422
+2019,7,Others,Nauru,0
+2019,7,Others,Palau,627
+2019,7,Others,Papua New Guinea,1156
+2019,7,Others,Solomon Islands,216
+2019,7,Others,Tuvalu,9
+2019,7,Set longlines,Fiji,1291
+2019,7,Set longlines,Kiribati,130
+2019,7,Set longlines,Marshall Islands,2019
+2019,7,Set longlines,Micronesia,819
+2019,7,Set longlines,Papua New Guinea,1771
+2019,7,Set longlines,Samoa,117
+2019,7,Set longlines,Solomon Islands,2023
+2019,7,Set longlines,Tokelau,830
+2019,7,Set longlines,Tuvalu,885
+2019,7,Set longlines,Vanuatu,1401
+2019,7,Tuna purse seines,Kiribati,6793
+2019,7,Tuna purse seines,Marshall Islands,681
+2019,7,Tuna purse seines,Micronesia,2590
+2019,7,Tuna purse seines,Nauru,1390
+2019,7,Tuna purse seines,Palau,25
+2019,7,Tuna purse seines,Papua New Guinea,4956
+2019,7,Tuna purse seines,Solomon Islands,2
+2019,7,Tuna purse seines,Tuvalu,266
+2019,8,Drifting longlines,Fiji,7529
+2019,8,Drifting longlines,Kiribati,9601
+2019,8,Drifting longlines,Marshall Islands,8196
+2019,8,Drifting longlines,Micronesia,9304
+2019,8,Drifting longlines,Palau,3680
+2019,8,Drifting longlines,Papua New Guinea,13612
+2019,8,Drifting longlines,Samoa,1078
+2019,8,Drifting longlines,Solomon Islands,27755
+2019,8,Drifting longlines,Tokelau,2009
+2019,8,Drifting longlines,Tonga,5449
+2019,8,Drifting longlines,Tuvalu,17050
+2019,8,Drifting longlines,Vanuatu,9133
+2019,8,Others,Fiji,1021
+2019,8,Others,Kiribati,184
+2019,8,Others,Marshall Islands,30
+2019,8,Others,Micronesia,31
+2019,8,Others,Nauru,211
+2019,8,Others,Palau,661
+2019,8,Others,Papua New Guinea,1174
+2019,8,Others,Samoa,11
+2019,8,Others,Solomon Islands,516
+2019,8,Others,Vanuatu,86
+2019,8,Set longlines,Fiji,1055
+2019,8,Set longlines,Kiribati,18
+2019,8,Set longlines,Marshall Islands,1629
+2019,8,Set longlines,Micronesia,1461
+2019,8,Set longlines,Palau,380
+2019,8,Set longlines,Papua New Guinea,926
+2019,8,Set longlines,Samoa,8
+2019,8,Set longlines,Solomon Islands,1901
+2019,8,Set longlines,Tokelau,994
+2019,8,Set longlines,Tuvalu,2497
+2019,8,Set longlines,Vanuatu,1829
+2019,8,Tuna purse seines,Kiribati,3939
+2019,8,Tuna purse seines,Marshall Islands,997
+2019,8,Tuna purse seines,Micronesia,7261
+2019,8,Tuna purse seines,Nauru,1479
+2019,8,Tuna purse seines,Palau,218
+2019,8,Tuna purse seines,Papua New Guinea,2457
+2019,8,Tuna purse seines,Samoa,36
+2019,8,Tuna purse seines,Solomon Islands,25
+2019,8,Tuna purse seines,Tuvalu,11
+2019,9,Drifting longlines,Fiji,6804
+2019,9,Drifting longlines,Kiribati,9419
+2019,9,Drifting longlines,Marshall Islands,6649
+2019,9,Drifting longlines,Micronesia,12631
+2019,9,Drifting longlines,Palau,3461
+2019,9,Drifting longlines,Papua New Guinea,12303
+2019,9,Drifting longlines,Samoa,1649
+2019,9,Drifting longlines,Solomon Islands,25098
+2019,9,Drifting longlines,Tokelau,1820
+2019,9,Drifting longlines,Tonga,3294
+2019,9,Drifting longlines,Tuvalu,14005
+2019,9,Drifting longlines,Vanuatu,8884
+2019,9,Others,Fiji,848
+2019,9,Others,Kiribati,340
+2019,9,Others,Marshall Islands,4
+2019,9,Others,Micronesia,86
+2019,9,Others,Palau,172
+2019,9,Others,Papua New Guinea,1095
+2019,9,Others,Samoa,438
+2019,9,Others,Solomon Islands,122
+2019,9,Others,Tuvalu,8
+2019,9,Set longlines,Fiji,1034
+2019,9,Set longlines,Kiribati,56
+2019,9,Set longlines,Marshall Islands,989
+2019,9,Set longlines,Micronesia,2048
+2019,9,Set longlines,Palau,579
+2019,9,Set longlines,Papua New Guinea,401
+2019,9,Set longlines,Samoa,19
+2019,9,Set longlines,Solomon Islands,1210
+2019,9,Set longlines,Tokelau,776
+2019,9,Set longlines,Tuvalu,1815
+2019,9,Set longlines,Vanuatu,1483
+2019,9,Tuna purse seines,Kiribati,4914
+2019,9,Tuna purse seines,Marshall Islands,170
+2019,9,Tuna purse seines,Micronesia,2865
+2019,9,Tuna purse seines,Nauru,356
+2019,9,Tuna purse seines,Palau,31
+2019,9,Tuna purse seines,Papua New Guinea,5315
+2019,9,Tuna purse seines,Tuvalu,539
+2019,10,Drifting longlines,Fiji,6881
+2019,10,Drifting longlines,Kiribati,7931
+2019,10,Drifting longlines,Marshall Islands,4429
+2019,10,Drifting longlines,Micronesia,15540
+2019,10,Drifting longlines,Palau,3296
+2019,10,Drifting longlines,Papua New Guinea,6629
+2019,10,Drifting longlines,Samoa,1801
+2019,10,Drifting longlines,Solomon Islands,23122
+2019,10,Drifting longlines,Tokelau,2203
+2019,10,Drifting longlines,Tonga,3996
+2019,10,Drifting longlines,Tuvalu,5629
+2019,10,Drifting longlines,Vanuatu,15584
+2019,10,Others,Fiji,895
+2019,10,Others,Kiribati,385
+2019,10,Others,Marshall Islands,24
+2019,10,Others,Micronesia,211
+2019,10,Others,Palau,225
+2019,10,Others,Papua New Guinea,1829
+2019,10,Others,Samoa,246
+2019,10,Others,Solomon Islands,10
+2019,10,Others,Tuvalu,442
+2019,10,Set longlines,Fiji,1421
+2019,10,Set longlines,Kiribati,2
+2019,10,Set longlines,Marshall Islands,1188
+2019,10,Set longlines,Micronesia,2369
+2019,10,Set longlines,Palau,418
+2019,10,Set longlines,Papua New Guinea,788
+2019,10,Set longlines,Samoa,24
+2019,10,Set longlines,Solomon Islands,2397
+2019,10,Set longlines,Tokelau,900
+2019,10,Set longlines,Tuvalu,683
+2019,10,Set longlines,Vanuatu,2826
+2019,10,Tuna purse seines,Kiribati,7591
+2019,10,Tuna purse seines,Marshall Islands,134
+2019,10,Tuna purse seines,Micronesia,5023
+2019,10,Tuna purse seines,Nauru,789
+2019,10,Tuna purse seines,Papua New Guinea,1463
+2019,10,Tuna purse seines,Solomon Islands,206
+2019,10,Tuna purse seines,Tokelau,2
+2019,10,Tuna purse seines,Tuvalu,2301
+2019,11,Drifting longlines,Fiji,6466
+2019,11,Drifting longlines,Kiribati,7540
+2019,11,Drifting longlines,Marshall Islands,4620
+2019,11,Drifting longlines,Micronesia,14738
+2019,11,Drifting longlines,Nauru,44
+2019,11,Drifting longlines,Palau,4125
+2019,11,Drifting longlines,Papua New Guinea,4537
+2019,11,Drifting longlines,Samoa,636
+2019,11,Drifting longlines,Solomon Islands,19777
+2019,11,Drifting longlines,Tokelau,2163
+2019,11,Drifting longlines,Tonga,4684
+2019,11,Drifting longlines,Tuvalu,12602
+2019,11,Drifting longlines,Vanuatu,17858
+2019,11,Others,Fiji,714
+2019,11,Others,Kiribati,478
+2019,11,Others,Marshall Islands,89
+2019,11,Others,Micronesia,290
+2019,11,Others,Nauru,19
+2019,11,Others,Palau,637
+2019,11,Others,Papua New Guinea,1256
+2019,11,Others,Solomon Islands,19
+2019,11,Others,Tuvalu,830
+2019,11,Set longlines,Fiji,1759
+2019,11,Set longlines,Kiribati,91
+2019,11,Set longlines,Marshall Islands,940
+2019,11,Set longlines,Micronesia,1345
+2019,11,Set longlines,Palau,628
+2019,11,Set longlines,Papua New Guinea,977
+2019,11,Set longlines,Solomon Islands,2069
+2019,11,Set longlines,Tokelau,1134
+2019,11,Set longlines,Tuvalu,1043
+2019,11,Set longlines,Vanuatu,3421
+2019,11,Tuna purse seines,Fiji,81
+2019,11,Tuna purse seines,Kiribati,6932
+2019,11,Tuna purse seines,Marshall Islands,357
+2019,11,Tuna purse seines,Micronesia,2808
+2019,11,Tuna purse seines,Nauru,3360
+2019,11,Tuna purse seines,Papua New Guinea,3138
+2019,11,Tuna purse seines,Solomon Islands,677
+2019,11,Tuna purse seines,Tokelau,15
+2019,11,Tuna purse seines,Tuvalu,1841
+2019,12,Drifting longlines,Fiji,8580
+2019,12,Drifting longlines,Kiribati,6194
+2019,12,Drifting longlines,Marshall Islands,3620
+2019,12,Drifting longlines,Micronesia,17789
+2019,12,Drifting longlines,Palau,4089
+2019,12,Drifting longlines,Papua New Guinea,3025
+2019,12,Drifting longlines,Samoa,894
+2019,12,Drifting longlines,Solomon Islands,17392
+2019,12,Drifting longlines,Tokelau,638
+2019,12,Drifting longlines,Tonga,3585
+2019,12,Drifting longlines,Tuvalu,7541
+2019,12,Drifting longlines,Vanuatu,18732
+2019,12,Others,Fiji,440
+2019,12,Others,Kiribati,292
+2019,12,Others,Micronesia,199
+2019,12,Others,Palau,514
+2019,12,Others,Papua New Guinea,1316
+2019,12,Others,Samoa,58
+2019,12,Others,Solomon Islands,19
+2019,12,Others,Tonga,3
+2019,12,Others,Tuvalu,1539
+2019,12,Set longlines,Fiji,1354
+2019,12,Set longlines,Kiribati,541
+2019,12,Set longlines,Marshall Islands,1267
+2019,12,Set longlines,Micronesia,1951
+2019,12,Set longlines,Palau,423
+2019,12,Set longlines,Papua New Guinea,744
+2019,12,Set longlines,Samoa,514
+2019,12,Set longlines,Solomon Islands,1931
+2019,12,Set longlines,Tokelau,257
+2019,12,Set longlines,Tuvalu,607
+2019,12,Set longlines,Vanuatu,3054
+2019,12,Tuna purse seines,Fiji,72
+2019,12,Tuna purse seines,Kiribati,5090
+2019,12,Tuna purse seines,Marshall Islands,464
+2019,12,Tuna purse seines,Micronesia,4186
+2019,12,Tuna purse seines,Nauru,1373
+2019,12,Tuna purse seines,Papua New Guinea,4736
+2019,12,Tuna purse seines,Solomon Islands,1399
+2019,12,Tuna purse seines,Tokelau,32
+2019,12,Tuna purse seines,Tuvalu,1235
+2020,1,Drifting longlines,Fiji,7036
+2020,1,Drifting longlines,Kiribati,4806
+2020,1,Drifting longlines,Marshall Islands,5055
+2020,1,Drifting longlines,Micronesia,13751
+2020,1,Drifting longlines,Palau,70
+2020,1,Drifting longlines,Papua New Guinea,1892
+2020,1,Drifting longlines,Samoa,952
+2020,1,Drifting longlines,Solomon Islands,17492
+2020,1,Drifting longlines,Tokelau,585
+2020,1,Drifting longlines,Tonga,3579
+2020,1,Drifting longlines,Vanuatu,16198
+2020,1,Others,Fiji,308
+2020,1,Others,Kiribati,296
+2020,1,Others,Marshall Islands,930
+2020,1,Others,Micronesia,307
+2020,1,Others,Palau,2
+2020,1,Others,Papua New Guinea,696
+2020,1,Others,Samoa,1
+2020,1,Others,Solomon Islands,311
+2020,1,Others,Tokelau,4
+2020,1,Others,Tuvalu,240
+2020,1,Set longlines,Fiji,1051
+2020,1,Set longlines,Kiribati,512
+2020,1,Set longlines,Marshall Islands,1517
+2020,1,Set longlines,Micronesia,1838
+2020,1,Set longlines,Palau,25
+2020,1,Set longlines,Papua New Guinea,964
+2020,1,Set longlines,Samoa,381
+2020,1,Set longlines,Solomon Islands,1111
+2020,1,Set longlines,Tokelau,110
+2020,1,Set longlines,Tuvalu,184
+2020,1,Set longlines,Vanuatu,2315
+2020,1,Tuna purse seines,Kiribati,6657
+2020,1,Tuna purse seines,Marshall Islands,205
+2020,1,Tuna purse seines,Micronesia,1077
+2020,1,Tuna purse seines,Nauru,475
+2020,1,Tuna purse seines,Papua New Guinea,5349
+2020,1,Tuna purse seines,Solomon Islands,2952
+2020,1,Tuna purse seines,Tuvalu,768
+2020,1,Tuna purse seines,Vanuatu,38
+2020,2,Drifting longlines,Fiji,6437
+2020,2,Drifting longlines,Kiribati,4005
+2020,2,Drifting longlines,Marshall Islands,4655
+2020,2,Drifting longlines,Micronesia,12384
+2020,2,Drifting longlines,Palau,115
+2020,2,Drifting longlines,Papua New Guinea,6406
+2020,2,Drifting longlines,Samoa,1653
+2020,2,Drifting longlines,Solomon Islands,16076
+2020,2,Drifting longlines,Tokelau,721
+2020,2,Drifting longlines,Tonga,4512
+2020,2,Drifting longlines,Tuvalu,613
+2020,2,Drifting longlines,Vanuatu,14099
+2020,2,Others,Fiji,353
+2020,2,Others,Kiribati,162
+2020,2,Others,Marshall Islands,552
+2020,2,Others,Micronesia,58
+2020,2,Others,Nauru,14
+2020,2,Others,Palau,2
+2020,2,Others,Papua New Guinea,883
+2020,2,Others,Solomon Islands,123
+2020,2,Others,Tokelau,6
+2020,2,Others,Tuvalu,360
+2020,2,Set longlines,Fiji,918
+2020,2,Set longlines,Kiribati,554
+2020,2,Set longlines,Marshall Islands,1285
+2020,2,Set longlines,Micronesia,1849
+2020,2,Set longlines,Papua New Guinea,1026
+2020,2,Set longlines,Samoa,144
+2020,2,Set longlines,Solomon Islands,1539
+2020,2,Set longlines,Tokelau,50
+2020,2,Set longlines,Vanuatu,2118
+2020,2,Tuna purse seines,Kiribati,6021
+2020,2,Tuna purse seines,Marshall Islands,150
+2020,2,Tuna purse seines,Micronesia,1089
+2020,2,Tuna purse seines,Nauru,369
+2020,2,Tuna purse seines,Papua New Guinea,4789
+2020,2,Tuna purse seines,Samoa,15
+2020,2,Tuna purse seines,Solomon Islands,564
+2020,2,Tuna purse seines,Tuvalu,429
+2020,2,Tuna purse seines,Vanuatu,41
+2020,3,Drifting longlines,Fiji,7029
+2020,3,Drifting longlines,Kiribati,6342
+2020,3,Drifting longlines,Marshall Islands,5402
+2020,3,Drifting longlines,Micronesia,10546
+2020,3,Drifting longlines,Palau,169
+2020,3,Drifting longlines,Papua New Guinea,6339
+2020,3,Drifting longlines,Samoa,2995
+2020,3,Drifting longlines,Solomon Islands,16782
+2020,3,Drifting longlines,Tokelau,307
+2020,3,Drifting longlines,Tonga,3975
+2020,3,Drifting longlines,Tuvalu,1083
+2020,3,Drifting longlines,Vanuatu,10297
+2020,3,Others,Kiribati,220
+2020,3,Others,Marshall Islands,1059
+2020,3,Others,Micronesia,62
+2020,3,Others,Nauru,63
+2020,3,Others,Papua New Guinea,744
+2020,3,Others,Samoa,189
+2020,3,Others,Solomon Islands,37
+2020,3,Others,Tuvalu,388
+2020,3,Set longlines,Fiji,1200
+2020,3,Set longlines,Kiribati,386
+2020,3,Set longlines,Marshall Islands,1438
+2020,3,Set longlines,Micronesia,1275
+2020,3,Set longlines,Papua New Guinea,517
+2020,3,Set longlines,Samoa,42
+2020,3,Set longlines,Solomon Islands,1295
+2020,3,Set longlines,Tokelau,24
+2020,3,Set longlines,Tuvalu,1188
+2020,3,Set longlines,Vanuatu,814
+2020,3,Tuna purse seines,Kiribati,4390
+2020,3,Tuna purse seines,Marshall Islands,361
+2020,3,Tuna purse seines,Micronesia,2819
+2020,3,Tuna purse seines,Nauru,3415
+2020,3,Tuna purse seines,Papua New Guinea,5275
+2020,3,Tuna purse seines,Solomon Islands,176
+2020,3,Tuna purse seines,Tokelau,7
+2020,3,Tuna purse seines,Tuvalu,902
+2020,4,Drifting longlines,Fiji,5472
+2020,4,Drifting longlines,Kiribati,13353
+2020,4,Drifting longlines,Marshall Islands,4737
+2020,4,Drifting longlines,Micronesia,12856
+2020,4,Drifting longlines,Palau,263
+2020,4,Drifting longlines,Papua New Guinea,5030
+2020,4,Drifting longlines,Samoa,3606
+2020,4,Drifting longlines,Solomon Islands,19915
+2020,4,Drifting longlines,Tokelau,382
+2020,4,Drifting longlines,Tonga,3360
+2020,4,Drifting longlines,Tuvalu,3841
+2020,4,Drifting longlines,Vanuatu,3852
+2020,4,Others,Fiji,10
+2020,4,Others,Kiribati,30
+2020,4,Others,Marshall Islands,804
+2020,4,Others,Micronesia,548
+2020,4,Others,Nauru,55
+2020,4,Others,Papua New Guinea,176
+2020,4,Others,Samoa,362
+2020,4,Others,Solomon Islands,12
+2020,4,Others,Tonga,0
+2020,4,Others,Tuvalu,135
+2020,4,Set longlines,Fiji,172
+2020,4,Set longlines,Kiribati,525
+2020,4,Set longlines,Marshall Islands,943
+2020,4,Set longlines,Micronesia,1023
+2020,4,Set longlines,Papua New Guinea,11
+2020,4,Set longlines,Samoa,23
+2020,4,Set longlines,Solomon Islands,1684
+2020,4,Set longlines,Tuvalu,1026
+2020,4,Set longlines,Vanuatu,675
+2020,4,Tuna purse seines,Kiribati,2544
+2020,4,Tuna purse seines,Marshall Islands,2612
+2020,4,Tuna purse seines,Micronesia,6655
+2020,4,Tuna purse seines,Nauru,3521
+2020,4,Tuna purse seines,Papua New Guinea,6043
+2020,4,Tuna purse seines,Solomon Islands,43
+2020,4,Tuna purse seines,Tuvalu,463
+2020,5,Drifting longlines,Fiji,7911
+2020,5,Drifting longlines,Kiribati,16568
+2020,5,Drifting longlines,Marshall Islands,6633
+2020,5,Drifting longlines,Micronesia,11979
+2020,5,Drifting longlines,Palau,785
+2020,5,Drifting longlines,Papua New Guinea,4069
+2020,5,Drifting longlines,Samoa,1106
+2020,5,Drifting longlines,Solomon Islands,19239
+2020,5,Drifting longlines,Tokelau,1683
+2020,5,Drifting longlines,Tonga,2851
+2020,5,Drifting longlines,Tuvalu,5813
+2020,5,Drifting longlines,Vanuatu,3733
+2020,5,Others,Fiji,13
+2020,5,Others,Kiribati,140
+2020,5,Others,Marshall Islands,69
+2020,5,Others,Micronesia,164
+2020,5,Others,Nauru,2
+2020,5,Others,Papua New Guinea,90
+2020,5,Others,Samoa,322
+2020,5,Others,Solomon Islands,32
+2020,5,Others,Tuvalu,288
+2020,5,Set longlines,Fiji,821
+2020,5,Set longlines,Kiribati,283
+2020,5,Set longlines,Marshall Islands,878
+2020,5,Set longlines,Micronesia,480
+2020,5,Set longlines,Solomon Islands,1043
+2020,5,Set longlines,Tuvalu,1997
+2020,5,Set longlines,Vanuatu,607
+2020,5,Tuna purse seines,Kiribati,2025
+2020,5,Tuna purse seines,Marshall Islands,843
+2020,5,Tuna purse seines,Micronesia,10246
+2020,5,Tuna purse seines,Nauru,1637
+2020,5,Tuna purse seines,Papua New Guinea,6112
+2020,5,Tuna purse seines,Solomon Islands,59
+2020,5,Tuna purse seines,Tuvalu,946
+2020,6,Drifting longlines,Fiji,6328
+2020,6,Drifting longlines,Kiribati,18417
+2020,6,Drifting longlines,Marshall Islands,8115
+2020,6,Drifting longlines,Micronesia,7996
+2020,6,Drifting longlines,Palau,258
+2020,6,Drifting longlines,Papua New Guinea,7024
+2020,6,Drifting longlines,Samoa,1105
+2020,6,Drifting longlines,Solomon Islands,15571
+2020,6,Drifting longlines,Tokelau,1391
+2020,6,Drifting longlines,Tonga,2565
+2020,6,Drifting longlines,Tuvalu,4368
+2020,6,Drifting longlines,Vanuatu,6858
+2020,6,Others,Kiribati,223
+2020,6,Others,Marshall Islands,11
+2020,6,Others,Micronesia,166
+2020,6,Others,Nauru,19
+2020,6,Others,Palau,17
+2020,6,Others,Papua New Guinea,733
+2020,6,Others,Tuvalu,10
+2020,6,Set longlines,Fiji,601
+2020,6,Set longlines,Marshall Islands,867
+2020,6,Set longlines,Micronesia,395
+2020,6,Set longlines,Papua New Guinea,485
+2020,6,Set longlines,Samoa,16
+2020,6,Set longlines,Solomon Islands,679
+2020,6,Set longlines,Tokelau,320
+2020,6,Set longlines,Tonga,14
+2020,6,Set longlines,Tuvalu,978
+2020,6,Set longlines,Vanuatu,1102
+2020,6,Tuna purse seines,Kiribati,4309
+2020,6,Tuna purse seines,Marshall Islands,1136
+2020,6,Tuna purse seines,Micronesia,7045
+2020,6,Tuna purse seines,Nauru,967
+2020,6,Tuna purse seines,Papua New Guinea,4104
+2020,6,Tuna purse seines,Solomon Islands,44
+2020,6,Tuna purse seines,Tokelau,26
+2020,6,Tuna purse seines,Tuvalu,1202
+2020,7,Drifting longlines,Fiji,6470
+2020,7,Drifting longlines,Kiribati,20592
+2020,7,Drifting longlines,Marshall Islands,9978
+2020,7,Drifting longlines,Micronesia,5806
+2020,7,Drifting longlines,Palau,240
+2020,7,Drifting longlines,Papua New Guinea,8111
+2020,7,Drifting longlines,Samoa,2176
+2020,7,Drifting longlines,Solomon Islands,16700
+2020,7,Drifting longlines,Tokelau,333
+2020,7,Drifting longlines,Tonga,2428
+2020,7,Drifting longlines,Tuvalu,1448
+2020,7,Drifting longlines,Vanuatu,12020
+2020,7,Others,Fiji,677
+2020,7,Others,Kiribati,54
+2020,7,Others,Micronesia,234
+2020,7,Others,Papua New Guinea,652
+2020,7,Others,Samoa,504
+2020,7,Others,Solomon Islands,29
+2020,7,Others,Tokelau,115
+2020,7,Set longlines,Fiji,1146
+2020,7,Set longlines,Marshall Islands,983
+2020,7,Set longlines,Micronesia,493
+2020,7,Set longlines,Papua New Guinea,640
+2020,7,Set longlines,Samoa,205
+2020,7,Set longlines,Solomon Islands,601
+2020,7,Set longlines,Tokelau,81
+2020,7,Set longlines,Tuvalu,1051
+2020,7,Set longlines,Vanuatu,1488
+2020,7,Tuna purse seines,Kiribati,3671
+2020,7,Tuna purse seines,Marshall Islands,912
+2020,7,Tuna purse seines,Micronesia,4950
+2020,7,Tuna purse seines,Nauru,2919
+2020,7,Tuna purse seines,Palau,0
+2020,7,Tuna purse seines,Papua New Guinea,7743
+2020,7,Tuna purse seines,Solomon Islands,53
+2020,7,Tuna purse seines,Tokelau,14
+2020,7,Tuna purse seines,Tuvalu,1400
+2020,8,Drifting longlines,Fiji,6219
+2020,8,Drifting longlines,Kiribati,11273
+2020,8,Drifting longlines,Marshall Islands,10769
+2020,8,Drifting longlines,Micronesia,7893
+2020,8,Drifting longlines,Palau,38
+2020,8,Drifting longlines,Papua New Guinea,6725
+2020,8,Drifting longlines,Samoa,2262
+2020,8,Drifting longlines,Solomon Islands,13771
+2020,8,Drifting longlines,Tokelau,842
+2020,8,Drifting longlines,Tonga,2025
+2020,8,Drifting longlines,Tuvalu,1841
+2020,8,Drifting longlines,Vanuatu,15561
+2020,8,Others,Fiji,205
+2020,8,Others,Kiribati,95
+2020,8,Others,Micronesia,81
+2020,8,Others,Nauru,23
+2020,8,Others,Papua New Guinea,650
+2020,8,Others,Samoa,353
+2020,8,Others,Solomon Islands,10
+2020,8,Others,Tokelau,233
+2020,8,Others,Tuvalu,32
+2020,8,Set longlines,Fiji,738
+2020,8,Set longlines,Marshall Islands,1112
+2020,8,Set longlines,Micronesia,837
+2020,8,Set longlines,Papua New Guinea,200
+2020,8,Set longlines,Samoa,8
+2020,8,Set longlines,Solomon Islands,634
+2020,8,Set longlines,Tuvalu,899
+2020,8,Set longlines,Vanuatu,1654
+2020,8,Tuna purse seines,Kiribati,3809
+2020,8,Tuna purse seines,Marshall Islands,1129
+2020,8,Tuna purse seines,Micronesia,2620
+2020,8,Tuna purse seines,Nauru,3595
+2020,8,Tuna purse seines,Papua New Guinea,7464
+2020,8,Tuna purse seines,Solomon Islands,29
+2020,8,Tuna purse seines,Tokelau,265
+2020,8,Tuna purse seines,Tuvalu,480
+2020,9,Drifting longlines,Fiji,6354
+2020,9,Drifting longlines,Kiribati,3271
+2020,9,Drifting longlines,Marshall Islands,10039
+2020,9,Drifting longlines,Micronesia,11552
+2020,9,Drifting longlines,Palau,1
+2020,9,Drifting longlines,Papua New Guinea,4651
+2020,9,Drifting longlines,Samoa,2053
+2020,9,Drifting longlines,Solomon Islands,19713
+2020,9,Drifting longlines,Tokelau,2774
+2020,9,Drifting longlines,Tonga,2473
+2020,9,Drifting longlines,Tuvalu,294
+2020,9,Drifting longlines,Vanuatu,17137
+2020,9,Others,Fiji,113
+2020,9,Others,Kiribati,31
+2020,9,Others,Marshall Islands,13
+2020,9,Others,Micronesia,38
+2020,9,Others,Nauru,3
+2020,9,Others,Papua New Guinea,525
+2020,9,Others,Samoa,304
+2020,9,Others,Tokelau,467
+2020,9,Others,Tuvalu,19
+2020,9,Set longlines,Fiji,442
+2020,9,Set longlines,Marshall Islands,980
+2020,9,Set longlines,Micronesia,989
+2020,9,Set longlines,Papua New Guinea,649
+2020,9,Set longlines,Samoa,389
+2020,9,Set longlines,Solomon Islands,983
+2020,9,Set longlines,Tuvalu,339
+2020,9,Set longlines,Vanuatu,2389
+2020,9,Tuna purse seines,Kiribati,5155
+2020,9,Tuna purse seines,Marshall Islands,498
+2020,9,Tuna purse seines,Micronesia,1594
+2020,9,Tuna purse seines,Nauru,240
+2020,9,Tuna purse seines,Palau,8
+2020,9,Tuna purse seines,Papua New Guinea,4529
+2020,9,Tuna purse seines,Solomon Islands,25
+2020,9,Tuna purse seines,Tokelau,360
+2020,9,Tuna purse seines,Tuvalu,3494
+2020,10,Drifting longlines,Fiji,6166
+2020,10,Drifting longlines,Kiribati,2963
+2020,10,Drifting longlines,Marshall Islands,8040
+2020,10,Drifting longlines,Micronesia,13526
+2020,10,Drifting longlines,Palau,183
+2020,10,Drifting longlines,Papua New Guinea,3696
+2020,10,Drifting longlines,Samoa,1374
+2020,10,Drifting longlines,Solomon Islands,14161
+2020,10,Drifting longlines,Tokelau,2505
+2020,10,Drifting longlines,Tonga,3054
+2020,10,Drifting longlines,Tuvalu,190
+2020,10,Drifting longlines,Vanuatu,24589
+2020,10,Others,Fiji,15
+2020,10,Others,Kiribati,22
+2020,10,Others,Micronesia,175
+2020,10,Others,Papua New Guinea,760
+2020,10,Others,Samoa,284
+2020,10,Others,Tokelau,340
+2020,10,Others,Tuvalu,169
+2020,10,Set longlines,Fiji,590
+2020,10,Set longlines,Kiribati,12
+2020,10,Set longlines,Marshall Islands,898
+2020,10,Set longlines,Micronesia,1152
+2020,10,Set longlines,Papua New Guinea,640
+2020,10,Set longlines,Samoa,352
+2020,10,Set longlines,Solomon Islands,1918
+2020,10,Set longlines,Tuvalu,561
+2020,10,Set longlines,Vanuatu,2084
+2020,10,Tuna purse seines,Kiribati,3225
+2020,10,Tuna purse seines,Marshall Islands,547
+2020,10,Tuna purse seines,Micronesia,2209
+2020,10,Tuna purse seines,Nauru,1823
+2020,10,Tuna purse seines,Papua New Guinea,3655
+2020,10,Tuna purse seines,Solomon Islands,1500
+2020,10,Tuna purse seines,Tokelau,254
+2020,10,Tuna purse seines,Tuvalu,2475
+2020,11,Drifting longlines,Fiji,5300
+2020,11,Drifting longlines,Kiribati,2507
+2020,11,Drifting longlines,Marshall Islands,5343
+2020,11,Drifting longlines,Micronesia,13491
+2020,11,Drifting longlines,Palau,65
+2020,11,Drifting longlines,Papua New Guinea,2012
+2020,11,Drifting longlines,Samoa,1388
+2020,11,Drifting longlines,Solomon Islands,13288
+2020,11,Drifting longlines,Tokelau,1763
+2020,11,Drifting longlines,Tonga,2532
+2020,11,Drifting longlines,Vanuatu,22915
+2020,11,Others,Fiji,167
+2020,11,Others,Kiribati,0
+2020,11,Others,Marshall Islands,3
+2020,11,Others,Micronesia,117
+2020,11,Others,Papua New Guinea,93
+2020,11,Others,Samoa,558
+2020,11,Others,Tokelau,46
+2020,11,Others,Tuvalu,234
+2020,11,Others,Vanuatu,111
+2020,11,Set longlines,Fiji,611
+2020,11,Set longlines,Marshall Islands,808
+2020,11,Set longlines,Micronesia,878
+2020,11,Set longlines,Papua New Guinea,176
+2020,11,Set longlines,Samoa,23
+2020,11,Set longlines,Solomon Islands,1775
+2020,11,Set longlines,Tokelau,134
+2020,11,Set longlines,Tuvalu,419
+2020,11,Set longlines,Vanuatu,2030
+2020,11,Tuna purse seines,Kiribati,3434
+2020,11,Tuna purse seines,Marshall Islands,599
+2020,11,Tuna purse seines,Micronesia,927
+2020,11,Tuna purse seines,Nauru,1008
+2020,11,Tuna purse seines,Papua New Guinea,6534
+2020,11,Tuna purse seines,Solomon Islands,1152
+2020,11,Tuna purse seines,Tokelau,151
+2020,11,Tuna purse seines,Tuvalu,1521
+2020,12,Drifting longlines,Fiji,5654
+2020,12,Drifting longlines,Kiribati,1422
+2020,12,Drifting longlines,Marshall Islands,4336
+2020,12,Drifting longlines,Micronesia,13852
+2020,12,Drifting longlines,Palau,70
+2020,12,Drifting longlines,Papua New Guinea,1449
+2020,12,Drifting longlines,Samoa,2456
+2020,12,Drifting longlines,Solomon Islands,15026
+2020,12,Drifting longlines,Tokelau,1889
+2020,12,Drifting longlines,Tonga,2873
+2020,12,Drifting longlines,Vanuatu,17033
+2020,12,Others,Fiji,200
+2020,12,Others,Kiribati,59
+2020,12,Others,Marshall Islands,9
+2020,12,Others,Micronesia,61
+2020,12,Others,Samoa,532
+2020,12,Others,Solomon Islands,36
+2020,12,Others,Tokelau,118
+2020,12,Others,Tonga,11
+2020,12,Others,Tuvalu,197
+2020,12,Set longlines,Fiji,303
+2020,12,Set longlines,Marshall Islands,674
+2020,12,Set longlines,Micronesia,761
+2020,12,Set longlines,Palau,18
+2020,12,Set longlines,Samoa,127
+2020,12,Set longlines,Solomon Islands,1405
+2020,12,Set longlines,Tokelau,94
+2020,12,Set longlines,Tuvalu,263
+2020,12,Set longlines,Vanuatu,2277
+2020,12,Tuna purse seines,Kiribati,3045
+2020,12,Tuna purse seines,Marshall Islands,638
+2020,12,Tuna purse seines,Micronesia,208
+2020,12,Tuna purse seines,Nauru,1618
+2020,12,Tuna purse seines,Papua New Guinea,7283
+2020,12,Tuna purse seines,Solomon Islands,524
+2020,12,Tuna purse seines,Tokelau,22
+2020,12,Tuna purse seines,Tuvalu,1451
+2021,1,Drifting longlines,Fiji,6170
+2021,1,Drifting longlines,Kiribati,1702
+2021,1,Drifting longlines,Marshall Islands,4409
+2021,1,Drifting longlines,Micronesia,9237
+2021,1,Drifting longlines,Palau,83
+2021,1,Drifting longlines,Papua New Guinea,4647
+2021,1,Drifting longlines,Samoa,3414
+2021,1,Drifting longlines,Solomon Islands,17970
+2021,1,Drifting longlines,Tokelau,1726
+2021,1,Drifting longlines,Tonga,2993
+2021,1,Drifting longlines,Vanuatu,9022
+2021,1,Others,Fiji,266
+2021,1,Others,Kiribati,75
+2021,1,Others,Micronesia,62
+2021,1,Others,Palau,3
+2021,1,Others,Papua New Guinea,249
+2021,1,Others,Samoa,421
+2021,1,Others,Solomon Islands,50
+2021,1,Others,Tokelau,124
+2021,1,Others,Tonga,243
+2021,1,Set longlines,Fiji,821
+2021,1,Set longlines,Marshall Islands,667
+2021,1,Set longlines,Palau,48
+2021,1,Set longlines,Papua New Guinea,383
+2021,1,Set longlines,Samoa,52
+2021,1,Set longlines,Solomon Islands,1660
+2021,1,Set longlines,Tokelau,73
+2021,1,Set longlines,Vanuatu,1062
+2021,1,Tuna purse seines,Kiribati,1938
+2021,1,Tuna purse seines,Marshall Islands,618
+2021,1,Tuna purse seines,Micronesia,652
+2021,1,Tuna purse seines,Nauru,969
+2021,1,Tuna purse seines,Papua New Guinea,9223
+2021,1,Tuna purse seines,Solomon Islands,1401
+2021,1,Tuna purse seines,Tokelau,93
+2021,1,Tuna purse seines,Tuvalu,920
+2021,2,Drifting longlines,Fiji,5028
+2021,2,Drifting longlines,Kiribati,2494
+2021,2,Drifting longlines,Marshall Islands,4010
+2021,2,Drifting longlines,Micronesia,9108
+2021,2,Drifting longlines,Palau,136
+2021,2,Drifting longlines,Papua New Guinea,6103
+2021,2,Drifting longlines,Samoa,2018
+2021,2,Drifting longlines,Solomon Islands,13526
+2021,2,Drifting longlines,Tokelau,2023
+2021,2,Drifting longlines,Tonga,2692
+2021,2,Drifting longlines,Tuvalu,1098
+2021,2,Drifting longlines,Vanuatu,5509
+2021,2,Others,Fiji,141
+2021,2,Others,Kiribati,71
+2021,2,Others,Marshall Islands,10
+2021,2,Others,Micronesia,67
+2021,2,Others,Nauru,16
+2021,2,Others,Papua New Guinea,788
+2021,2,Others,Samoa,288
+2021,2,Others,Tokelau,250
+2021,2,Others,Tuvalu,42
+2021,2,Set longlines,Fiji,646
+2021,2,Set longlines,Marshall Islands,678
+2021,2,Set longlines,Palau,16
+2021,2,Set longlines,Papua New Guinea,354
+2021,2,Set longlines,Solomon Islands,582
+2021,2,Set longlines,Tokelau,298
+2021,2,Set longlines,Vanuatu,703
+2021,2,Tuna purse seines,Kiribati,2166
+2021,2,Tuna purse seines,Marshall Islands,214
+2021,2,Tuna purse seines,Micronesia,787
+2021,2,Tuna purse seines,Nauru,1426
+2021,2,Tuna purse seines,Papua New Guinea,8179
+2021,2,Tuna purse seines,Samoa,10
+2021,2,Tuna purse seines,Solomon Islands,570
+2021,2,Tuna purse seines,Tokelau,22
+2021,2,Tuna purse seines,Tuvalu,377
+2021,3,Drifting longlines,Fiji,5093
+2021,3,Drifting longlines,Kiribati,6367
+2021,3,Drifting longlines,Marshall Islands,4521
+2021,3,Drifting longlines,Micronesia,11511
+2021,3,Drifting longlines,Palau,76
+2021,3,Drifting longlines,Papua New Guinea,5516
+2021,3,Drifting longlines,Samoa,1359
+2021,3,Drifting longlines,Solomon Islands,11614
+2021,3,Drifting longlines,Tokelau,2025
+2021,3,Drifting longlines,Tonga,2900
+2021,3,Drifting longlines,Tuvalu,1652
+2021,3,Drifting longlines,Vanuatu,5526
+2021,3,Others,Fiji,470
+2021,3,Others,Kiribati,23
+2021,3,Others,Marshall Islands,82
+2021,3,Others,Micronesia,470
+2021,3,Others,Papua New Guinea,740
+2021,3,Others,Samoa,236
+2021,3,Others,Tokelau,325
+2021,3,Others,Tonga,105
+2021,3,Others,Tuvalu,18
+2021,3,Set longlines,Fiji,858
+2021,3,Set longlines,Marshall Islands,685
+2021,3,Set longlines,Papua New Guinea,93
+2021,3,Set longlines,Solomon Islands,1126
+2021,3,Set longlines,Tokelau,331
+2021,3,Set longlines,Tuvalu,244
+2021,3,Set longlines,Vanuatu,272
+2021,3,Tuna purse seines,Kiribati,3579
+2021,3,Tuna purse seines,Marshall Islands,247
+2021,3,Tuna purse seines,Micronesia,2262
+2021,3,Tuna purse seines,Nauru,1018
+2021,3,Tuna purse seines,Papua New Guinea,5902
+2021,3,Tuna purse seines,Solomon Islands,212
+2021,3,Tuna purse seines,Tuvalu,520
+2021,4,Drifting longlines,Fiji,5509
+2021,4,Drifting longlines,Kiribati,7276
+2021,4,Drifting longlines,Marshall Islands,5034
+2021,4,Drifting longlines,Micronesia,9125
+2021,4,Drifting longlines,Palau,59
+2021,4,Drifting longlines,Papua New Guinea,5590
+2021,4,Drifting longlines,Samoa,1768
+2021,4,Drifting longlines,Solomon Islands,15714
+2021,4,Drifting longlines,Tokelau,1723
+2021,4,Drifting longlines,Tonga,3250
+2021,4,Drifting longlines,Tuvalu,2199
+2021,4,Drifting longlines,Vanuatu,3662
+2021,4,Others,Fiji,354
+2021,4,Others,Kiribati,15
+2021,4,Others,Marshall Islands,235
+2021,4,Others,Micronesia,986
+2021,4,Others,Nauru,14
+2021,4,Others,Papua New Guinea,698
+2021,4,Others,Samoa,337
+2021,4,Others,Solomon Islands,39
+2021,4,Others,Tokelau,167
+2021,4,Set longlines,Fiji,1083
+2021,4,Set longlines,Marshall Islands,646
+2021,4,Set longlines,Papua New Guinea,357
+2021,4,Set longlines,Samoa,27
+2021,4,Set longlines,Solomon Islands,930
+2021,4,Set longlines,Tokelau,270
+2021,4,Set longlines,Tuvalu,447
+2021,4,Set longlines,Vanuatu,364
+2021,4,Tuna purse seines,Kiribati,4675
+2021,4,Tuna purse seines,Marshall Islands,284
+2021,4,Tuna purse seines,Micronesia,1909
+2021,4,Tuna purse seines,Nauru,1812
+2021,4,Tuna purse seines,Papua New Guinea,4822
+2021,4,Tuna purse seines,Solomon Islands,321
+2021,4,Tuna purse seines,Tokelau,6
+2021,4,Tuna purse seines,Tuvalu,349
+2021,5,Drifting longlines,Fiji,8091
+2021,5,Drifting longlines,Kiribati,7212
+2021,5,Drifting longlines,Marshall Islands,6531
+2021,5,Drifting longlines,Micronesia,6173
+2021,5,Drifting longlines,Palau,230
+2021,5,Drifting longlines,Papua New Guinea,5560
+2021,5,Drifting longlines,Samoa,2981
+2021,5,Drifting longlines,Solomon Islands,15362
+2021,5,Drifting longlines,Tokelau,233
+2021,5,Drifting longlines,Tonga,3297
+2021,5,Drifting longlines,Tuvalu,714
+2021,5,Drifting longlines,Vanuatu,3179
+2021,5,Others,Fiji,422
+2021,5,Others,Kiribati,184
+2021,5,Others,Marshall Islands,167
+2021,5,Others,Micronesia,192
+2021,5,Others,Nauru,101
+2021,5,Others,Papua New Guinea,644
+2021,5,Others,Samoa,149
+2021,5,Others,Solomon Islands,43
+2021,5,Others,Tokelau,481
+2021,5,Others,Tonga,26
+2021,5,Others,Tuvalu,170
+2021,5,Set longlines,Fiji,455
+2021,5,Set longlines,Marshall Islands,607
+2021,5,Set longlines,Papua New Guinea,563
+2021,5,Set longlines,Samoa,29
+2021,5,Set longlines,Solomon Islands,1104
+2021,5,Set longlines,Tokelau,154
+2021,5,Set longlines,Tuvalu,388
+2021,5,Set longlines,Vanuatu,288
+2021,5,Tuna purse seines,Kiribati,6012
+2021,5,Tuna purse seines,Marshall Islands,2053
+2021,5,Tuna purse seines,Micronesia,1715
+2021,5,Tuna purse seines,Nauru,2409
+2021,5,Tuna purse seines,Palau,9
+2021,5,Tuna purse seines,Papua New Guinea,2252
+2021,5,Tuna purse seines,Solomon Islands,114
+2021,5,Tuna purse seines,Tokelau,12
+2021,5,Tuna purse seines,Tuvalu,629
+2021,6,Drifting longlines,Fiji,6092
+2021,6,Drifting longlines,Kiribati,7735
+2021,6,Drifting longlines,Marshall Islands,6652
+2021,6,Drifting longlines,Micronesia,4531
+2021,6,Drifting longlines,Palau,283
+2021,6,Drifting longlines,Papua New Guinea,5869
+2021,6,Drifting longlines,Samoa,681
+2021,6,Drifting longlines,Solomon Islands,14931
+2021,6,Drifting longlines,Tokelau,62
+2021,6,Drifting longlines,Tonga,2826
+2021,6,Drifting longlines,Tuvalu,314
+2021,6,Drifting longlines,Vanuatu,4033
+2021,6,Others,Fiji,490
+2021,6,Others,Kiribati,186
+2021,6,Others,Marshall Islands,191
+2021,6,Others,Micronesia,37
+2021,6,Others,Nauru,17
+2021,6,Others,Papua New Guinea,415
+2021,6,Others,Samoa,83
+2021,6,Others,Solomon Islands,4
+2021,6,Others,Tuvalu,145
+2021,6,Set longlines,Fiji,767
+2021,6,Set longlines,Marshall Islands,623
+2021,6,Set longlines,Micronesia,3
+2021,6,Set longlines,Papua New Guinea,130
+2021,6,Set longlines,Solomon Islands,1213
+2021,6,Set longlines,Tuvalu,457
+2021,6,Set longlines,Vanuatu,815
+2021,6,Tuna purse seines,Kiribati,6068
+2021,6,Tuna purse seines,Marshall Islands,3105
+2021,6,Tuna purse seines,Micronesia,1832
+2021,6,Tuna purse seines,Nauru,1470
+2021,6,Tuna purse seines,Papua New Guinea,1828
+2021,6,Tuna purse seines,Solomon Islands,130
+2021,6,Tuna purse seines,Tokelau,11
+2021,6,Tuna purse seines,Tuvalu,948
+2021,7,Drifting longlines,Fiji,5657
+2021,7,Drifting longlines,Kiribati,10689
+2021,7,Drifting longlines,Marshall Islands,7599
+2021,7,Drifting longlines,Micronesia,3157
+2021,7,Drifting longlines,Palau,51
+2021,7,Drifting longlines,Papua New Guinea,7213
+2021,7,Drifting longlines,Samoa,12
+2021,7,Drifting longlines,Solomon Islands,13750
+2021,7,Drifting longlines,Tokelau,13
+2021,7,Drifting longlines,Tonga,3159
+2021,7,Drifting longlines,Tuvalu,913
+2021,7,Drifting longlines,Vanuatu,4000
+2021,7,Others,Fiji,196
+2021,7,Others,Kiribati,401
+2021,7,Others,Marshall Islands,243
+2021,7,Others,Micronesia,125
+2021,7,Others,Papua New Guinea,976
+2021,7,Others,Solomon Islands,67
+2021,7,Others,Tuvalu,144
+2021,7,Set longlines,Fiji,1041
+2021,7,Set longlines,Kiribati,3
+2021,7,Set longlines,Marshall Islands,679
+2021,7,Set longlines,Papua New Guinea,364
+2021,7,Set longlines,Solomon Islands,2097
+2021,7,Set longlines,Tuvalu,621
+2021,7,Set longlines,Vanuatu,459
+2021,7,Tuna purse seines,Kiribati,4592
+2021,7,Tuna purse seines,Marshall Islands,3786
+2021,7,Tuna purse seines,Micronesia,1206
+2021,7,Tuna purse seines,Nauru,2479
+2021,7,Tuna purse seines,Papua New Guinea,3810
+2021,7,Tuna purse seines,Solomon Islands,24
+2021,7,Tuna purse seines,Tuvalu,332
+2021,8,Drifting longlines,Fiji,5813
+2021,8,Drifting longlines,Kiribati,8244
+2021,8,Drifting longlines,Marshall Islands,7110
+2021,8,Drifting longlines,Micronesia,3356
+2021,8,Drifting longlines,Palau,18
+2021,8,Drifting longlines,Papua New Guinea,5256
+2021,8,Drifting longlines,Samoa,159
+2021,8,Drifting longlines,Solomon Islands,15307
+2021,8,Drifting longlines,Tonga,3179
+2021,8,Drifting longlines,Tuvalu,371
+2021,8,Drifting longlines,Vanuatu,4505
+2021,8,Others,Fiji,494
+2021,8,Others,Marshall Islands,256
+2021,8,Others,Micronesia,304
+2021,8,Others,Papua New Guinea,417
+2021,8,Set longlines,Fiji,1094
+2021,8,Set longlines,Marshall Islands,583
+2021,8,Set longlines,Papua New Guinea,370
+2021,8,Set longlines,Samoa,312
+2021,8,Set longlines,Solomon Islands,2157
+2021,8,Set longlines,Tokelau,292
+2021,8,Set longlines,Tuvalu,836
+2021,8,Set longlines,Vanuatu,687
+2021,8,Tuna purse seines,Kiribati,3022
+2021,8,Tuna purse seines,Marshall Islands,4894
+2021,8,Tuna purse seines,Micronesia,1548
+2021,8,Tuna purse seines,Nauru,2298
+2021,8,Tuna purse seines,Papua New Guinea,3033
+2021,8,Tuna purse seines,Solomon Islands,311
+2021,8,Tuna purse seines,Tokelau,22
+2021,8,Tuna purse seines,Tuvalu,343
+2021,9,Drifting longlines,Fiji,4528
+2021,9,Drifting longlines,Kiribati,7551
+2021,9,Drifting longlines,Marshall Islands,6917
+2021,9,Drifting longlines,Micronesia,4783
+2021,9,Drifting longlines,Palau,217
+2021,9,Drifting longlines,Papua New Guinea,5406
+2021,9,Drifting longlines,Samoa,397
+2021,9,Drifting longlines,Solomon Islands,13189
+2021,9,Drifting longlines,Tokelau,177
+2021,9,Drifting longlines,Tonga,2961
+2021,9,Drifting longlines,Tuvalu,11
+2021,9,Drifting longlines,Vanuatu,3908
+2021,9,Others,Fiji,511
+2021,9,Others,Kiribati,37
+2021,9,Others,Marshall Islands,191
+2021,9,Others,Micronesia,136
+2021,9,Others,Papua New Guinea,589
+2021,9,Others,Solomon Islands,37
+2021,9,Set longlines,Fiji,156
+2021,9,Set longlines,Marshall Islands,444
+2021,9,Set longlines,Papua New Guinea,576
+2021,9,Set longlines,Samoa,260
+2021,9,Set longlines,Solomon Islands,1292
+2021,9,Set longlines,Tokelau,1265
+2021,9,Set longlines,Tuvalu,513
+2021,9,Set longlines,Vanuatu,338
+2021,9,Tuna purse seines,Kiribati,2849
+2021,9,Tuna purse seines,Marshall Islands,1370
+2021,9,Tuna purse seines,Micronesia,2396
+2021,9,Tuna purse seines,Nauru,946
+2021,9,Tuna purse seines,Papua New Guinea,3459
+2021,9,Tuna purse seines,Solomon Islands,148
+2021,10,Drifting longlines,Fiji,5372
+2021,10,Drifting longlines,Kiribati,7994
+2021,10,Drifting longlines,Marshall Islands,6625
+2021,10,Drifting longlines,Micronesia,4578
+2021,10,Drifting longlines,Palau,215
+2021,10,Drifting longlines,Papua New Guinea,5329
+2021,10,Drifting longlines,Samoa,251
+2021,10,Drifting longlines,Solomon Islands,14732
+2021,10,Drifting longlines,Tokelau,914
+2021,10,Drifting longlines,Tonga,2624
+2021,10,Drifting longlines,Tuvalu,5
+2021,10,Drifting longlines,Vanuatu,5555
+2021,10,Others,Fiji,65
+2021,10,Others,Marshall Islands,27
+2021,10,Others,Micronesia,120
+2021,10,Others,Papua New Guinea,971
+2021,10,Others,Samoa,15
+2021,10,Others,Solomon Islands,19
+2021,10,Others,Tuvalu,2
+2021,10,Set longlines,Fiji,58
+2021,10,Set longlines,Kiribati,12
+2021,10,Set longlines,Marshall Islands,472
+2021,10,Set longlines,Micronesia,118
+2021,10,Set longlines,Papua New Guinea,559
+2021,10,Set longlines,Samoa,311
+2021,10,Set longlines,Solomon Islands,1099
+2021,10,Set longlines,Tokelau,845
+2021,10,Set longlines,Tuvalu,1031
+2021,10,Set longlines,Vanuatu,1041
+2021,10,Tuna purse seines,Kiribati,1237
+2021,10,Tuna purse seines,Marshall Islands,257
+2021,10,Tuna purse seines,Micronesia,1939
+2021,10,Tuna purse seines,Nauru,471
+2021,10,Tuna purse seines,Papua New Guinea,4652
+2021,10,Tuna purse seines,Solomon Islands,335
+2021,10,Tuna purse seines,Tuvalu,651
+2021,11,Drifting longlines,Fiji,5337
+2021,11,Drifting longlines,Kiribati,6907
+2021,11,Drifting longlines,Marshall Islands,5197
+2021,11,Drifting longlines,Micronesia,3793
+2021,11,Drifting longlines,Palau,74
+2021,11,Drifting longlines,Papua New Guinea,5193
+2021,11,Drifting longlines,Samoa,1395
+2021,11,Drifting longlines,Solomon Islands,12509
+2021,11,Drifting longlines,Tokelau,786
+2021,11,Drifting longlines,Tonga,1167
+2021,11,Drifting longlines,Tuvalu,855
+2021,11,Drifting longlines,Vanuatu,7787
+2021,11,Others,Fiji,194
+2021,11,Others,Kiribati,22
+2021,11,Others,Marshall Islands,183
+2021,11,Others,Micronesia,143
+2021,11,Others,Papua New Guinea,1697
+2021,11,Others,Samoa,149
+2021,11,Others,Solomon Islands,25
+2021,11,Others,Tokelau,295
+2021,11,Others,Tuvalu,400
+2021,11,Set longlines,Fiji,141
+2021,11,Set longlines,Kiribati,11
+2021,11,Set longlines,Marshall Islands,835
+2021,11,Set longlines,Papua New Guinea,206
+2021,11,Set longlines,Samoa,285
+2021,11,Set longlines,Solomon Islands,1331
+2021,11,Set longlines,Tokelau,747
+2021,11,Set longlines,Tuvalu,668
+2021,11,Set longlines,Vanuatu,1165
+2021,11,Tuna purse seines,Kiribati,1457
+2021,11,Tuna purse seines,Marshall Islands,1061
+2021,11,Tuna purse seines,Micronesia,960
+2021,11,Tuna purse seines,Nauru,698
+2021,11,Tuna purse seines,Papua New Guinea,4229
+2021,11,Tuna purse seines,Solomon Islands,211
+2021,11,Tuna purse seines,Tokelau,11
+2021,11,Tuna purse seines,Tuvalu,824
+2021,12,Drifting longlines,Fiji,5296
+2021,12,Drifting longlines,Kiribati,6996
+2021,12,Drifting longlines,Marshall Islands,4385
+2021,12,Drifting longlines,Micronesia,3114
+2021,12,Drifting longlines,Palau,368
+2021,12,Drifting longlines,Papua New Guinea,3368
+2021,12,Drifting longlines,Samoa,2228
+2021,12,Drifting longlines,Solomon Islands,11130
+2021,12,Drifting longlines,Tokelau,156
+2021,12,Drifting longlines,Tonga,1421
+2021,12,Drifting longlines,Tuvalu,116
+2021,12,Drifting longlines,Vanuatu,6515
+2021,12,Others,Fiji,372
+2021,12,Others,Kiribati,9
+2021,12,Others,Marshall Islands,830
+2021,12,Others,Micronesia,156
+2021,12,Others,Papua New Guinea,1656
+2021,12,Others,Samoa,328
+2021,12,Others,Solomon Islands,12
+2021,12,Others,Tuvalu,44
+2021,12,Set longlines,Fiji,369
+2021,12,Set longlines,Marshall Islands,751
+2021,12,Set longlines,Micronesia,47
+2021,12,Set longlines,Papua New Guinea,207
+2021,12,Set longlines,Samoa,924
+2021,12,Set longlines,Solomon Islands,1494
+2021,12,Set longlines,Tokelau,94
+2021,12,Set longlines,Tuvalu,292
+2021,12,Set longlines,Vanuatu,601
+2021,12,Tuna purse seines,Kiribati,2038
+2021,12,Tuna purse seines,Marshall Islands,542
+2021,12,Tuna purse seines,Micronesia,799
+2021,12,Tuna purse seines,Nauru,615
+2021,12,Tuna purse seines,Papua New Guinea,3757
+2021,12,Tuna purse seines,Solomon Islands,731
+2021,12,Tuna purse seines,Tuvalu,305
+2022,1,Drifting longlines,Fiji,4456
+2022,1,Drifting longlines,Kiribati,8052
+2022,1,Drifting longlines,Marshall Islands,4718
+2022,1,Drifting longlines,Micronesia,2561
+2022,1,Drifting longlines,Papua New Guinea,6125
+2022,1,Drifting longlines,Samoa,1313
+2022,1,Drifting longlines,Solomon Islands,11800
+2022,1,Drifting longlines,Tokelau,735
+2022,1,Drifting longlines,Tonga,940
+2022,1,Drifting longlines,Tuvalu,24
+2022,1,Drifting longlines,Vanuatu,4077
+2022,1,Others,Kiribati,559
+2022,1,Others,Marshall Islands,166
+2022,1,Others,Micronesia,1398
+2022,1,Others,Papua New Guinea,1450
+2022,1,Others,Samoa,577
+2022,1,Others,Solomon Islands,80
+2022,1,Others,Tuvalu,3
+2022,1,Set longlines,Fiji,61
+2022,1,Set longlines,Marshall Islands,908
+2022,1,Set longlines,Micronesia,208
+2022,1,Set longlines,Papua New Guinea,142
+2022,1,Set longlines,Samoa,833
+2022,1,Set longlines,Solomon Islands,1603
+2022,1,Set longlines,Tokelau,214
+2022,1,Set longlines,Vanuatu,264
+2022,1,Tuna purse seines,Kiribati,2480
+2022,1,Tuna purse seines,Marshall Islands,969
+2022,1,Tuna purse seines,Micronesia,339
+2022,1,Tuna purse seines,Nauru,237
+2022,1,Tuna purse seines,Papua New Guinea,3584
+2022,1,Tuna purse seines,Samoa,33
+2022,1,Tuna purse seines,Solomon Islands,624
+2022,1,Tuna purse seines,Tokelau,33
+2022,1,Tuna purse seines,Tuvalu,958
+2022,2,Drifting longlines,Fiji,5043
+2022,2,Drifting longlines,Kiribati,5423
+2022,2,Drifting longlines,Marshall Islands,5416
+2022,2,Drifting longlines,Micronesia,2660
+2022,2,Drifting longlines,Nauru,9
+2022,2,Drifting longlines,Papua New Guinea,7259
+2022,2,Drifting longlines,Samoa,1419
+2022,2,Drifting longlines,Solomon Islands,9175
+2022,2,Drifting longlines,Tokelau,655
+2022,2,Drifting longlines,Tonga,445
+2022,2,Drifting longlines,Tuvalu,197
+2022,2,Drifting longlines,Vanuatu,3626
+2022,2,Others,Kiribati,69
+2022,2,Others,Marshall Islands,263
+2022,2,Others,Micronesia,1758
+2022,2,Others,Nauru,19
+2022,2,Others,Papua New Guinea,2815
+2022,2,Others,Samoa,490
+2022,2,Others,Solomon Islands,49
+2022,2,Others,Tokelau,61
+2022,2,Others,Vanuatu,303
+2022,2,Set longlines,Fiji,393
+2022,2,Set longlines,Marshall Islands,559
+2022,2,Set longlines,Micronesia,387
+2022,2,Set longlines,Papua New Guinea,480
+2022,2,Set longlines,Samoa,488
+2022,2,Set longlines,Solomon Islands,937
+2022,2,Set longlines,Tokelau,452
+2022,2,Set longlines,Vanuatu,464
+2022,2,Tuna purse seines,Kiribati,1123
+2022,2,Tuna purse seines,Marshall Islands,486
+2022,2,Tuna purse seines,Micronesia,40
+2022,2,Tuna purse seines,Nauru,309
+2022,2,Tuna purse seines,Papua New Guinea,3133
+2022,2,Tuna purse seines,Solomon Islands,1608
+2022,2,Tuna purse seines,Tokelau,46
+2022,2,Tuna purse seines,Tuvalu,760
+2022,3,Drifting longlines,Fiji,5711
+2022,3,Drifting longlines,Kiribati,6958
+2022,3,Drifting longlines,Marshall Islands,6269
+2022,3,Drifting longlines,Micronesia,3944
+2022,3,Drifting longlines,Nauru,246
+2022,3,Drifting longlines,Palau,68
+2022,3,Drifting longlines,Papua New Guinea,10330
+2022,3,Drifting longlines,Samoa,383
+2022,3,Drifting longlines,Solomon Islands,8417
+2022,3,Drifting longlines,Tokelau,1552
+2022,3,Drifting longlines,Tonga,891
+2022,3,Drifting longlines,Tuvalu,1344
+2022,3,Drifting longlines,Vanuatu,4249
+2022,3,Others,Fiji,369
+2022,3,Others,Kiribati,492
+2022,3,Others,Marshall Islands,238
+2022,3,Others,Micronesia,1140
+2022,3,Others,Papua New Guinea,2157
+2022,3,Others,Samoa,18
+2022,3,Others,Solomon Islands,15
+2022,3,Others,Tokelau,449
+2022,3,Others,Tuvalu,201
+2022,3,Set longlines,Fiji,168
+2022,3,Set longlines,Marshall Islands,756
+2022,3,Set longlines,Micronesia,282
+2022,3,Set longlines,Papua New Guinea,102
+2022,3,Set longlines,Samoa,203
+2022,3,Set longlines,Solomon Islands,1541
+2022,3,Set longlines,Tokelau,704
+2022,3,Set longlines,Tuvalu,10
+2022,3,Set longlines,Vanuatu,207
+2022,3,Tuna purse seines,Kiribati,976
+2022,3,Tuna purse seines,Marshall Islands,480
+2022,3,Tuna purse seines,Micronesia,492
+2022,3,Tuna purse seines,Nauru,491
+2022,3,Tuna purse seines,Palau,6
+2022,3,Tuna purse seines,Papua New Guinea,3564
+2022,3,Tuna purse seines,Solomon Islands,1620
+2022,3,Tuna purse seines,Tokelau,21
+2022,3,Tuna purse seines,Tuvalu,273
+2022,4,Drifting longlines,Fiji,5892
+2022,4,Drifting longlines,Kiribati,9214
+2022,4,Drifting longlines,Marshall Islands,7157
+2022,4,Drifting longlines,Micronesia,2906
+2022,4,Drifting longlines,Palau,106
+2022,4,Drifting longlines,Papua New Guinea,13065
+2022,4,Drifting longlines,Samoa,1452
+2022,4,Drifting longlines,Solomon Islands,11595
+2022,4,Drifting longlines,Tokelau,1085
+2022,4,Drifting longlines,Tonga,459
+2022,4,Drifting longlines,Tuvalu,1510
+2022,4,Drifting longlines,Vanuatu,4055
+2022,4,Others,Fiji,279
+2022,4,Others,Kiribati,585
+2022,4,Others,Marshall Islands,37
+2022,4,Others,Micronesia,1350
+2022,4,Others,Papua New Guinea,738
+2022,4,Others,Samoa,280
+2022,4,Others,Solomon Islands,79
+2022,4,Others,Tokelau,220
+2022,4,Others,Tuvalu,4
+2022,4,Set longlines,Fiji,121
+2022,4,Set longlines,Marshall Islands,645
+2022,4,Set longlines,Micronesia,234
+2022,4,Set longlines,Papua New Guinea,253
+2022,4,Set longlines,Samoa,712
+2022,4,Set longlines,Solomon Islands,1737
+2022,4,Set longlines,Tokelau,435
+2022,4,Set longlines,Tuvalu,951
+2022,4,Set longlines,Vanuatu,165
+2022,4,Tuna purse seines,Fiji,5
+2022,4,Tuna purse seines,Kiribati,1854
+2022,4,Tuna purse seines,Marshall Islands,1060
+2022,4,Tuna purse seines,Micronesia,559
+2022,4,Tuna purse seines,Nauru,1277
+2022,4,Tuna purse seines,Papua New Guinea,3632
+2022,4,Tuna purse seines,Samoa,28
+2022,4,Tuna purse seines,Solomon Islands,493
+2022,4,Tuna purse seines,Tokelau,13
+2022,4,Tuna purse seines,Tuvalu,109
+2022,5,Drifting longlines,Fiji,6366
+2022,5,Drifting longlines,Kiribati,12189
+2022,5,Drifting longlines,Marshall Islands,6991
+2022,5,Drifting longlines,Micronesia,1808
+2022,5,Drifting longlines,Palau,325
+2022,5,Drifting longlines,Papua New Guinea,8279
+2022,5,Drifting longlines,Samoa,937
+2022,5,Drifting longlines,Solomon Islands,16485
+2022,5,Drifting longlines,Tokelau,1907
+2022,5,Drifting longlines,Tonga,675
+2022,5,Drifting longlines,Tuvalu,1073
+2022,5,Drifting longlines,Vanuatu,4974
+2022,5,Others,Fiji,462
+2022,5,Others,Kiribati,523
+2022,5,Others,Marshall Islands,12
+2022,5,Others,Micronesia,126
+2022,5,Others,Nauru,20
+2022,5,Others,Papua New Guinea,762
+2022,5,Others,Samoa,238
+2022,5,Others,Solomon Islands,105
+2022,5,Others,Tokelau,398
+2022,5,Set longlines,Fiji,400
+2022,5,Set longlines,Marshall Islands,675
+2022,5,Set longlines,Micronesia,490
+2022,5,Set longlines,Palau,10
+2022,5,Set longlines,Papua New Guinea,5
+2022,5,Set longlines,Samoa,457
+2022,5,Set longlines,Solomon Islands,2313
+2022,5,Set longlines,Tokelau,529
+2022,5,Set longlines,Tonga,0
+2022,5,Set longlines,Tuvalu,766
+2022,5,Set longlines,Vanuatu,930
+2022,5,Tuna purse seines,Fiji,6
+2022,5,Tuna purse seines,Kiribati,1856
+2022,5,Tuna purse seines,Marshall Islands,824
+2022,5,Tuna purse seines,Micronesia,472
+2022,5,Tuna purse seines,Nauru,356
+2022,5,Tuna purse seines,Palau,16
+2022,5,Tuna purse seines,Papua New Guinea,5917
+2022,5,Tuna purse seines,Solomon Islands,241
+2022,5,Tuna purse seines,Tokelau,20
+2022,5,Tuna purse seines,Tuvalu,80
+2022,6,Drifting longlines,Fiji,6250
+2022,6,Drifting longlines,Kiribati,11800
+2022,6,Drifting longlines,Marshall Islands,6875
+2022,6,Drifting longlines,Micronesia,1995
+2022,6,Drifting longlines,Palau,146
+2022,6,Drifting longlines,Papua New Guinea,13839
+2022,6,Drifting longlines,Samoa,1173
+2022,6,Drifting longlines,Solomon Islands,17957
+2022,6,Drifting longlines,Tokelau,1786
+2022,6,Drifting longlines,Tonga,341
+2022,6,Drifting longlines,Tuvalu,1213
+2022,6,Drifting longlines,Vanuatu,7262
+2022,6,Others,Fiji,312
+2022,6,Others,Kiribati,812
+2022,6,Others,Micronesia,69
+2022,6,Others,Nauru,3
+2022,6,Others,Papua New Guinea,2318
+2022,6,Others,Samoa,511
+2022,6,Others,Solomon Islands,110
+2022,6,Others,Tokelau,119
+2022,6,Others,Vanuatu,12
+2022,6,Set longlines,Fiji,262
+2022,6,Set longlines,Marshall Islands,569
+2022,6,Set longlines,Micronesia,395
+2022,6,Set longlines,Samoa,1081
+2022,6,Set longlines,Solomon Islands,1886
+2022,6,Set longlines,Tuvalu,327
+2022,6,Set longlines,Vanuatu,846
+2022,6,Tuna purse seines,Kiribati,2770
+2022,6,Tuna purse seines,Marshall Islands,544
+2022,6,Tuna purse seines,Micronesia,749
+2022,6,Tuna purse seines,Nauru,723
+2022,6,Tuna purse seines,Papua New Guinea,5963
+2022,6,Tuna purse seines,Solomon Islands,661
+2022,6,Tuna purse seines,Tuvalu,74
+2022,7,Drifting longlines,Fiji,6885
+2022,7,Drifting longlines,Kiribati,12926
+2022,7,Drifting longlines,Marshall Islands,9068
+2022,7,Drifting longlines,Micronesia,2080
+2022,7,Drifting longlines,Palau,434
+2022,7,Drifting longlines,Papua New Guinea,15383
+2022,7,Drifting longlines,Samoa,901
+2022,7,Drifting longlines,Solomon Islands,17722
+2022,7,Drifting longlines,Tokelau,2723
+2022,7,Drifting longlines,Tonga,575
+2022,7,Drifting longlines,Tuvalu,299
+2022,7,Drifting longlines,Vanuatu,12052
+2022,7,Others,Fiji,603
+2022,7,Others,Kiribati,695
+2022,7,Others,Marshall Islands,43
+2022,7,Others,Micronesia,32
+2022,7,Others,Nauru,16
+2022,7,Others,Papua New Guinea,2676
+2022,7,Others,Samoa,584
+2022,7,Others,Solomon Islands,38
+2022,7,Others,Vanuatu,23
+2022,7,Set longlines,Fiji,698
+2022,7,Set longlines,Marshall Islands,710
+2022,7,Set longlines,Samoa,791
+2022,7,Set longlines,Solomon Islands,3533
+2022,7,Set longlines,Tokelau,179
+2022,7,Set longlines,Tuvalu,637
+2022,7,Set longlines,Vanuatu,1673
+2022,7,Tuna purse seines,Kiribati,3047
+2022,7,Tuna purse seines,Marshall Islands,943
+2022,7,Tuna purse seines,Micronesia,875
+2022,7,Tuna purse seines,Nauru,1300
+2022,7,Tuna purse seines,Papua New Guinea,6606
+2022,7,Tuna purse seines,Solomon Islands,379
+2022,8,Drifting longlines,Fiji,6004
+2022,8,Drifting longlines,Kiribati,15191
+2022,8,Drifting longlines,Marshall Islands,8948
+2022,8,Drifting longlines,Micronesia,4116
+2022,8,Drifting longlines,Palau,65
+2022,8,Drifting longlines,Papua New Guinea,13876
+2022,8,Drifting longlines,Samoa,1397
+2022,8,Drifting longlines,Solomon Islands,14824
+2022,8,Drifting longlines,Tokelau,1961
+2022,8,Drifting longlines,Tonga,1457
+2022,8,Drifting longlines,Tuvalu,130
+2022,8,Drifting longlines,Vanuatu,12983
+2022,8,Others,Fiji,690
+2022,8,Others,Kiribati,612
+2022,8,Others,Marshall Islands,91
+2022,8,Others,Micronesia,26
+2022,8,Others,Papua New Guinea,213
+2022,8,Others,Samoa,153
+2022,8,Others,Solomon Islands,575
+2022,8,Others,Tokelau,353
+2022,8,Others,Tuvalu,21
+2022,8,Others,Vanuatu,618
+2022,8,Set longlines,Fiji,427
+2022,8,Set longlines,Marshall Islands,580
+2022,8,Set longlines,Samoa,266
+2022,8,Set longlines,Solomon Islands,2983
+2022,8,Set longlines,Tokelau,830
+2022,8,Set longlines,Tonga,61
+2022,8,Set longlines,Tuvalu,385
+2022,8,Set longlines,Vanuatu,1247
+2022,8,Tuna purse seines,Kiribati,2648
+2022,8,Tuna purse seines,Marshall Islands,1522
+2022,8,Tuna purse seines,Micronesia,2313
+2022,8,Tuna purse seines,Nauru,792
+2022,8,Tuna purse seines,Papua New Guinea,4730
+2022,8,Tuna purse seines,Solomon Islands,16
+2022,8,Tuna purse seines,Tuvalu,27
+2022,9,Drifting longlines,Fiji,6095
+2022,9,Drifting longlines,Kiribati,12733
+2022,9,Drifting longlines,Marshall Islands,8691
+2022,9,Drifting longlines,Micronesia,4197
+2022,9,Drifting longlines,Nauru,1
+2022,9,Drifting longlines,Palau,193
+2022,9,Drifting longlines,Papua New Guinea,12377
+2022,9,Drifting longlines,Samoa,2655
+2022,9,Drifting longlines,Solomon Islands,19060
+2022,9,Drifting longlines,Tokelau,2378
+2022,9,Drifting longlines,Tonga,2103
+2022,9,Drifting longlines,Tuvalu,1810
+2022,9,Drifting longlines,Vanuatu,11030
+2022,9,Others,Fiji,684
+2022,9,Others,Kiribati,557
+2022,9,Others,Marshall Islands,127
+2022,9,Others,Micronesia,84
+2022,9,Others,Palau,28
+2022,9,Others,Papua New Guinea,685
+2022,9,Others,Samoa,34
+2022,9,Others,Solomon Islands,525
+2022,9,Others,Tokelau,646
+2022,9,Others,Vanuatu,1246
+2022,9,Set longlines,Fiji,1459
+2022,9,Set longlines,Marshall Islands,649
+2022,9,Set longlines,Samoa,170
+2022,9,Set longlines,Solomon Islands,3329
+2022,9,Set longlines,Tokelau,681
+2022,9,Set longlines,Tonga,61
+2022,9,Set longlines,Tuvalu,123
+2022,9,Set longlines,Vanuatu,800
+2022,9,Tuna purse seines,Kiribati,2019
+2022,9,Tuna purse seines,Marshall Islands,828
+2022,9,Tuna purse seines,Micronesia,3307
+2022,9,Tuna purse seines,Nauru,657
+2022,9,Tuna purse seines,Papua New Guinea,2483
+2022,10,Drifting longlines,Fiji,6066
+2022,10,Drifting longlines,Kiribati,10677
+2022,10,Drifting longlines,Marshall Islands,8138
+2022,10,Drifting longlines,Micronesia,4755
+2022,10,Drifting longlines,Palau,329
+2022,10,Drifting longlines,Papua New Guinea,16021
+2022,10,Drifting longlines,Samoa,2183
+2022,10,Drifting longlines,Solomon Islands,20489
+2022,10,Drifting longlines,Tokelau,2991
+2022,10,Drifting longlines,Tonga,2247
+2022,10,Drifting longlines,Tuvalu,3033
+2022,10,Drifting longlines,Vanuatu,15743
+2022,10,Others,Fiji,138
+2022,10,Others,Kiribati,584
+2022,10,Others,Marshall Islands,524
+2022,10,Others,Micronesia,109
+2022,10,Others,Papua New Guinea,464
+2022,10,Others,Samoa,259
+2022,10,Others,Solomon Islands,719
+2022,10,Others,Tokelau,294
+2022,10,Others,Vanuatu,1332
+2022,10,Set longlines,Fiji,1872
+2022,10,Set longlines,Marshall Islands,769
+2022,10,Set longlines,Samoa,228
+2022,10,Set longlines,Solomon Islands,3513
+2022,10,Set longlines,Tokelau,817
+2022,10,Set longlines,Tonga,496
+2022,10,Set longlines,Tuvalu,96
+2022,10,Set longlines,Vanuatu,1514
+2022,10,Tuna purse seines,Kiribati,1702
+2022,10,Tuna purse seines,Marshall Islands,311
+2022,10,Tuna purse seines,Micronesia,642
+2022,10,Tuna purse seines,Nauru,883
+2022,10,Tuna purse seines,Papua New Guinea,3787
+2022,10,Tuna purse seines,Solomon Islands,188
+2022,10,Tuna purse seines,Tuvalu,104
+2022,11,Drifting longlines,Fiji,5803
+2022,11,Drifting longlines,Kiribati,11069
+2022,11,Drifting longlines,Marshall Islands,6426
+2022,11,Drifting longlines,Micronesia,5183
+2022,11,Drifting longlines,Palau,35
+2022,11,Drifting longlines,Papua New Guinea,16281
+2022,11,Drifting longlines,Samoa,1713
+2022,11,Drifting longlines,Solomon Islands,20456
+2022,11,Drifting longlines,Tokelau,2542
+2022,11,Drifting longlines,Tonga,1786
+2022,11,Drifting longlines,Tuvalu,4413
+2022,11,Drifting longlines,Vanuatu,15573
+2022,11,Others,Fiji,6
+2022,11,Others,Kiribati,528
+2022,11,Others,Marshall Islands,401
+2022,11,Others,Micronesia,26
+2022,11,Others,Papua New Guinea,95
+2022,11,Others,Samoa,87
+2022,11,Others,Solomon Islands,535
+2022,11,Others,Tokelau,330
+2022,11,Others,Vanuatu,1148
+2022,11,Set longlines,Fiji,1309
+2022,11,Set longlines,Marshall Islands,471
+2022,11,Set longlines,Papua New Guinea,725
+2022,11,Set longlines,Samoa,248
+2022,11,Set longlines,Solomon Islands,2854
+2022,11,Set longlines,Tokelau,523
+2022,11,Set longlines,Tonga,614
+2022,11,Set longlines,Vanuatu,1325
+2022,11,Tuna purse seines,Kiribati,2095
+2022,11,Tuna purse seines,Marshall Islands,758
+2022,11,Tuna purse seines,Micronesia,1718
+2022,11,Tuna purse seines,Nauru,996
+2022,11,Tuna purse seines,Papua New Guinea,1906
+2022,11,Tuna purse seines,Solomon Islands,268
+2022,11,Tuna purse seines,Tuvalu,279
+2022,12,Drifting longlines,Fiji,6182
+2022,12,Drifting longlines,Kiribati,11135
+2022,12,Drifting longlines,Marshall Islands,6291
+2022,12,Drifting longlines,Micronesia,5527
+2022,12,Drifting longlines,Palau,110
+2022,12,Drifting longlines,Papua New Guinea,12991
+2022,12,Drifting longlines,Samoa,3249
+2022,12,Drifting longlines,Solomon Islands,16877
+2022,12,Drifting longlines,Tokelau,1831
+2022,12,Drifting longlines,Tonga,2727
+2022,12,Drifting longlines,Tuvalu,699
+2022,12,Drifting longlines,Vanuatu,13750
+2022,12,Others,Marshall Islands,435
+2022,12,Others,Micronesia,132
+2022,12,Others,Papua New Guinea,913
+2022,12,Others,Samoa,508
+2022,12,Others,Solomon Islands,358
+2022,12,Others,Tokelau,56
+2022,12,Others,Tuvalu,14
+2022,12,Others,Vanuatu,346
+2022,12,Set longlines,Fiji,321
+2022,12,Set longlines,Marshall Islands,526
+2022,12,Set longlines,Papua New Guinea,1120
+2022,12,Set longlines,Samoa,335
+2022,12,Set longlines,Solomon Islands,2550
+2022,12,Set longlines,Tokelau,515
+2022,12,Set longlines,Tonga,375
+2022,12,Set longlines,Tuvalu,92
+2022,12,Set longlines,Vanuatu,943
+2022,12,Tuna purse seines,Kiribati,1535
+2022,12,Tuna purse seines,Marshall Islands,309
+2022,12,Tuna purse seines,Micronesia,1170
+2022,12,Tuna purse seines,Nauru,810
+2022,12,Tuna purse seines,Papua New Guinea,2964
+2022,12,Tuna purse seines,Solomon Islands,860
+2022,12,Tuna purse seines,Tokelau,13
+2022,12,Tuna purse seines,Tuvalu,282
+2023,1,Drifting longlines,Fiji,5879
+2023,1,Drifting longlines,Kiribati,7595
+2023,1,Drifting longlines,Marshall Islands,6321
+2023,1,Drifting longlines,Micronesia,6717
+2023,1,Drifting longlines,Palau,486
+2023,1,Drifting longlines,Papua New Guinea,14343
+2023,1,Drifting longlines,Samoa,4944
+2023,1,Drifting longlines,Solomon Islands,17037
+2023,1,Drifting longlines,Tonga,1350
+2023,1,Drifting longlines,Tuvalu,91
+2023,1,Drifting longlines,Vanuatu,7583
+2023,1,Others,Fiji,302
+2023,1,Others,Marshall Islands,1721
+2023,1,Others,Micronesia,247
+2023,1,Others,Papua New Guinea,2280
+2023,1,Others,Samoa,417
+2023,1,Others,Solomon Islands,332
+2023,1,Others,Tuvalu,20
+2023,1,Others,Vanuatu,543
+2023,1,Set longlines,Fiji,383
+2023,1,Set longlines,Kiribati,25
+2023,1,Set longlines,Marshall Islands,402
+2023,1,Set longlines,Papua New Guinea,954
+2023,1,Set longlines,Samoa,7
+2023,1,Set longlines,Solomon Islands,1185
+2023,1,Set longlines,Tuvalu,350
+2023,1,Set longlines,Vanuatu,709
+2023,1,Tuna purse seines,Kiribati,1279
+2023,1,Tuna purse seines,Marshall Islands,381
+2023,1,Tuna purse seines,Micronesia,930
+2023,1,Tuna purse seines,Nauru,808
+2023,1,Tuna purse seines,Papua New Guinea,2702
+2023,1,Tuna purse seines,Solomon Islands,682
+2023,1,Tuna purse seines,Tuvalu,297
+2023,2,Drifting longlines,Fiji,4457
+2023,2,Drifting longlines,Kiribati,8385
+2023,2,Drifting longlines,Marshall Islands,7526
+2023,2,Drifting longlines,Micronesia,7989
+2023,2,Drifting longlines,Palau,661
+2023,2,Drifting longlines,Papua New Guinea,14936
+2023,2,Drifting longlines,Samoa,2872
+2023,2,Drifting longlines,Solomon Islands,12350
+2023,2,Drifting longlines,Tokelau,37
+2023,2,Drifting longlines,Tonga,979
+2023,2,Drifting longlines,Vanuatu,7334
+2023,2,Others,Fiji,157
+2023,2,Others,Kiribati,12
+2023,2,Others,Marshall Islands,512
+2023,2,Others,Micronesia,11
+2023,2,Others,Nauru,36
+2023,2,Others,Papua New Guinea,1654
+2023,2,Others,Samoa,281
+2023,2,Others,Solomon Islands,403
+2023,2,Others,Vanuatu,631
+2023,2,Set longlines,Fiji,589
+2023,2,Set longlines,Kiribati,359
+2023,2,Set longlines,Marshall Islands,465
+2023,2,Set longlines,Papua New Guinea,83
+2023,2,Set longlines,Samoa,198
+2023,2,Set longlines,Solomon Islands,855
+2023,2,Set longlines,Vanuatu,458
+2023,2,Tuna purse seines,Kiribati,1520
+2023,2,Tuna purse seines,Marshall Islands,498
+2023,2,Tuna purse seines,Micronesia,693
+2023,2,Tuna purse seines,Nauru,464
+2023,2,Tuna purse seines,Palau,1
+2023,2,Tuna purse seines,Papua New Guinea,3180
+2023,2,Tuna purse seines,Solomon Islands,445
+2023,2,Tuna purse seines,Tokelau,39
+2023,2,Tuna purse seines,Tuvalu,70
+2023,3,Drifting longlines,Fiji,4999
+2023,3,Drifting longlines,Kiribati,7380
+2023,3,Drifting longlines,Marshall Islands,6583
+2023,3,Drifting longlines,Micronesia,7492
+2023,3,Drifting longlines,Palau,659
+2023,3,Drifting longlines,Papua New Guinea,17475
+2023,3,Drifting longlines,Samoa,1942
+2023,3,Drifting longlines,Solomon Islands,15530
+2023,3,Drifting longlines,Tokelau,386
+2023,3,Drifting longlines,Tonga,901
+2023,3,Drifting longlines,Tuvalu,569
+2023,3,Drifting longlines,Vanuatu,5588
+2023,3,Others,Fiji,94
+2023,3,Others,Marshall Islands,1472
+2023,3,Others,Micronesia,293
+2023,3,Others,Papua New Guinea,966
+2023,3,Others,Solomon Islands,340
+2023,3,Others,Tuvalu,1
+2023,3,Others,Vanuatu,359
+2023,3,Set longlines,Fiji,322
+2023,3,Set longlines,Kiribati,301
+2023,3,Set longlines,Marshall Islands,374
+2023,3,Set longlines,Micronesia,3
+2023,3,Set longlines,Papua New Guinea,11
+2023,3,Set longlines,Solomon Islands,789
+2023,3,Set longlines,Tuvalu,134
+2023,3,Set longlines,Vanuatu,204
+2023,3,Tuna purse seines,Kiribati,1025
+2023,3,Tuna purse seines,Marshall Islands,824
+2023,3,Tuna purse seines,Micronesia,1993
+2023,3,Tuna purse seines,Nauru,425
+2023,3,Tuna purse seines,Papua New Guinea,2255
+2023,3,Tuna purse seines,Solomon Islands,392
+2023,3,Tuna purse seines,Tuvalu,145
+2023,4,Drifting longlines,Fiji,4537
+2023,4,Drifting longlines,Kiribati,13171
+2023,4,Drifting longlines,Marshall Islands,7228
+2023,4,Drifting longlines,Micronesia,4479
+2023,4,Drifting longlines,Palau,647
+2023,4,Drifting longlines,Papua New Guinea,21235
+2023,4,Drifting longlines,Samoa,2569
+2023,4,Drifting longlines,Solomon Islands,15921
+2023,4,Drifting longlines,Tokelau,13
+2023,4,Drifting longlines,Tonga,1629
+2023,4,Drifting longlines,Tuvalu,594
+2023,4,Drifting longlines,Vanuatu,5580
+2023,4,Others,Fiji,313
+2023,4,Others,Marshall Islands,430
+2023,4,Others,Micronesia,46
+2023,4,Others,Palau,20
+2023,4,Others,Papua New Guinea,1381
+2023,4,Others,Solomon Islands,413
+2023,4,Others,Vanuatu,537
+2023,4,Set longlines,Fiji,275
+2023,4,Set longlines,Kiribati,257
+2023,4,Set longlines,Marshall Islands,377
+2023,4,Set longlines,Papua New Guinea,600
+2023,4,Set longlines,Solomon Islands,1082
+2023,4,Set longlines,Tonga,214
+2023,4,Set longlines,Tuvalu,495
+2023,4,Set longlines,Vanuatu,293
+2023,4,Tuna purse seines,Kiribati,1516
+2023,4,Tuna purse seines,Marshall Islands,1419
+2023,4,Tuna purse seines,Micronesia,1333
+2023,4,Tuna purse seines,Nauru,1286
+2023,4,Tuna purse seines,Papua New Guinea,1858
+2023,4,Tuna purse seines,Solomon Islands,402
+2023,4,Tuna purse seines,Tuvalu,66
+2023,5,Drifting longlines,Fiji,6389
+2023,5,Drifting longlines,Kiribati,17762
+2023,5,Drifting longlines,Marshall Islands,6710
+2023,5,Drifting longlines,Micronesia,3146
+2023,5,Drifting longlines,Palau,250
+2023,5,Drifting longlines,Papua New Guinea,18349
+2023,5,Drifting longlines,Samoa,2781
+2023,5,Drifting longlines,Solomon Islands,20488
+2023,5,Drifting longlines,Tokelau,1099
+2023,5,Drifting longlines,Tonga,1088
+2023,5,Drifting longlines,Tuvalu,535
+2023,5,Drifting longlines,Vanuatu,4420
+2023,5,Others,Fiji,56
+2023,5,Others,Kiribati,170
+2023,5,Others,Marshall Islands,421
+2023,5,Others,Micronesia,152
+2023,5,Others,Nauru,2
+2023,5,Others,Papua New Guinea,1306
+2023,5,Others,Samoa,149
+2023,5,Others,Solomon Islands,478
+2023,5,Others,Tonga,1
+2023,5,Others,Vanuatu,939
+2023,5,Set longlines,Fiji,595
+2023,5,Set longlines,Kiribati,519
+2023,5,Set longlines,Marshall Islands,617
+2023,5,Set longlines,Papua New Guinea,202
+2023,5,Set longlines,Solomon Islands,1399
+2023,5,Set longlines,Tonga,560
+2023,5,Set longlines,Tuvalu,401
+2023,5,Set longlines,Vanuatu,784
+2023,5,Tuna purse seines,Kiribati,2967
+2023,5,Tuna purse seines,Marshall Islands,2008
+2023,5,Tuna purse seines,Micronesia,381
+2023,5,Tuna purse seines,Nauru,1371
+2023,5,Tuna purse seines,Papua New Guinea,1454
+2023,5,Tuna purse seines,Solomon Islands,221
+2023,6,Drifting longlines,Fiji,5458
+2023,6,Drifting longlines,Kiribati,16410
+2023,6,Drifting longlines,Marshall Islands,5690
+2023,6,Drifting longlines,Micronesia,3213
+2023,6,Drifting longlines,Palau,562
+2023,6,Drifting longlines,Papua New Guinea,20662
+2023,6,Drifting longlines,Samoa,2645
+2023,6,Drifting longlines,Solomon Islands,17236
+2023,6,Drifting longlines,Tokelau,2654
+2023,6,Drifting longlines,Tonga,940
+2023,6,Drifting longlines,Tuvalu,238
+2023,6,Drifting longlines,Vanuatu,3431
+2023,6,Others,Fiji,189
+2023,6,Others,Kiribati,896
+2023,6,Others,Marshall Islands,343
+2023,6,Others,Papua New Guinea,787
+2023,6,Others,Solomon Islands,357
+2023,6,Others,Tokelau,13
+2023,6,Others,Tonga,19
+2023,6,Others,Tuvalu,5
+2023,6,Others,Vanuatu,465
+2023,6,Set longlines,Fiji,333
+2023,6,Set longlines,Kiribati,383
+2023,6,Set longlines,Marshall Islands,460
+2023,6,Set longlines,Papua New Guinea,527
+2023,6,Set longlines,Solomon Islands,855
+2023,6,Set longlines,Tonga,227
+2023,6,Set longlines,Tuvalu,132
+2023,6,Set longlines,Vanuatu,895
+2023,6,Tuna purse seines,Kiribati,7251
+2023,6,Tuna purse seines,Marshall Islands,2632
+2023,6,Tuna purse seines,Micronesia,394
+2023,6,Tuna purse seines,Nauru,57
+2023,6,Tuna purse seines,Papua New Guinea,1411
+2023,6,Tuna purse seines,Samoa,6
+2023,6,Tuna purse seines,Solomon Islands,607
+2023,7,Drifting longlines,Fiji,7148
+2023,7,Drifting longlines,Kiribati,20578
+2023,7,Drifting longlines,Marshall Islands,8107
+2023,7,Drifting longlines,Micronesia,3064
+2023,7,Drifting longlines,Palau,683
+2023,7,Drifting longlines,Papua New Guinea,18509
+2023,7,Drifting longlines,Samoa,2169
+2023,7,Drifting longlines,Solomon Islands,20646
+2023,7,Drifting longlines,Tokelau,2783
+2023,7,Drifting longlines,Tonga,1186
+2023,7,Drifting longlines,Tuvalu,4
+2023,7,Drifting longlines,Vanuatu,2468
+2023,7,Others,Fiji,315
+2023,7,Others,Kiribati,1340
+2023,7,Others,Marshall Islands,579
+2023,7,Others,Palau,90
+2023,7,Others,Papua New Guinea,285
+2023,7,Others,Solomon Islands,483
+2023,7,Others,Tonga,55
+2023,7,Others,Vanuatu,254
+2023,7,Set longlines,Fiji,596
+2023,7,Set longlines,Kiribati,309
+2023,7,Set longlines,Marshall Islands,551
+2023,7,Set longlines,Papua New Guinea,271
+2023,7,Set longlines,Samoa,1
+2023,7,Set longlines,Solomon Islands,1106
+2023,7,Set longlines,Tonga,743
+2023,7,Set longlines,Tuvalu,0
+2023,7,Set longlines,Vanuatu,769
+2023,7,Tuna purse seines,Fiji,16
+2023,7,Tuna purse seines,Kiribati,5644
+2023,7,Tuna purse seines,Marshall Islands,3060
+2023,7,Tuna purse seines,Micronesia,222
+2023,7,Tuna purse seines,Nauru,808
+2023,7,Tuna purse seines,Papua New Guinea,1651
+2023,7,Tuna purse seines,Solomon Islands,37
+2023,8,Drifting longlines,Fiji,6043
+2023,8,Drifting longlines,Kiribati,17390
+2023,8,Drifting longlines,Marshall Islands,9736
+2023,8,Drifting longlines,Micronesia,5101
+2023,8,Drifting longlines,Palau,662
+2023,8,Drifting longlines,Papua New Guinea,15297
+2023,8,Drifting longlines,Samoa,1465
+2023,8,Drifting longlines,Solomon Islands,25377
+2023,8,Drifting longlines,Tokelau,2334
+2023,8,Drifting longlines,Tonga,533
+2023,8,Drifting longlines,Tuvalu,3
+2023,8,Drifting longlines,Vanuatu,2424
+2023,8,Others,Fiji,55
+2023,8,Others,Kiribati,404
+2023,8,Others,Marshall Islands,562
+2023,8,Others,Micronesia,23
+2023,8,Others,Nauru,19
+2023,8,Others,Papua New Guinea,81
+2023,8,Others,Solomon Islands,534
+2023,8,Others,Tonga,207
+2023,8,Others,Vanuatu,244
+2023,8,Set longlines,Fiji,87
+2023,8,Set longlines,Kiribati,326
+2023,8,Set longlines,Marshall Islands,666
+2023,8,Set longlines,Papua New Guinea,11
+2023,8,Set longlines,Samoa,4
+2023,8,Set longlines,Solomon Islands,1196
+2023,8,Set longlines,Tokelau,8
+2023,8,Set longlines,Tonga,158
+2023,8,Set longlines,Tuvalu,4
+2023,8,Set longlines,Vanuatu,531
+2023,8,Tuna purse seines,Fiji,11
+2023,8,Tuna purse seines,Kiribati,4264
+2023,8,Tuna purse seines,Marshall Islands,1788
+2023,8,Tuna purse seines,Micronesia,126
+2023,8,Tuna purse seines,Nauru,779
+2023,8,Tuna purse seines,Papua New Guinea,1260
+2023,8,Tuna purse seines,Solomon Islands,0
+2023,8,Tuna purse seines,Tuvalu,18
+2023,9,Drifting longlines,Fiji,5738
+2023,9,Drifting longlines,Kiribati,14562
+2023,9,Drifting longlines,Marshall Islands,10051
+2023,9,Drifting longlines,Micronesia,2876
+2023,9,Drifting longlines,Palau,261
+2023,9,Drifting longlines,Papua New Guinea,17735
+2023,9,Drifting longlines,Samoa,1768
+2023,9,Drifting longlines,Solomon Islands,22275
+2023,9,Drifting longlines,Tokelau,3304
+2023,9,Drifting longlines,Tonga,1225
+2023,9,Drifting longlines,Tuvalu,57
+2023,9,Drifting longlines,Vanuatu,2850
+2023,9,Others,Fiji,115
+2023,9,Others,Kiribati,272
+2023,9,Others,Marshall Islands,391
+2023,9,Others,Micronesia,21
+2023,9,Others,Palau,8
+2023,9,Others,Papua New Guinea,202
+2023,9,Others,Solomon Islands,497
+2023,9,Others,Vanuatu,183
+2023,9,Set longlines,Fiji,36
+2023,9,Set longlines,Kiribati,623
+2023,9,Set longlines,Marshall Islands,941
+2023,9,Set longlines,Micronesia,4
+2023,9,Set longlines,Papua New Guinea,182
+2023,9,Set longlines,Solomon Islands,1302
+2023,9,Set longlines,Vanuatu,344
+2023,9,Tuna purse seines,Kiribati,3509
+2023,9,Tuna purse seines,Marshall Islands,2092
+2023,9,Tuna purse seines,Micronesia,222
+2023,9,Tuna purse seines,Nauru,503
+2023,9,Tuna purse seines,Papua New Guinea,1189
+2023,9,Tuna purse seines,Solomon Islands,120
+2023,9,Tuna purse seines,Tuvalu,11
+2023,10,Drifting longlines,Fiji,4235
+2023,10,Drifting longlines,Kiribati,12886
+2023,10,Drifting longlines,Marshall Islands,10767
+2023,10,Drifting longlines,Micronesia,6053
+2023,10,Drifting longlines,Palau,154
+2023,10,Drifting longlines,Papua New Guinea,14137
+2023,10,Drifting longlines,Samoa,1325
+2023,10,Drifting longlines,Solomon Islands,17578
+2023,10,Drifting longlines,Tokelau,1761
+2023,10,Drifting longlines,Tonga,2093
+2023,10,Drifting longlines,Tuvalu,487
+2023,10,Drifting longlines,Vanuatu,3870
+2023,10,Others,Fiji,33
+2023,10,Others,Kiribati,1031
+2023,10,Others,Marshall Islands,275
+2023,10,Others,Micronesia,20
+2023,10,Others,Papua New Guinea,208
+2023,10,Others,Solomon Islands,162
+2023,10,Others,Tuvalu,74
+2023,10,Others,Vanuatu,353
+2023,10,Set longlines,Fiji,15
+2023,10,Set longlines,Kiribati,304
+2023,10,Set longlines,Marshall Islands,1051
+2023,10,Set longlines,Papua New Guinea,239
+2023,10,Set longlines,Solomon Islands,930
+2023,10,Set longlines,Vanuatu,603
+2023,10,Tuna purse seines,Kiribati,3356
+2023,10,Tuna purse seines,Marshall Islands,532
+2023,10,Tuna purse seines,Micronesia,248
+2023,10,Tuna purse seines,Nauru,28
+2023,10,Tuna purse seines,Papua New Guinea,1188
+2023,10,Tuna purse seines,Samoa,2
+2023,10,Tuna purse seines,Solomon Islands,122
+2023,10,Tuna purse seines,Tokelau,2
+2023,10,Tuna purse seines,Tuvalu,834
+2023,11,Drifting longlines,Fiji,4706
+2023,11,Drifting longlines,Kiribati,11561
+2023,11,Drifting longlines,Marshall Islands,7597
+2023,11,Drifting longlines,Micronesia,6254
+2023,11,Drifting longlines,Nauru,181
+2023,11,Drifting longlines,Palau,250
+2023,11,Drifting longlines,Papua New Guinea,11334
+2023,11,Drifting longlines,Samoa,2597
+2023,11,Drifting longlines,Solomon Islands,14326
+2023,11,Drifting longlines,Tokelau,1072
+2023,11,Drifting longlines,Tonga,2394
+2023,11,Drifting longlines,Tuvalu,1559
+2023,11,Drifting longlines,Vanuatu,5727
+2023,11,Others,Fiji,2
+2023,11,Others,Kiribati,1312
+2023,11,Others,Marshall Islands,124
+2023,11,Others,Micronesia,53
+2023,11,Others,Palau,5
+2023,11,Others,Papua New Guinea,31
+2023,11,Others,Solomon Islands,12
+2023,11,Others,Tuvalu,41
+2023,11,Others,Vanuatu,363
+2023,11,Set longlines,Fiji,46
+2023,11,Set longlines,Marshall Islands,797
+2023,11,Set longlines,Papua New Guinea,218
+2023,11,Set longlines,Samoa,89
+2023,11,Set longlines,Solomon Islands,659
+2023,11,Set longlines,Tokelau,12
+2023,11,Set longlines,Vanuatu,414
+2023,11,Tuna purse seines,Kiribati,2240
+2023,11,Tuna purse seines,Marshall Islands,882
+2023,11,Tuna purse seines,Micronesia,90
+2023,11,Tuna purse seines,Nauru,43
+2023,11,Tuna purse seines,Papua New Guinea,1892
+2023,11,Tuna purse seines,Samoa,27
+2023,11,Tuna purse seines,Solomon Islands,140
+2023,11,Tuna purse seines,Tuvalu,939
+2023,12,Drifting longlines,Fiji,5154
+2023,12,Drifting longlines,Kiribati,7123
+2023,12,Drifting longlines,Marshall Islands,7119
+2023,12,Drifting longlines,Micronesia,5762
+2023,12,Drifting longlines,Palau,559
+2023,12,Drifting longlines,Papua New Guinea,14963
+2023,12,Drifting longlines,Samoa,1606
+2023,12,Drifting longlines,Solomon Islands,6896
+2023,12,Drifting longlines,Tokelau,818
+2023,12,Drifting longlines,Tonga,1729
+2023,12,Drifting longlines,Tuvalu,1613
+2023,12,Drifting longlines,Vanuatu,10149
+2023,12,Others,Kiribati,1179
+2023,12,Others,Marshall Islands,21
+2023,12,Others,Micronesia,186
+2023,12,Others,Papua New Guinea,362
+2023,12,Others,Solomon Islands,21
+2023,12,Others,Tuvalu,74
+2023,12,Others,Vanuatu,662
+2023,12,Set longlines,Marshall Islands,560
+2023,12,Set longlines,Micronesia,0
+2023,12,Set longlines,Papua New Guinea,15
+2023,12,Set longlines,Samoa,0
+2023,12,Set longlines,Solomon Islands,508
+2023,12,Set longlines,Vanuatu,521
+2023,12,Tuna purse seines,Fiji,1
+2023,12,Tuna purse seines,Kiribati,1479
+2023,12,Tuna purse seines,Marshall Islands,361
+2023,12,Tuna purse seines,Micronesia,10
+2023,12,Tuna purse seines,Nauru,86
+2023,12,Tuna purse seines,Papua New Guinea,2006
+2023,12,Tuna purse seines,Solomon Islands,402
+2023,12,Tuna purse seines,Tokelau,3
+2023,12,Tuna purse seines,Tuvalu,1037
+2024,1,Drifting longlines,Fiji,5168
+2024,1,Drifting longlines,Kiribati,7082
+2024,1,Drifting longlines,Marshall Islands,8790
+2024,1,Drifting longlines,Micronesia,6042
+2024,1,Drifting longlines,Palau,45
+2024,1,Drifting longlines,Papua New Guinea,17055
+2024,1,Drifting longlines,Samoa,3178
+2024,1,Drifting longlines,Solomon Islands,10103
+2024,1,Drifting longlines,Tokelau,1
+2024,1,Drifting longlines,Tonga,2759
+2024,1,Drifting longlines,Tuvalu,1279
+2024,1,Drifting longlines,Vanuatu,13910
+2024,1,Others,Fiji,1
+2024,1,Others,Kiribati,355
+2024,1,Others,Marshall Islands,72
+2024,1,Others,Micronesia,25
+2024,1,Others,Papua New Guinea,299
+2024,1,Others,Solomon Islands,719
+2024,1,Others,Tuvalu,93
+2024,1,Others,Vanuatu,787
+2024,1,Set longlines,Fiji,5
+2024,1,Set longlines,Samoa,230
+2024,1,Tuna purse seines,Kiribati,1350
+2024,1,Tuna purse seines,Marshall Islands,912
+2024,1,Tuna purse seines,Micronesia,162
+2024,1,Tuna purse seines,Nauru,94
+2024,1,Tuna purse seines,Papua New Guinea,2449
+2024,1,Tuna purse seines,Solomon Islands,106
+2024,1,Tuna purse seines,Tokelau,137
+2024,1,Tuna purse seines,Tuvalu,795
+2024,2,Drifting longlines,Fiji,4978
+2024,2,Drifting longlines,Kiribati,7130
+2024,2,Drifting longlines,Marshall Islands,7531
+2024,2,Drifting longlines,Micronesia,7735
+2024,2,Drifting longlines,Palau,58
+2024,2,Drifting longlines,Papua New Guinea,11482
+2024,2,Drifting longlines,Samoa,2224
+2024,2,Drifting longlines,Solomon Islands,10924
+2024,2,Drifting longlines,Tonga,1274
+2024,2,Drifting longlines,Tuvalu,91
+2024,2,Drifting longlines,Vanuatu,10944
+2024,2,Others,Fiji,68
+2024,2,Others,Kiribati,214
+2024,2,Others,Marshall Islands,117
+2024,2,Others,Micronesia,1258
+2024,2,Others,Nauru,1
+2024,2,Others,Palau,9
+2024,2,Others,Papua New Guinea,710
+2024,2,Others,Solomon Islands,370
+2024,2,Others,Tuvalu,45
+2024,2,Others,Vanuatu,243
+2024,2,Set longlines,Samoa,54
+2024,2,Tuna purse seines,Kiribati,632
+2024,2,Tuna purse seines,Marshall Islands,269
+2024,2,Tuna purse seines,Micronesia,919
+2024,2,Tuna purse seines,Nauru,893
+2024,2,Tuna purse seines,Palau,1
+2024,2,Tuna purse seines,Papua New Guinea,2506
+2024,2,Tuna purse seines,Samoa,51
+2024,2,Tuna purse seines,Solomon Islands,84
+2024,2,Tuna purse seines,Tuvalu,338
+2024,3,Drifting longlines,Fiji,5663
+2024,3,Drifting longlines,Kiribati,10980
+2024,3,Drifting longlines,Marshall Islands,8592
+2024,3,Drifting longlines,Micronesia,9473
+2024,3,Drifting longlines,Palau,215
+2024,3,Drifting longlines,Papua New Guinea,13150
+2024,3,Drifting longlines,Samoa,964
+2024,3,Drifting longlines,Solomon Islands,8609
+2024,3,Drifting longlines,Tonga,1100
+2024,3,Drifting longlines,Tuvalu,6
+2024,3,Drifting longlines,Vanuatu,8337
+2024,3,Others,Fiji,433
+2024,3,Others,Kiribati,379
+2024,3,Others,Micronesia,1468
+2024,3,Others,Papua New Guinea,575
+2024,3,Others,Solomon Islands,348
+2024,3,Others,Vanuatu,263
+2024,3,Set longlines,Samoa,61
+2024,3,Tuna purse seines,Fiji,16
+2024,3,Tuna purse seines,Kiribati,577
+2024,3,Tuna purse seines,Marshall Islands,82
+2024,3,Tuna purse seines,Micronesia,903
+2024,3,Tuna purse seines,Nauru,87
+2024,3,Tuna purse seines,Papua New Guinea,1955
+2024,3,Tuna purse seines,Solomon Islands,732
+2024,3,Tuna purse seines,Tokelau,87
+2024,3,Tuna purse seines,Tuvalu,2112
+2024,4,Drifting longlines,Fiji,6588
+2024,4,Drifting longlines,Kiribati,20371
+2024,4,Drifting longlines,Marshall Islands,10490
+2024,4,Drifting longlines,Micronesia,7499
+2024,4,Drifting longlines,Papua New Guinea,9979
+2024,4,Drifting longlines,Samoa,850
+2024,4,Drifting longlines,Solomon Islands,11742
+2024,4,Drifting longlines,Tokelau,24
+2024,4,Drifting longlines,Tonga,448
+2024,4,Drifting longlines,Vanuatu,5859
+2024,4,Others,Fiji,417
+2024,4,Others,Kiribati,198
+2024,4,Others,Micronesia,1537
+2024,4,Others,Palau,29
+2024,4,Others,Papua New Guinea,297
+2024,4,Others,Solomon Islands,415
+2024,4,Others,Vanuatu,261
+2024,4,Set longlines,Fiji,16
+2024,4,Set longlines,Samoa,90
+2024,4,Tuna purse seines,Fiji,44
+2024,4,Tuna purse seines,Kiribati,638
+2024,4,Tuna purse seines,Marshall Islands,355
+2024,4,Tuna purse seines,Micronesia,1843
+2024,4,Tuna purse seines,Nauru,210
+2024,4,Tuna purse seines,Papua New Guinea,1964
+2024,4,Tuna purse seines,Solomon Islands,1562
+2024,4,Tuna purse seines,Tokelau,81
+2024,4,Tuna purse seines,Tuvalu,901
+2024,5,Drifting longlines,Fiji,6218
+2024,5,Drifting longlines,Kiribati,19908
+2024,5,Drifting longlines,Marshall Islands,9312
+2024,5,Drifting longlines,Micronesia,4395
+2024,5,Drifting longlines,Palau,382
+2024,5,Drifting longlines,Papua New Guinea,13348
+2024,5,Drifting longlines,Samoa,950
+2024,5,Drifting longlines,Solomon Islands,11572
+2024,5,Drifting longlines,Tokelau,30
+2024,5,Drifting longlines,Tonga,1063
+2024,5,Drifting longlines,Tuvalu,12
+2024,5,Drifting longlines,Vanuatu,2884
+2024,5,Others,Fiji,244
+2024,5,Others,Kiribati,471
+2024,5,Others,Micronesia,1832
+2024,5,Others,Palau,14
+2024,5,Others,Papua New Guinea,1154
+2024,5,Others,Solomon Islands,328
+2024,5,Others,Vanuatu,195
+2024,5,Set longlines,Fiji,26
+2024,5,Set longlines,Samoa,18
+2024,5,Set longlines,Tonga,33
+2024,5,Tuna purse seines,Kiribati,2315
+2024,5,Tuna purse seines,Marshall Islands,232
+2024,5,Tuna purse seines,Micronesia,2004
+2024,5,Tuna purse seines,Nauru,37
+2024,5,Tuna purse seines,Palau,35
+2024,5,Tuna purse seines,Papua New Guinea,2525
+2024,5,Tuna purse seines,Solomon Islands,1620
+2024,5,Tuna purse seines,Tuvalu,747
+2024,6,Drifting longlines,Fiji,6221
+2024,6,Drifting longlines,Kiribati,13779
+2024,6,Drifting longlines,Marshall Islands,8662
+2024,6,Drifting longlines,Micronesia,5500
+2024,6,Drifting longlines,Palau,235
+2024,6,Drifting longlines,Papua New Guinea,14545
+2024,6,Drifting longlines,Samoa,725
+2024,6,Drifting longlines,Solomon Islands,11436
+2024,6,Drifting longlines,Tokelau,101
+2024,6,Drifting longlines,Tonga,1738
+2024,6,Drifting longlines,Tuvalu,158
+2024,6,Drifting longlines,Vanuatu,2823
+2024,6,Others,Fiji,566
+2024,6,Others,Kiribati,435
+2024,6,Others,Micronesia,685
+2024,6,Others,Papua New Guinea,1393
+2024,6,Others,Solomon Islands,596
+2024,6,Others,Vanuatu,394
+2024,6,Set longlines,Fiji,31
+2024,6,Set longlines,Samoa,53
+2024,6,Set longlines,Tonga,95
+2024,6,Tuna purse seines,Kiribati,2585
+2024,6,Tuna purse seines,Marshall Islands,187
+2024,6,Tuna purse seines,Micronesia,1329
+2024,6,Tuna purse seines,Nauru,118
+2024,6,Tuna purse seines,Papua New Guinea,3514
+2024,6,Tuna purse seines,Solomon Islands,1341
+2024,6,Tuna purse seines,Tuvalu,126
+2024,7,Drifting longlines,Fiji,7006
+2024,7,Drifting longlines,Kiribati,12247
+2024,7,Drifting longlines,Marshall Islands,10029
+2024,7,Drifting longlines,Micronesia,3971
+2024,7,Drifting longlines,Palau,246
+2024,7,Drifting longlines,Papua New Guinea,14721
+2024,7,Drifting longlines,Samoa,424
+2024,7,Drifting longlines,Solomon Islands,11365
+2024,7,Drifting longlines,Tokelau,60
+2024,7,Drifting longlines,Tonga,1513
+2024,7,Drifting longlines,Tuvalu,1463
+2024,7,Drifting longlines,Vanuatu,3800
+2024,7,Others,Fiji,702
+2024,7,Others,Kiribati,1512
+2024,7,Others,Micronesia,241
+2024,7,Others,Palau,2
+2024,7,Others,Papua New Guinea,906
+2024,7,Others,Solomon Islands,350
+2024,7,Others,Tuvalu,4
+2024,7,Set longlines,Fiji,25
+2024,7,Set longlines,Tonga,248
+2024,7,Tuna purse seines,Kiribati,5190
+2024,7,Tuna purse seines,Marshall Islands,667
+2024,7,Tuna purse seines,Micronesia,1929
+2024,7,Tuna purse seines,Nauru,133
+2024,7,Tuna purse seines,Papua New Guinea,3170
+2024,7,Tuna purse seines,Solomon Islands,360
+2024,8,Drifting longlines,Fiji,6899
+2024,8,Drifting longlines,Kiribati,9823
+2024,8,Drifting longlines,Marshall Islands,9435
+2024,8,Drifting longlines,Micronesia,2813
+2024,8,Drifting longlines,Palau,308
+2024,8,Drifting longlines,Papua New Guinea,17547
+2024,8,Drifting longlines,Samoa,131
+2024,8,Drifting longlines,Solomon Islands,16186
+2024,8,Drifting longlines,Tokelau,6
+2024,8,Drifting longlines,Tonga,1976
+2024,8,Drifting longlines,Tuvalu,3768
+2024,8,Drifting longlines,Vanuatu,3721
+2024,8,Others,Fiji,773
+2024,8,Others,Kiribati,1627
+2024,8,Others,Marshall Islands,20
+2024,8,Others,Micronesia,116
+2024,8,Others,Palau,4
+2024,8,Others,Papua New Guinea,1119
+2024,8,Others,Solomon Islands,733
+2024,8,Others,Tonga,61
+2024,8,Others,Vanuatu,62
+2024,8,Tuna purse seines,Kiribati,3623
+2024,8,Tuna purse seines,Marshall Islands,461
+2024,8,Tuna purse seines,Micronesia,490
+2024,8,Tuna purse seines,Nauru,1145
+2024,8,Tuna purse seines,Papua New Guinea,2948
+2024,8,Tuna purse seines,Solomon Islands,66
+2024,9,Drifting longlines,Fiji,6171
+2024,9,Drifting longlines,Kiribati,9735
+2024,9,Drifting longlines,Marshall Islands,10111
+2024,9,Drifting longlines,Micronesia,1760
+2024,9,Drifting longlines,Palau,120
+2024,9,Drifting longlines,Papua New Guinea,19836
+2024,9,Drifting longlines,Samoa,251
+2024,9,Drifting longlines,Solomon Islands,14908
+2024,9,Drifting longlines,Tonga,1757
+2024,9,Drifting longlines,Tuvalu,5723
+2024,9,Drifting longlines,Vanuatu,4844
+2024,9,Others,Fiji,660
+2024,9,Others,Kiribati,1866
+2024,9,Others,Micronesia,25
+2024,9,Others,Palau,13
+2024,9,Others,Papua New Guinea,1481
+2024,9,Others,Solomon Islands,667
+2024,9,Others,Tonga,42
+2024,9,Others,Vanuatu,81
+2024,9,Set longlines,Fiji,20
+2024,9,Tuna purse seines,Kiribati,2055
+2024,9,Tuna purse seines,Marshall Islands,685
+2024,9,Tuna purse seines,Micronesia,555
+2024,9,Tuna purse seines,Nauru,477
+2024,9,Tuna purse seines,Papua New Guinea,3698
+2024,9,Tuna purse seines,Solomon Islands,25
+2024,9,Tuna purse seines,Tuvalu,116
+2024,10,Drifting longlines,Fiji,5600
+2024,10,Drifting longlines,Kiribati,13453
+2024,10,Drifting longlines,Marshall Islands,9414
+2024,10,Drifting longlines,Micronesia,2571
+2024,10,Drifting longlines,Palau,77
+2024,10,Drifting longlines,Papua New Guinea,16293
+2024,10,Drifting longlines,Samoa,359
+2024,10,Drifting longlines,Solomon Islands,14210
+2024,10,Drifting longlines,Tonga,583
+2024,10,Drifting longlines,Tuvalu,6363
+2024,10,Drifting longlines,Vanuatu,13780
+2024,10,Others,Fiji,135
+2024,10,Others,Kiribati,1623
+2024,10,Others,Micronesia,20
+2024,10,Others,Nauru,1
+2024,10,Others,Papua New Guinea,1423
+2024,10,Others,Solomon Islands,385
+2024,10,Others,Tonga,31
+2024,10,Others,Vanuatu,1772
+2024,10,Set longlines,Fiji,97
+2024,10,Set longlines,Kiribati,180
+2024,10,Tuna purse seines,Kiribati,1309
+2024,10,Tuna purse seines,Marshall Islands,54
+2024,10,Tuna purse seines,Micronesia,740
+2024,10,Tuna purse seines,Nauru,197
+2024,10,Tuna purse seines,Papua New Guinea,2468
+2024,10,Tuna purse seines,Solomon Islands,640
+2024,10,Tuna purse seines,Tuvalu,35
+2024,11,Drifting longlines,Fiji,4331
+2024,11,Drifting longlines,Kiribati,16643
+2024,11,Drifting longlines,Marshall Islands,9205
+2024,11,Drifting longlines,Micronesia,3731
+2024,11,Drifting longlines,Palau,23
+2024,11,Drifting longlines,Papua New Guinea,12085
+2024,11,Drifting longlines,Samoa,110
+2024,11,Drifting longlines,Solomon Islands,6224
+2024,11,Drifting longlines,Tonga,1628
+2024,11,Drifting longlines,Tuvalu,2912
+2024,11,Drifting longlines,Vanuatu,25941
+2024,11,Others,Fiji,11
+2024,11,Others,Kiribati,1116
+2024,11,Others,Marshall Islands,29
+2024,11,Others,Micronesia,74
+2024,11,Others,Papua New Guinea,415
+2024,11,Others,Solomon Islands,222
+2024,11,Others,Tonga,9
+2024,11,Others,Vanuatu,3804
+2024,11,Set longlines,Kiribati,255
+2024,11,Tuna purse seines,Kiribati,2026
+2024,11,Tuna purse seines,Marshall Islands,288
+2024,11,Tuna purse seines,Micronesia,56
+2024,11,Tuna purse seines,Nauru,137
+2024,11,Tuna purse seines,Papua New Guinea,1551
+2024,11,Tuna purse seines,Solomon Islands,353
+2024,11,Tuna purse seines,Tuvalu,24
+2024,12,Drifting longlines,Fiji,1672
+2024,12,Drifting longlines,Kiribati,5017
+2024,12,Drifting longlines,Marshall Islands,2459
+2024,12,Drifting longlines,Micronesia,1328
+2024,12,Drifting longlines,Palau,30
+2024,12,Drifting longlines,Papua New Guinea,3800
+2024,12,Drifting longlines,Samoa,159
+2024,12,Drifting longlines,Solomon Islands,2622
+2024,12,Drifting longlines,Tonga,631
+2024,12,Drifting longlines,Tuvalu,316
+2024,12,Drifting longlines,Vanuatu,9046
+2024,12,Others,Kiribati,235
+2024,12,Others,Papua New Guinea,137
+2024,12,Others,Solomon Islands,100
+2024,12,Others,Vanuatu,1535
+2024,12,Tuna purse seines,Kiribati,412
+2024,12,Tuna purse seines,Marshall Islands,225
+2024,12,Tuna purse seines,Micronesia,8
+2024,12,Tuna purse seines,Nauru,94
+2024,12,Tuna purse seines,Papua New Guinea,970
+2024,12,Tuna purse seines,Solomon Islands,132
+2024,12,Tuna purse seines,Tuvalu,10

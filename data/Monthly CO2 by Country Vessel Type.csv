@@ -13607,962 +13607,962 @@
 2024,12,Tanker,Tonga,397,9
 2024,12,Tanker,Tuvalu,554,8
 2024,12,Tanker,Vanuatu,644,11
-2025,1,Cargo,Cook Islands,47,8952
-2025,1,Cargo,Fiji,57,7983
-2025,1,Cargo,Kiribati,142,29996
-2025,1,Cargo,Marshall Islands,176,20759
-2025,1,Cargo,Micronesia,802,113371
-2025,1,Cargo,Nauru,23,1614
-2025,1,Cargo,Niue,23,1922
-2025,1,Cargo,Palau,380,31664
-2025,1,Cargo,Papua New Guinea,1115,269236
-2025,1,Cargo,Samoa,18,670
-2025,1,Cargo,Solomon Islands,157,15418
-2025,1,Cargo,Tokelau,14,928
-2025,1,Cargo,Tonga,33,4479
-2025,1,Cargo,Tuvalu,26,1980
-2025,1,Cargo,Vanuatu,39,4120
-2025,1,Fishing,Cook Islands,43,614
-2025,1,Fishing,Fiji,123,1048
-2025,1,Fishing,Kiribati,239,7235
-2025,1,Fishing,Marshall Islands,171,2988
-2025,1,Fishing,Micronesia,203,6262
-2025,1,Fishing,Nauru,27,669
-2025,1,Fishing,Niue,2,7
-2025,1,Fishing,Palau,35,333
-2025,1,Fishing,Papua New Guinea,319,9472
-2025,1,Fishing,Samoa,20,48
-2025,1,Fishing,Solomon Islands,127,2051
-2025,1,Fishing,Tokelau,14,143
-2025,1,Fishing,Tonga,22,181
-2025,1,Fishing,Tuvalu,35,766
-2025,1,Fishing,Vanuatu,114,1612
-2025,1,Others,Cook Islands,17,951
-2025,1,Others,Fiji,175,13118
-2025,1,Others,Kiribati,134,23839
-2025,1,Others,Marshall Islands,43,2405
-2025,1,Others,Micronesia,76,4501
-2025,1,Others,Nauru,7,230
-2025,1,Others,Niue,3,147
-2025,1,Others,Palau,33,800
-2025,1,Others,Papua New Guinea,245,10850
-2025,1,Others,Samoa,14,220
-2025,1,Others,Solomon Islands,52,5262
-2025,1,Others,Tonga,15,181
-2025,1,Others,Tuvalu,17,1009
-2025,1,Others,Vanuatu,96,16092
-2025,1,Passenger,Cook Islands,10,989
-2025,1,Passenger,Fiji,24,5205
-2025,1,Passenger,Kiribati,8,1893
-2025,1,Passenger,Marshall Islands,4,498
-2025,1,Passenger,Micronesia,7,464
-2025,1,Passenger,Niue,3,192
-2025,1,Passenger,Palau,8,143
-2025,1,Passenger,Papua New Guinea,34,4267
-2025,1,Passenger,Samoa,7,289
-2025,1,Passenger,Solomon Islands,11,287
-2025,1,Passenger,Tokelau,2,33
-2025,1,Passenger,Tonga,7,591
-2025,1,Passenger,Tuvalu,2,17
-2025,1,Passenger,Vanuatu,22,4594
-2025,1,Tanker,Cook Islands,13,1478
-2025,1,Tanker,Fiji,18,2103
-2025,1,Tanker,Kiribati,25,3426
-2025,1,Tanker,Marshall Islands,39,2278
-2025,1,Tanker,Micronesia,173,43141
-2025,1,Tanker,Nauru,10,970
-2025,1,Tanker,Niue,6,353
-2025,1,Tanker,Palau,76,8909
-2025,1,Tanker,Papua New Guinea,229,110654
-2025,1,Tanker,Samoa,3,95
-2025,1,Tanker,Solomon Islands,40,4400
-2025,1,Tanker,Tokelau,1,51
-2025,1,Tanker,Tonga,13,865
-2025,1,Tanker,Tuvalu,9,573
-2025,1,Tanker,Vanuatu,9,759
-2025,2,Cargo,Cook Islands,40,6204
-2025,2,Cargo,Fiji,49,6495
-2025,2,Cargo,Kiribati,116,21116
-2025,2,Cargo,Marshall Islands,149,14448
-2025,2,Cargo,Micronesia,741,99738
-2025,2,Cargo,Nauru,22,1360
-2025,2,Cargo,Niue,11,911
-2025,2,Cargo,Palau,349,28380
-2025,2,Cargo,Papua New Guinea,1066,245763
-2025,2,Cargo,Samoa,18,563
-2025,2,Cargo,Solomon Islands,173,16546
-2025,2,Cargo,Tokelau,9,477
-2025,2,Cargo,Tonga,24,3210
-2025,2,Cargo,Tuvalu,22,2134
-2025,2,Cargo,Vanuatu,41,4972
-2025,2,Fishing,Cook Islands,39,617
-2025,2,Fishing,Fiji,146,673
-2025,2,Fishing,Kiribati,234,6067
-2025,2,Fishing,Marshall Islands,163,3053
-2025,2,Fishing,Micronesia,159,4291
-2025,2,Fishing,Nauru,30,755
-2025,2,Fishing,Niue,7,29
-2025,2,Fishing,Palau,22,334
-2025,2,Fishing,Papua New Guinea,263,7946
-2025,2,Fishing,Samoa,24,76
-2025,2,Fishing,Solomon Islands,112,1882
-2025,2,Fishing,Tokelau,21,137
-2025,2,Fishing,Tonga,19,124
-2025,2,Fishing,Tuvalu,34,554
-2025,2,Fishing,Vanuatu,79,1003
-2025,2,Others,Cook Islands,11,698
-2025,2,Others,Fiji,192,13639
-2025,2,Others,Kiribati,155,23357
-2025,2,Others,Marshall Islands,42,1979
-2025,2,Others,Micronesia,52,2931
-2025,2,Others,Nauru,11,260
-2025,2,Others,Niue,2,18
-2025,2,Others,Palau,23,334
-2025,2,Others,Papua New Guinea,256,10850
-2025,2,Others,Samoa,11,50
-2025,2,Others,Solomon Islands,47,5970
-2025,2,Others,Tonga,15,199
-2025,2,Others,Tuvalu,11,729
-2025,2,Others,Vanuatu,92,14518
-2025,2,Passenger,Cook Islands,8,2199
-2025,2,Passenger,Fiji,27,5260
-2025,2,Passenger,Kiribati,7,1421
-2025,2,Passenger,Marshall Islands,3,58
-2025,2,Passenger,Micronesia,8,516
-2025,2,Passenger,Nauru,2,14
-2025,2,Passenger,Niue,4,668
-2025,2,Passenger,Palau,6,47
-2025,2,Passenger,Papua New Guinea,37,4764
-2025,2,Passenger,Samoa,9,758
-2025,2,Passenger,Solomon Islands,8,576
-2025,2,Passenger,Tokelau,4,848
-2025,2,Passenger,Tonga,14,4706
-2025,2,Passenger,Tuvalu,1,16
-2025,2,Passenger,Vanuatu,15,2285
-2025,2,Tanker,Cook Islands,6,392
-2025,2,Tanker,Fiji,16,1733
-2025,2,Tanker,Kiribati,16,1601
-2025,2,Tanker,Marshall Islands,33,1489
-2025,2,Tanker,Micronesia,168,34382
-2025,2,Tanker,Nauru,9,1013
-2025,2,Tanker,Niue,4,286
-2025,2,Tanker,Palau,79,9183
-2025,2,Tanker,Papua New Guinea,239,93896
-2025,2,Tanker,Samoa,4,66
-2025,2,Tanker,Solomon Islands,43,4380
-2025,2,Tanker,Tonga,9,516
-2025,2,Tanker,Tuvalu,6,320
-2025,2,Tanker,Vanuatu,14,933
-2025,3,Cargo,Cook Islands,47,7292
-2025,3,Cargo,Fiji,54,8190
-2025,3,Cargo,Kiribati,120,18829
-2025,3,Cargo,Marshall Islands,158,15332
-2025,3,Cargo,Micronesia,836,123905
-2025,3,Cargo,Nauru,31,1318
-2025,3,Cargo,Niue,18,1398
-2025,3,Cargo,Palau,416,34919
-2025,3,Cargo,Papua New Guinea,1191,295254
-2025,3,Cargo,Samoa,16,494
-2025,3,Cargo,Solomon Islands,180,18140
-2025,3,Cargo,Tokelau,6,431
-2025,3,Cargo,Tonga,29,3773
-2025,3,Cargo,Tuvalu,23,1658
-2025,3,Cargo,Vanuatu,40,4207
-2025,3,Fishing,Cook Islands,39,637
-2025,3,Fishing,Fiji,218,1399
-2025,3,Fishing,Kiribati,290,8633
-2025,3,Fishing,Marshall Islands,202,3875
-2025,3,Fishing,Micronesia,213,6032
-2025,3,Fishing,Nauru,46,818
-2025,3,Fishing,Niue,5,11
-2025,3,Fishing,Palau,34,373
-2025,3,Fishing,Papua New Guinea,244,9294
-2025,3,Fishing,Samoa,17,99
-2025,3,Fishing,Solomon Islands,92,1544
-2025,3,Fishing,Tokelau,43,281
-2025,3,Fishing,Tonga,27,151
-2025,3,Fishing,Tuvalu,17,363
-2025,3,Fishing,Vanuatu,64,964
-2025,3,Others,Cook Islands,41,8763
-2025,3,Others,Fiji,219,18122
-2025,3,Others,Kiribati,237,51777
-2025,3,Others,Marshall Islands,54,2416
-2025,3,Others,Micronesia,68,4109
-2025,3,Others,Nauru,13,352
-2025,3,Others,Niue,3,165
-2025,3,Others,Palau,30,696
-2025,3,Others,Papua New Guinea,246,12097
-2025,3,Others,Samoa,11,267
-2025,3,Others,Solomon Islands,61,7368
-2025,3,Others,Tokelau,11,286
-2025,3,Others,Tonga,21,365
-2025,3,Others,Tuvalu,10,842
-2025,3,Others,Vanuatu,58,5478
-2025,3,Passenger,Cook Islands,6,1247
-2025,3,Passenger,Fiji,25,5021
-2025,3,Passenger,Kiribati,6,1711
-2025,3,Passenger,Marshall Islands,4,1039
-2025,3,Passenger,Micronesia,8,496
-2025,3,Passenger,Nauru,1,0
-2025,3,Passenger,Palau,9,472
-2025,3,Passenger,Papua New Guinea,36,1979
-2025,3,Passenger,Samoa,8,660
-2025,3,Passenger,Solomon Islands,11,628
-2025,3,Passenger,Tokelau,2,259
-2025,3,Passenger,Tonga,6,467
-2025,3,Passenger,Tuvalu,2,31
-2025,3,Passenger,Vanuatu,16,1854
-2025,3,Tanker,Cook Islands,11,1323
-2025,3,Tanker,Fiji,17,1857
-2025,3,Tanker,Kiribati,27,3787
-2025,3,Tanker,Marshall Islands,33,2113
-2025,3,Tanker,Micronesia,166,36837
-2025,3,Tanker,Nauru,20,1241
-2025,3,Tanker,Niue,5,234
-2025,3,Tanker,Palau,94,10981
-2025,3,Tanker,Papua New Guinea,224,102463
-2025,3,Tanker,Samoa,6,257
-2025,3,Tanker,Solomon Islands,38,3975
-2025,3,Tanker,Tokelau,3,131
-2025,3,Tanker,Tonga,9,454
-2025,3,Tanker,Tuvalu,14,1279
-2025,3,Tanker,Vanuatu,15,1002
-2025,4,Cargo,Cook Islands,45,6950
-2025,4,Cargo,Fiji,60,7745
-2025,4,Cargo,Kiribati,114,17056
-2025,4,Cargo,Marshall Islands,136,10729
-2025,4,Cargo,Micronesia,860,124456
-2025,4,Cargo,Nauru,40,2355
-2025,4,Cargo,Niue,13,1213
-2025,4,Cargo,Palau,408,36814
-2025,4,Cargo,Papua New Guinea,1230,305192
-2025,4,Cargo,Samoa,20,754
-2025,4,Cargo,Solomon Islands,168,18128
-2025,4,Cargo,Tokelau,11,872
-2025,4,Cargo,Tonga,29,3965
-2025,4,Cargo,Tuvalu,25,1470
-2025,4,Cargo,Vanuatu,44,5681
-2025,4,Fishing,Cook Islands,41,774
-2025,4,Fishing,Fiji,116,1012
-2025,4,Fishing,Kiribati,301,8458
-2025,4,Fishing,Marshall Islands,205,3781
-2025,4,Fishing,Micronesia,193,5225
-2025,4,Fishing,Nauru,27,504
-2025,4,Fishing,Niue,5,17
-2025,4,Fishing,Palau,34,240
-2025,4,Fishing,Papua New Guinea,214,8387
-2025,4,Fishing,Samoa,22,59
-2025,4,Fishing,Solomon Islands,109,2029
-2025,4,Fishing,Tokelau,20,111
-2025,4,Fishing,Tonga,24,126
-2025,4,Fishing,Tuvalu,28,435
-2025,4,Fishing,Vanuatu,60,906
-2025,4,Others,Cook Islands,61,11248
-2025,4,Others,Fiji,279,20001
-2025,4,Others,Kiribati,252,49402
-2025,4,Others,Marshall Islands,48,2366
-2025,4,Others,Micronesia,67,4924
-2025,4,Others,Nauru,14,376
-2025,4,Others,Niue,15,832
-2025,4,Others,Palau,27,505
-2025,4,Others,Papua New Guinea,249,11819
-2025,4,Others,Samoa,20,396
-2025,4,Others,Solomon Islands,63,7146
-2025,4,Others,Tokelau,6,349
-2025,4,Others,Tonga,32,1311
-2025,4,Others,Tuvalu,10,1478
-2025,4,Others,Vanuatu,67,6502
-2025,4,Passenger,Cook Islands,9,1823
-2025,4,Passenger,Fiji,22,3184
-2025,4,Passenger,Kiribati,7,2020
-2025,4,Passenger,Marshall Islands,10,216
-2025,4,Passenger,Micronesia,12,1115
+2025,1,Cargo,Cook Islands,8952,47
+2025,1,Cargo,Fiji,7983,57
+2025,1,Cargo,Kiribati,29996,142
+2025,1,Cargo,Marshall Islands,20759,176
+2025,1,Cargo,Micronesia,113371,802
+2025,1,Cargo,Nauru,1614,23
+2025,1,Cargo,Niue,1922,23
+2025,1,Cargo,Palau,31664,380
+2025,1,Cargo,Papua New Guinea,269236,1115
+2025,1,Cargo,Samoa,670,18
+2025,1,Cargo,Solomon Islands,15418,157
+2025,1,Cargo,Tokelau,928,14
+2025,1,Cargo,Tonga,4479,33
+2025,1,Cargo,Tuvalu,1980,26
+2025,1,Cargo,Vanuatu,4120,39
+2025,1,Fishing,Cook Islands,614,43
+2025,1,Fishing,Fiji,1048,123
+2025,1,Fishing,Kiribati,7235,239
+2025,1,Fishing,Marshall Islands,2988,171
+2025,1,Fishing,Micronesia,6262,203
+2025,1,Fishing,Nauru,669,27
+2025,1,Fishing,Niue,7,2
+2025,1,Fishing,Palau,333,35
+2025,1,Fishing,Papua New Guinea,9472,319
+2025,1,Fishing,Samoa,48,20
+2025,1,Fishing,Solomon Islands,2051,127
+2025,1,Fishing,Tokelau,143,14
+2025,1,Fishing,Tonga,181,22
+2025,1,Fishing,Tuvalu,766,35
+2025,1,Fishing,Vanuatu,1612,114
+2025,1,Others,Cook Islands,951,17
+2025,1,Others,Fiji,13118,175
+2025,1,Others,Kiribati,23839,134
+2025,1,Others,Marshall Islands,2405,43
+2025,1,Others,Micronesia,4501,76
+2025,1,Others,Nauru,230,7
+2025,1,Others,Niue,147,3
+2025,1,Others,Palau,800,33
+2025,1,Others,Papua New Guinea,10850,245
+2025,1,Others,Samoa,220,14
+2025,1,Others,Solomon Islands,5262,52
+2025,1,Others,Tonga,181,15
+2025,1,Others,Tuvalu,1009,17
+2025,1,Others,Vanuatu,16092,96
+2025,1,Passenger,Cook Islands,989,10
+2025,1,Passenger,Fiji,5205,24
+2025,1,Passenger,Kiribati,1893,8
+2025,1,Passenger,Marshall Islands,498,4
+2025,1,Passenger,Micronesia,464,7
+2025,1,Passenger,Niue,192,3
+2025,1,Passenger,Palau,143,8
+2025,1,Passenger,Papua New Guinea,4267,34
+2025,1,Passenger,Samoa,289,7
+2025,1,Passenger,Solomon Islands,287,11
+2025,1,Passenger,Tokelau,33,2
+2025,1,Passenger,Tonga,591,7
+2025,1,Passenger,Tuvalu,17,2
+2025,1,Passenger,Vanuatu,4594,22
+2025,1,Tanker,Cook Islands,1478,13
+2025,1,Tanker,Fiji,2103,18
+2025,1,Tanker,Kiribati,3426,25
+2025,1,Tanker,Marshall Islands,2278,39
+2025,1,Tanker,Micronesia,43141,173
+2025,1,Tanker,Nauru,970,10
+2025,1,Tanker,Niue,353,6
+2025,1,Tanker,Palau,8909,76
+2025,1,Tanker,Papua New Guinea,110654,229
+2025,1,Tanker,Samoa,95,3
+2025,1,Tanker,Solomon Islands,4400,40
+2025,1,Tanker,Tokelau,51,1
+2025,1,Tanker,Tonga,865,13
+2025,1,Tanker,Tuvalu,573,9
+2025,1,Tanker,Vanuatu,759,9
+2025,2,Cargo,Cook Islands,6204,40
+2025,2,Cargo,Fiji,6495,49
+2025,2,Cargo,Kiribati,21116,116
+2025,2,Cargo,Marshall Islands,14448,149
+2025,2,Cargo,Micronesia,99738,741
+2025,2,Cargo,Nauru,1360,22
+2025,2,Cargo,Niue,911,11
+2025,2,Cargo,Palau,28380,349
+2025,2,Cargo,Papua New Guinea,245763,1066
+2025,2,Cargo,Samoa,563,18
+2025,2,Cargo,Solomon Islands,16546,173
+2025,2,Cargo,Tokelau,477,9
+2025,2,Cargo,Tonga,3210,24
+2025,2,Cargo,Tuvalu,2134,22
+2025,2,Cargo,Vanuatu,4972,41
+2025,2,Fishing,Cook Islands,617,39
+2025,2,Fishing,Fiji,673,146
+2025,2,Fishing,Kiribati,6067,234
+2025,2,Fishing,Marshall Islands,3053,163
+2025,2,Fishing,Micronesia,4291,159
+2025,2,Fishing,Nauru,755,30
+2025,2,Fishing,Niue,29,7
+2025,2,Fishing,Palau,334,22
+2025,2,Fishing,Papua New Guinea,7946,263
+2025,2,Fishing,Samoa,76,24
+2025,2,Fishing,Solomon Islands,1882,112
+2025,2,Fishing,Tokelau,137,21
+2025,2,Fishing,Tonga,124,19
+2025,2,Fishing,Tuvalu,554,34
+2025,2,Fishing,Vanuatu,1003,79
+2025,2,Others,Cook Islands,698,11
+2025,2,Others,Fiji,13639,192
+2025,2,Others,Kiribati,23357,155
+2025,2,Others,Marshall Islands,1979,42
+2025,2,Others,Micronesia,2931,52
+2025,2,Others,Nauru,260,11
+2025,2,Others,Niue,18,2
+2025,2,Others,Palau,334,23
+2025,2,Others,Papua New Guinea,10850,256
+2025,2,Others,Samoa,50,11
+2025,2,Others,Solomon Islands,5970,47
+2025,2,Others,Tonga,199,15
+2025,2,Others,Tuvalu,729,11
+2025,2,Others,Vanuatu,14518,92
+2025,2,Passenger,Cook Islands,2199,8
+2025,2,Passenger,Fiji,5260,27
+2025,2,Passenger,Kiribati,1421,7
+2025,2,Passenger,Marshall Islands,58,3
+2025,2,Passenger,Micronesia,516,8
+2025,2,Passenger,Nauru,14,2
+2025,2,Passenger,Niue,668,4
+2025,2,Passenger,Palau,47,6
+2025,2,Passenger,Papua New Guinea,4764,37
+2025,2,Passenger,Samoa,758,9
+2025,2,Passenger,Solomon Islands,576,8
+2025,2,Passenger,Tokelau,848,4
+2025,2,Passenger,Tonga,4706,14
+2025,2,Passenger,Tuvalu,16,1
+2025,2,Passenger,Vanuatu,2285,15
+2025,2,Tanker,Cook Islands,392,6
+2025,2,Tanker,Fiji,1733,16
+2025,2,Tanker,Kiribati,1601,16
+2025,2,Tanker,Marshall Islands,1489,33
+2025,2,Tanker,Micronesia,34382,168
+2025,2,Tanker,Nauru,1013,9
+2025,2,Tanker,Niue,286,4
+2025,2,Tanker,Palau,9183,79
+2025,2,Tanker,Papua New Guinea,93896,239
+2025,2,Tanker,Samoa,66,4
+2025,2,Tanker,Solomon Islands,4380,43
+2025,2,Tanker,Tonga,516,9
+2025,2,Tanker,Tuvalu,320,6
+2025,2,Tanker,Vanuatu,933,14
+2025,3,Cargo,Cook Islands,7292,47
+2025,3,Cargo,Fiji,8190,54
+2025,3,Cargo,Kiribati,18829,120
+2025,3,Cargo,Marshall Islands,15332,158
+2025,3,Cargo,Micronesia,123905,836
+2025,3,Cargo,Nauru,1318,31
+2025,3,Cargo,Niue,1398,18
+2025,3,Cargo,Palau,34919,416
+2025,3,Cargo,Papua New Guinea,295254,1191
+2025,3,Cargo,Samoa,494,16
+2025,3,Cargo,Solomon Islands,18140,180
+2025,3,Cargo,Tokelau,431,6
+2025,3,Cargo,Tonga,3773,29
+2025,3,Cargo,Tuvalu,1658,23
+2025,3,Cargo,Vanuatu,4207,40
+2025,3,Fishing,Cook Islands,637,39
+2025,3,Fishing,Fiji,1399,218
+2025,3,Fishing,Kiribati,8633,290
+2025,3,Fishing,Marshall Islands,3875,202
+2025,3,Fishing,Micronesia,6032,213
+2025,3,Fishing,Nauru,818,46
+2025,3,Fishing,Niue,11,5
+2025,3,Fishing,Palau,373,34
+2025,3,Fishing,Papua New Guinea,9294,244
+2025,3,Fishing,Samoa,99,17
+2025,3,Fishing,Solomon Islands,1544,92
+2025,3,Fishing,Tokelau,281,43
+2025,3,Fishing,Tonga,151,27
+2025,3,Fishing,Tuvalu,363,17
+2025,3,Fishing,Vanuatu,964,64
+2025,3,Others,Cook Islands,8763,41
+2025,3,Others,Fiji,18122,219
+2025,3,Others,Kiribati,51777,237
+2025,3,Others,Marshall Islands,2416,54
+2025,3,Others,Micronesia,4109,68
+2025,3,Others,Nauru,352,13
+2025,3,Others,Niue,165,3
+2025,3,Others,Palau,696,30
+2025,3,Others,Papua New Guinea,12097,246
+2025,3,Others,Samoa,267,11
+2025,3,Others,Solomon Islands,7368,61
+2025,3,Others,Tokelau,286,11
+2025,3,Others,Tonga,365,21
+2025,3,Others,Tuvalu,842,10
+2025,3,Others,Vanuatu,5478,58
+2025,3,Passenger,Cook Islands,1247,6
+2025,3,Passenger,Fiji,5021,25
+2025,3,Passenger,Kiribati,1711,6
+2025,3,Passenger,Marshall Islands,1039,4
+2025,3,Passenger,Micronesia,496,8
+2025,3,Passenger,Nauru,0,1
+2025,3,Passenger,Palau,472,9
+2025,3,Passenger,Papua New Guinea,1979,36
+2025,3,Passenger,Samoa,660,8
+2025,3,Passenger,Solomon Islands,628,11
+2025,3,Passenger,Tokelau,259,2
+2025,3,Passenger,Tonga,467,6
+2025,3,Passenger,Tuvalu,31,2
+2025,3,Passenger,Vanuatu,1854,16
+2025,3,Tanker,Cook Islands,1323,11
+2025,3,Tanker,Fiji,1857,17
+2025,3,Tanker,Kiribati,3787,27
+2025,3,Tanker,Marshall Islands,2113,33
+2025,3,Tanker,Micronesia,36837,166
+2025,3,Tanker,Nauru,1241,20
+2025,3,Tanker,Niue,234,5
+2025,3,Tanker,Palau,10981,94
+2025,3,Tanker,Papua New Guinea,102463,224
+2025,3,Tanker,Samoa,257,6
+2025,3,Tanker,Solomon Islands,3975,38
+2025,3,Tanker,Tokelau,131,3
+2025,3,Tanker,Tonga,454,9
+2025,3,Tanker,Tuvalu,1279,14
+2025,3,Tanker,Vanuatu,1002,15
+2025,4,Cargo,Cook Islands,6950,45
+2025,4,Cargo,Fiji,7745,60
+2025,4,Cargo,Kiribati,17056,114
+2025,4,Cargo,Marshall Islands,10729,136
+2025,4,Cargo,Micronesia,124456,860
+2025,4,Cargo,Nauru,2355,40
+2025,4,Cargo,Niue,1213,13
+2025,4,Cargo,Palau,36814,408
+2025,4,Cargo,Papua New Guinea,305192,1230
+2025,4,Cargo,Samoa,754,20
+2025,4,Cargo,Solomon Islands,18128,168
+2025,4,Cargo,Tokelau,872,11
+2025,4,Cargo,Tonga,3965,29
+2025,4,Cargo,Tuvalu,1470,25
+2025,4,Cargo,Vanuatu,5681,44
+2025,4,Fishing,Cook Islands,774,41
+2025,4,Fishing,Fiji,1012,116
+2025,4,Fishing,Kiribati,8458,301
+2025,4,Fishing,Marshall Islands,3781,205
+2025,4,Fishing,Micronesia,5225,193
+2025,4,Fishing,Nauru,504,27
+2025,4,Fishing,Niue,17,5
+2025,4,Fishing,Palau,240,34
+2025,4,Fishing,Papua New Guinea,8387,214
+2025,4,Fishing,Samoa,59,22
+2025,4,Fishing,Solomon Islands,2029,109
+2025,4,Fishing,Tokelau,111,20
+2025,4,Fishing,Tonga,126,24
+2025,4,Fishing,Tuvalu,435,28
+2025,4,Fishing,Vanuatu,906,60
+2025,4,Others,Cook Islands,11248,61
+2025,4,Others,Fiji,20001,279
+2025,4,Others,Kiribati,49402,252
+2025,4,Others,Marshall Islands,2366,48
+2025,4,Others,Micronesia,4924,67
+2025,4,Others,Nauru,376,14
+2025,4,Others,Niue,832,15
+2025,4,Others,Palau,505,27
+2025,4,Others,Papua New Guinea,11819,249
+2025,4,Others,Samoa,396,20
+2025,4,Others,Solomon Islands,7146,63
+2025,4,Others,Tokelau,349,6
+2025,4,Others,Tonga,1311,32
+2025,4,Others,Tuvalu,1478,10
+2025,4,Others,Vanuatu,6502,67
+2025,4,Passenger,Cook Islands,1823,9
+2025,4,Passenger,Fiji,3184,22
+2025,4,Passenger,Kiribati,2020,7
+2025,4,Passenger,Marshall Islands,216,10
+2025,4,Passenger,Micronesia,1115,12
 2025,4,Passenger,Nauru,1,1
-2025,4,Passenger,Niue,2,353
-2025,4,Passenger,Palau,9,215
-2025,4,Passenger,Papua New Guinea,37,3511
-2025,4,Passenger,Samoa,10,667
-2025,4,Passenger,Solomon Islands,10,795
-2025,4,Passenger,Tokelau,3,251
-2025,4,Passenger,Tonga,5,1083
-2025,4,Passenger,Tuvalu,1,20
-2025,4,Passenger,Vanuatu,16,1774
-2025,4,Tanker,Cook Islands,8,919
-2025,4,Tanker,Fiji,14,1633
-2025,4,Tanker,Kiribati,22,3437
-2025,4,Tanker,Marshall Islands,40,3161
-2025,4,Tanker,Micronesia,178,39013
-2025,4,Tanker,Nauru,16,724
-2025,4,Tanker,Niue,5,214
-2025,4,Tanker,Palau,85,10866
-2025,4,Tanker,Papua New Guinea,233,105549
-2025,4,Tanker,Samoa,3,124
-2025,4,Tanker,Solomon Islands,30,3333
-2025,4,Tanker,Tokelau,2,147
-2025,4,Tanker,Tonga,7,424
-2025,4,Tanker,Tuvalu,9,511
-2025,4,Tanker,Vanuatu,10,882
-2025,5,Cargo,Cook Islands,45,5966
-2025,5,Cargo,Fiji,52,5819
-2025,5,Cargo,Kiribati,103,15470
-2025,5,Cargo,Marshall Islands,138,10635
-2025,5,Cargo,Micronesia,893,123451
-2025,5,Cargo,Nauru,28,1168
-2025,5,Cargo,Niue,14,914
-2025,5,Cargo,Palau,461,41932
-2025,5,Cargo,Papua New Guinea,1239,299139
-2025,5,Cargo,Samoa,20,874
-2025,5,Cargo,Solomon Islands,170,17276
-2025,5,Cargo,Tokelau,9,835
-2025,5,Cargo,Tonga,27,3737
-2025,5,Cargo,Tuvalu,18,1127
-2025,5,Cargo,Vanuatu,36,4452
-2025,5,Fishing,Cook Islands,46,1088
-2025,5,Fishing,Fiji,137,843
-2025,5,Fishing,Kiribati,274,5852
-2025,5,Fishing,Marshall Islands,196,3912
-2025,5,Fishing,Micronesia,175,4202
-2025,5,Fishing,Nauru,14,165
-2025,5,Fishing,Niue,4,7
-2025,5,Fishing,Palau,27,185
-2025,5,Fishing,Papua New Guinea,204,7572
-2025,5,Fishing,Samoa,22,68
-2025,5,Fishing,Solomon Islands,120,1628
-2025,5,Fishing,Tokelau,31,137
-2025,5,Fishing,Tonga,22,139
-2025,5,Fishing,Tuvalu,31,367
-2025,5,Fishing,Vanuatu,75,868
-2025,5,Others,Cook Islands,164,17711
-2025,5,Others,Fiji,489,37572
-2025,5,Others,Kiribati,212,26214
-2025,5,Others,Marshall Islands,40,2317
-2025,5,Others,Micronesia,63,3419
-2025,5,Others,Nauru,16,198
-2025,5,Others,Niue,72,4054
-2025,5,Others,Palau,23,490
-2025,5,Others,Papua New Guinea,255,10617
-2025,5,Others,Samoa,27,372
-2025,5,Others,Solomon Islands,70,7723
-2025,5,Others,Tokelau,8,451
-2025,5,Others,Tonga,151,8798
-2025,5,Others,Tuvalu,18,611
-2025,5,Others,Vanuatu,147,12050
-2025,5,Passenger,Cook Islands,4,584
-2025,5,Passenger,Fiji,24,4630
-2025,5,Passenger,Kiribati,4,1134
-2025,5,Passenger,Marshall Islands,8,328
-2025,5,Passenger,Micronesia,14,916
-2025,5,Passenger,Nauru,2,15
-2025,5,Passenger,Niue,2,80
-2025,5,Passenger,Palau,8,196
-2025,5,Passenger,Papua New Guinea,29,2782
-2025,5,Passenger,Samoa,8,331
-2025,5,Passenger,Solomon Islands,9,304
-2025,5,Passenger,Tokelau,1,16
-2025,5,Passenger,Tonga,5,356
-2025,5,Passenger,Tuvalu,2,69
-2025,5,Passenger,Vanuatu,16,2456
-2025,5,Tanker,Cook Islands,7,390
-2025,5,Tanker,Fiji,16,1535
-2025,5,Tanker,Kiribati,28,4844
-2025,5,Tanker,Marshall Islands,35,1945
-2025,5,Tanker,Micronesia,175,39783
-2025,5,Tanker,Nauru,16,1092
-2025,5,Tanker,Niue,2,57
-2025,5,Tanker,Palau,89,9118
-2025,5,Tanker,Papua New Guinea,226,99752
-2025,5,Tanker,Samoa,4,175
-2025,5,Tanker,Solomon Islands,32,2536
-2025,5,Tanker,Tonga,8,509
-2025,5,Tanker,Tuvalu,4,298
-2025,5,Tanker,Vanuatu,10,811
-2025,6,Cargo,Cook Islands,49,6670
-2025,6,Cargo,Fiji,51,5821
-2025,6,Cargo,Kiribati,94,16059
-2025,6,Cargo,Marshall Islands,136,9895
-2025,6,Cargo,Micronesia,867,116324
-2025,6,Cargo,Nauru,28,785
-2025,6,Cargo,Niue,12,1075
-2025,6,Cargo,Palau,463,39421
-2025,6,Cargo,Papua New Guinea,1228,299028
-2025,6,Cargo,Samoa,17,554
-2025,6,Cargo,Solomon Islands,155,15103
-2025,6,Cargo,Tokelau,12,485
-2025,6,Cargo,Tonga,30,3365
-2025,6,Cargo,Tuvalu,23,1411
-2025,6,Cargo,Vanuatu,40,4099
-2025,6,Fishing,Cook Islands,56,675
-2025,6,Fishing,Fiji,156,873
-2025,6,Fishing,Kiribati,248,6589
-2025,6,Fishing,Marshall Islands,167,2885
-2025,6,Fishing,Micronesia,159,3626
-2025,6,Fishing,Nauru,26,313
-2025,6,Fishing,Niue,6,22
-2025,6,Fishing,Palau,45,495
-2025,6,Fishing,Papua New Guinea,257,7532
-2025,6,Fishing,Samoa,44,70
-2025,6,Fishing,Solomon Islands,106,1469
-2025,6,Fishing,Tokelau,37,115
-2025,6,Fishing,Tonga,14,127
-2025,6,Fishing,Tuvalu,37,442
-2025,6,Fishing,Vanuatu,61,864
-2025,6,Others,Cook Islands,110,4885
-2025,6,Others,Fiji,678,24742
-2025,6,Others,Kiribati,120,8334
-2025,6,Others,Marshall Islands,32,973
-2025,6,Others,Micronesia,78,3970
-2025,6,Others,Nauru,16,87
-2025,6,Others,Niue,65,1512
-2025,6,Others,Palau,27,443
-2025,6,Others,Papua New Guinea,285,7008
-2025,6,Others,Samoa,43,287
-2025,6,Others,Solomon Islands,88,4814
-2025,6,Others,Tokelau,6,90
-2025,6,Others,Tonga,196,6742
-2025,6,Others,Tuvalu,27,341
-2025,6,Others,Vanuatu,193,10504
-2025,6,Passenger,Cook Islands,3,376
-2025,6,Passenger,Fiji,17,738
-2025,6,Passenger,Kiribati,1,8
-2025,6,Passenger,Marshall Islands,5,35
-2025,6,Passenger,Micronesia,6,250
-2025,6,Passenger,Nauru,1,0
-2025,6,Passenger,Niue,1,103
-2025,6,Passenger,Palau,6,51
-2025,6,Passenger,Papua New Guinea,30,3460
-2025,6,Passenger,Samoa,6,216
-2025,6,Passenger,Solomon Islands,6,104
-2025,6,Passenger,Tokelau,1,16
-2025,6,Passenger,Tonga,4,239
+2025,4,Passenger,Niue,353,2
+2025,4,Passenger,Palau,215,9
+2025,4,Passenger,Papua New Guinea,3511,37
+2025,4,Passenger,Samoa,667,10
+2025,4,Passenger,Solomon Islands,795,10
+2025,4,Passenger,Tokelau,251,3
+2025,4,Passenger,Tonga,1083,5
+2025,4,Passenger,Tuvalu,20,1
+2025,4,Passenger,Vanuatu,1774,16
+2025,4,Tanker,Cook Islands,919,8
+2025,4,Tanker,Fiji,1633,14
+2025,4,Tanker,Kiribati,3437,22
+2025,4,Tanker,Marshall Islands,3161,40
+2025,4,Tanker,Micronesia,39013,178
+2025,4,Tanker,Nauru,724,16
+2025,4,Tanker,Niue,214,5
+2025,4,Tanker,Palau,10866,85
+2025,4,Tanker,Papua New Guinea,105549,233
+2025,4,Tanker,Samoa,124,3
+2025,4,Tanker,Solomon Islands,3333,30
+2025,4,Tanker,Tokelau,147,2
+2025,4,Tanker,Tonga,424,7
+2025,4,Tanker,Tuvalu,511,9
+2025,4,Tanker,Vanuatu,882,10
+2025,5,Cargo,Cook Islands,5966,45
+2025,5,Cargo,Fiji,5819,52
+2025,5,Cargo,Kiribati,15470,103
+2025,5,Cargo,Marshall Islands,10635,138
+2025,5,Cargo,Micronesia,123451,893
+2025,5,Cargo,Nauru,1168,28
+2025,5,Cargo,Niue,914,14
+2025,5,Cargo,Palau,41932,461
+2025,5,Cargo,Papua New Guinea,299139,1239
+2025,5,Cargo,Samoa,874,20
+2025,5,Cargo,Solomon Islands,17276,170
+2025,5,Cargo,Tokelau,835,9
+2025,5,Cargo,Tonga,3737,27
+2025,5,Cargo,Tuvalu,1127,18
+2025,5,Cargo,Vanuatu,4452,36
+2025,5,Fishing,Cook Islands,1088,46
+2025,5,Fishing,Fiji,843,137
+2025,5,Fishing,Kiribati,5852,274
+2025,5,Fishing,Marshall Islands,3912,196
+2025,5,Fishing,Micronesia,4202,175
+2025,5,Fishing,Nauru,165,14
+2025,5,Fishing,Niue,7,4
+2025,5,Fishing,Palau,185,27
+2025,5,Fishing,Papua New Guinea,7572,204
+2025,5,Fishing,Samoa,68,22
+2025,5,Fishing,Solomon Islands,1628,120
+2025,5,Fishing,Tokelau,137,31
+2025,5,Fishing,Tonga,139,22
+2025,5,Fishing,Tuvalu,367,31
+2025,5,Fishing,Vanuatu,868,75
+2025,5,Others,Cook Islands,17711,164
+2025,5,Others,Fiji,37572,489
+2025,5,Others,Kiribati,26214,212
+2025,5,Others,Marshall Islands,2317,40
+2025,5,Others,Micronesia,3419,63
+2025,5,Others,Nauru,198,16
+2025,5,Others,Niue,4054,72
+2025,5,Others,Palau,490,23
+2025,5,Others,Papua New Guinea,10617,255
+2025,5,Others,Samoa,372,27
+2025,5,Others,Solomon Islands,7723,70
+2025,5,Others,Tokelau,451,8
+2025,5,Others,Tonga,8798,151
+2025,5,Others,Tuvalu,611,18
+2025,5,Others,Vanuatu,12050,147
+2025,5,Passenger,Cook Islands,584,4
+2025,5,Passenger,Fiji,4630,24
+2025,5,Passenger,Kiribati,1134,4
+2025,5,Passenger,Marshall Islands,328,8
+2025,5,Passenger,Micronesia,916,14
+2025,5,Passenger,Nauru,15,2
+2025,5,Passenger,Niue,80,2
+2025,5,Passenger,Palau,196,8
+2025,5,Passenger,Papua New Guinea,2782,29
+2025,5,Passenger,Samoa,331,8
+2025,5,Passenger,Solomon Islands,304,9
+2025,5,Passenger,Tokelau,16,1
+2025,5,Passenger,Tonga,356,5
+2025,5,Passenger,Tuvalu,69,2
+2025,5,Passenger,Vanuatu,2456,16
+2025,5,Tanker,Cook Islands,390,7
+2025,5,Tanker,Fiji,1535,16
+2025,5,Tanker,Kiribati,4844,28
+2025,5,Tanker,Marshall Islands,1945,35
+2025,5,Tanker,Micronesia,39783,175
+2025,5,Tanker,Nauru,1092,16
+2025,5,Tanker,Niue,57,2
+2025,5,Tanker,Palau,9118,89
+2025,5,Tanker,Papua New Guinea,99752,226
+2025,5,Tanker,Samoa,175,4
+2025,5,Tanker,Solomon Islands,2536,32
+2025,5,Tanker,Tonga,509,8
+2025,5,Tanker,Tuvalu,298,4
+2025,5,Tanker,Vanuatu,811,10
+2025,6,Cargo,Cook Islands,6670,49
+2025,6,Cargo,Fiji,5821,51
+2025,6,Cargo,Kiribati,16059,94
+2025,6,Cargo,Marshall Islands,9895,136
+2025,6,Cargo,Micronesia,116324,867
+2025,6,Cargo,Nauru,785,28
+2025,6,Cargo,Niue,1075,12
+2025,6,Cargo,Palau,39421,463
+2025,6,Cargo,Papua New Guinea,299028,1228
+2025,6,Cargo,Samoa,554,17
+2025,6,Cargo,Solomon Islands,15103,155
+2025,6,Cargo,Tokelau,485,12
+2025,6,Cargo,Tonga,3365,30
+2025,6,Cargo,Tuvalu,1411,23
+2025,6,Cargo,Vanuatu,4099,40
+2025,6,Fishing,Cook Islands,675,56
+2025,6,Fishing,Fiji,873,156
+2025,6,Fishing,Kiribati,6589,248
+2025,6,Fishing,Marshall Islands,2885,167
+2025,6,Fishing,Micronesia,3626,159
+2025,6,Fishing,Nauru,313,26
+2025,6,Fishing,Niue,22,6
+2025,6,Fishing,Palau,495,45
+2025,6,Fishing,Papua New Guinea,7532,257
+2025,6,Fishing,Samoa,70,44
+2025,6,Fishing,Solomon Islands,1469,106
+2025,6,Fishing,Tokelau,115,37
+2025,6,Fishing,Tonga,127,14
+2025,6,Fishing,Tuvalu,442,37
+2025,6,Fishing,Vanuatu,864,61
+2025,6,Others,Cook Islands,4885,110
+2025,6,Others,Fiji,24742,678
+2025,6,Others,Kiribati,8334,120
+2025,6,Others,Marshall Islands,973,32
+2025,6,Others,Micronesia,3970,78
+2025,6,Others,Nauru,87,16
+2025,6,Others,Niue,1512,65
+2025,6,Others,Palau,443,27
+2025,6,Others,Papua New Guinea,7008,285
+2025,6,Others,Samoa,287,43
+2025,6,Others,Solomon Islands,4814,88
+2025,6,Others,Tokelau,90,6
+2025,6,Others,Tonga,6742,196
+2025,6,Others,Tuvalu,341,27
+2025,6,Others,Vanuatu,10504,193
+2025,6,Passenger,Cook Islands,376,3
+2025,6,Passenger,Fiji,738,17
+2025,6,Passenger,Kiribati,8,1
+2025,6,Passenger,Marshall Islands,35,5
+2025,6,Passenger,Micronesia,250,6
+2025,6,Passenger,Nauru,0,1
+2025,6,Passenger,Niue,103,1
+2025,6,Passenger,Palau,51,6
+2025,6,Passenger,Papua New Guinea,3460,30
+2025,6,Passenger,Samoa,216,6
+2025,6,Passenger,Solomon Islands,104,6
+2025,6,Passenger,Tokelau,16,1
+2025,6,Passenger,Tonga,239,4
 2025,6,Passenger,Tuvalu,1,1
-2025,6,Passenger,Vanuatu,13,1017
-2025,6,Tanker,Cook Islands,8,1045
-2025,6,Tanker,Fiji,15,1411
-2025,6,Tanker,Kiribati,20,2310
-2025,6,Tanker,Marshall Islands,35,2006
-2025,6,Tanker,Micronesia,164,31014
-2025,6,Tanker,Nauru,20,1114
-2025,6,Tanker,Niue,6,299
-2025,6,Tanker,Palau,78,8750
-2025,6,Tanker,Papua New Guinea,231,86984
-2025,6,Tanker,Samoa,3,96
-2025,6,Tanker,Solomon Islands,36,3288
-2025,6,Tanker,Tokelau,1,30
-2025,6,Tanker,Tonga,9,432
-2025,6,Tanker,Tuvalu,4,220
-2025,6,Tanker,Vanuatu,9,511
-2025,7,Cargo,Cook Islands,62,8758
-2025,7,Cargo,Fiji,59,7298
-2025,7,Cargo,Kiribati,125,20908
-2025,7,Cargo,Marshall Islands,122,10651
-2025,7,Cargo,Micronesia,1013,142500
-2025,7,Cargo,Nauru,28,1359
-2025,7,Cargo,Niue,22,1379
-2025,7,Cargo,Palau,483,40154
-2025,7,Cargo,Papua New Guinea,1315,327870
-2025,7,Cargo,Samoa,20,726
-2025,7,Cargo,Solomon Islands,174,16866
-2025,7,Cargo,Tokelau,15,937
-2025,7,Cargo,Tonga,31,3641
-2025,7,Cargo,Tuvalu,38,2341
-2025,7,Cargo,Vanuatu,45,4852
-2025,7,Fishing,Cook Islands,58,1009
-2025,7,Fishing,Fiji,177,1033
-2025,7,Fishing,Kiribati,233,5779
-2025,7,Fishing,Marshall Islands,146,2705
-2025,7,Fishing,Micronesia,175,4535
-2025,7,Fishing,Nauru,32,411
-2025,7,Fishing,Niue,11,40
-2025,7,Fishing,Palau,48,365
-2025,7,Fishing,Papua New Guinea,271,8403
-2025,7,Fishing,Samoa,39,75
-2025,7,Fishing,Solomon Islands,120,1982
-2025,7,Fishing,Tokelau,25,133
-2025,7,Fishing,Tonga,38,170
-2025,7,Fishing,Tuvalu,65,916
-2025,7,Fishing,Vanuatu,68,764
-2025,7,Others,Cook Islands,122,5750
-2025,7,Others,Fiji,756,30518
-2025,7,Others,Kiribati,133,9560
-2025,7,Others,Marshall Islands,38,1271
-2025,7,Others,Micronesia,58,2382
-2025,7,Others,Nauru,13,196
-2025,7,Others,Niue,63,1615
-2025,7,Others,Palau,36,487
-2025,7,Others,Papua New Guinea,344,7571
-2025,7,Others,Samoa,47,376
-2025,7,Others,Solomon Islands,93,4923
-2025,7,Others,Tokelau,7,86
-2025,7,Others,Tonga,178,5025
-2025,7,Others,Tuvalu,115,3375
-2025,7,Others,Vanuatu,223,8898
-2025,7,Passenger,Cook Islands,4,454
-2025,7,Passenger,Fiji,18,1644
-2025,7,Passenger,Kiribati,5,461
-2025,7,Passenger,Marshall Islands,9,225
-2025,7,Passenger,Micronesia,9,195
-2025,7,Passenger,Niue,1,13
-2025,7,Passenger,Palau,7,114
-2025,7,Passenger,Papua New Guinea,36,1827
-2025,7,Passenger,Samoa,6,242
-2025,7,Passenger,Solomon Islands,7,87
-2025,7,Passenger,Tokelau,1,15
-2025,7,Passenger,Tonga,3,132
-2025,7,Passenger,Tuvalu,2,0
-2025,7,Passenger,Vanuatu,10,1026
-2025,7,Tanker,Cook Islands,11,1484
-2025,7,Tanker,Fiji,16,2151
-2025,7,Tanker,Kiribati,23,2966
-2025,7,Tanker,Marshall Islands,39,2187
-2025,7,Tanker,Micronesia,170,40837
-2025,7,Tanker,Nauru,20,1199
-2025,7,Tanker,Niue,7,524
-2025,7,Tanker,Palau,80,10260
-2025,7,Tanker,Papua New Guinea,234,98710
-2025,7,Tanker,Samoa,3,103
-2025,7,Tanker,Solomon Islands,37,3381
-2025,7,Tanker,Tonga,11,999
-2025,7,Tanker,Tuvalu,6,211
-2025,7,Tanker,Vanuatu,8,864
-2025,8,Cargo,Cook Islands,57,8686
-2025,8,Cargo,Fiji,56,8095
-2025,8,Cargo,Kiribati,107,16225
-2025,8,Cargo,Marshall Islands,145,11853
-2025,8,Cargo,Micronesia,979,133078
-2025,8,Cargo,Nauru,38,1723
-2025,8,Cargo,Niue,23,1654
-2025,8,Cargo,Palau,428,36367
-2025,8,Cargo,Papua New Guinea,1293,313406
-2025,8,Cargo,Samoa,17,513
-2025,8,Cargo,Solomon Islands,160,15966
-2025,8,Cargo,Tokelau,13,657
-2025,8,Cargo,Tonga,37,3880
-2025,8,Cargo,Tuvalu,24,1716
-2025,8,Cargo,Vanuatu,46,4340
-2025,8,Fishing,Cook Islands,46,925
-2025,8,Fishing,Fiji,131,770
-2025,8,Fishing,Kiribati,211,7176
-2025,8,Fishing,Marshall Islands,144,2689
-2025,8,Fishing,Micronesia,200,5219
-2025,8,Fishing,Nauru,20,288
-2025,8,Fishing,Niue,17,70
-2025,8,Fishing,Palau,62,429
-2025,8,Fishing,Papua New Guinea,257,8442
-2025,8,Fishing,Samoa,41,38
-2025,8,Fishing,Solomon Islands,109,1713
-2025,8,Fishing,Tokelau,11,75
-2025,8,Fishing,Tonga,26,162
-2025,8,Fishing,Tuvalu,49,805
-2025,8,Fishing,Vanuatu,57,963
-2025,8,Others,Cook Islands,143,7041
-2025,8,Others,Fiji,764,31992
-2025,8,Others,Kiribati,95,7232
-2025,8,Others,Marshall Islands,41,1732
-2025,8,Others,Micronesia,71,5338
-2025,8,Others,Nauru,21,304
-2025,8,Others,Niue,74,2047
-2025,8,Others,Palau,28,700
-2025,8,Others,Papua New Guinea,389,8567
-2025,8,Others,Samoa,80,985
-2025,8,Others,Solomon Islands,110,5719
-2025,8,Others,Tokelau,6,117
-2025,8,Others,Tonga,220,5104
-2025,8,Others,Tuvalu,78,3093
-2025,8,Others,Vanuatu,233,11778
-2025,8,Passenger,Cook Islands,3,48
-2025,8,Passenger,Fiji,14,1746
-2025,8,Passenger,Kiribati,5,31
-2025,8,Passenger,Marshall Islands,9,340
-2025,8,Passenger,Micronesia,5,196
-2025,8,Passenger,Nauru,1,0
-2025,8,Passenger,Palau,5,35
-2025,8,Passenger,Papua New Guinea,34,1268
-2025,8,Passenger,Samoa,6,294
-2025,8,Passenger,Solomon Islands,7,115
-2025,8,Passenger,Tokelau,2,25
-2025,8,Passenger,Tonga,3,152
-2025,8,Passenger,Tuvalu,1,0
-2025,8,Passenger,Vanuatu,11,3088
-2025,8,Tanker,Cook Islands,4,384
-2025,8,Tanker,Fiji,14,1437
-2025,8,Tanker,Kiribati,22,2790
-2025,8,Tanker,Marshall Islands,40,1881
-2025,8,Tanker,Micronesia,213,44814
-2025,8,Tanker,Nauru,16,1001
-2025,8,Tanker,Niue,2,137
-2025,8,Tanker,Palau,100,8918
-2025,8,Tanker,Papua New Guinea,243,101698
-2025,8,Tanker,Samoa,3,41
-2025,8,Tanker,Solomon Islands,39,3259
-2025,8,Tanker,Tokelau,1,68
-2025,8,Tanker,Tonga,6,442
-2025,8,Tanker,Tuvalu,6,367
-2025,8,Tanker,Vanuatu,12,803
-2025,9,Cargo,Cook Islands,45,5573
-2025,9,Cargo,Fiji,53,7115
-2025,9,Cargo,Kiribati,125,15203
-2025,9,Cargo,Marshall Islands,144,12615
-2025,9,Cargo,Micronesia,981,132961
-2025,9,Cargo,Nauru,35,1226
-2025,9,Cargo,Niue,16,1353
-2025,9,Cargo,Palau,468,37793
-2025,9,Cargo,Papua New Guinea,1321,310984
-2025,9,Cargo,Samoa,16,607
-2025,9,Cargo,Solomon Islands,171,16804
-2025,9,Cargo,Tokelau,8,230
-2025,9,Cargo,Tonga,25,2959
-2025,9,Cargo,Tuvalu,21,916
-2025,9,Cargo,Vanuatu,42,4568
-2025,9,Fishing,Cook Islands,72,1007
-2025,9,Fishing,Fiji,162,754
-2025,9,Fishing,Kiribati,245,6408
-2025,9,Fishing,Marshall Islands,182,2869
-2025,9,Fishing,Micronesia,206,5343
-2025,9,Fishing,Nauru,27,617
-2025,9,Fishing,Niue,15,65
-2025,9,Fishing,Palau,62,549
-2025,9,Fishing,Papua New Guinea,242,9054
-2025,9,Fishing,Samoa,32,90
-2025,9,Fishing,Solomon Islands,104,1665
-2025,9,Fishing,Tokelau,28,110
-2025,9,Fishing,Tonga,23,122
-2025,9,Fishing,Tuvalu,54,1031
-2025,9,Fishing,Vanuatu,56,703
-2025,9,Others,Cook Islands,98,5007
-2025,9,Others,Fiji,743,30065
-2025,9,Others,Kiribati,112,8692
-2025,9,Others,Marshall Islands,42,1847
-2025,9,Others,Micronesia,67,2836
-2025,9,Others,Nauru,11,160
-2025,9,Others,Niue,65,1726
-2025,9,Others,Palau,27,529
-2025,9,Others,Papua New Guinea,410,9837
-2025,9,Others,Samoa,52,725
-2025,9,Others,Solomon Islands,95,5368
-2025,9,Others,Tokelau,3,69
-2025,9,Others,Tonga,209,5358
-2025,9,Others,Tuvalu,66,2504
-2025,9,Others,Vanuatu,238,10068
-2025,9,Passenger,Cook Islands,3,908
-2025,9,Passenger,Fiji,19,1869
-2025,9,Passenger,Kiribati,5,1063
-2025,9,Passenger,Marshall Islands,7,83
-2025,9,Passenger,Micronesia,5,345
-2025,9,Passenger,Nauru,1,0
-2025,9,Passenger,Palau,8,117
-2025,9,Passenger,Papua New Guinea,36,1518
-2025,9,Passenger,Samoa,6,258
-2025,9,Passenger,Solomon Islands,7,398
-2025,9,Passenger,Tokelau,2,25
-2025,9,Passenger,Tonga,5,212
-2025,9,Passenger,Tuvalu,1,0
-2025,9,Passenger,Vanuatu,13,1039
-2025,9,Tanker,Cook Islands,13,1415
-2025,9,Tanker,Fiji,14,1668
-2025,9,Tanker,Kiribati,24,3328
-2025,9,Tanker,Marshall Islands,30,1665
-2025,9,Tanker,Micronesia,196,43206
-2025,9,Tanker,Nauru,16,732
-2025,9,Tanker,Niue,5,345
-2025,9,Tanker,Palau,90,7941
-2025,9,Tanker,Papua New Guinea,233,99727
-2025,9,Tanker,Samoa,5,130
-2025,9,Tanker,Solomon Islands,30,2421
-2025,9,Tanker,Tokelau,3,77
-2025,9,Tanker,Tonga,11,835
-2025,9,Tanker,Tuvalu,10,421
-2025,9,Tanker,Vanuatu,8,693
-2025,10,Cargo,Cook Islands,51,7297
-2025,10,Cargo,Fiji,54,7738
-2025,10,Cargo,Kiribati,131,20915
-2025,10,Cargo,Marshall Islands,159,12064
-2025,10,Cargo,Micronesia,996,137732
-2025,10,Cargo,Nauru,41,1443
-2025,10,Cargo,Niue,18,946
-2025,10,Cargo,Palau,483,40823
-2025,10,Cargo,Papua New Guinea,1343,330799
-2025,10,Cargo,Samoa,19,607
-2025,10,Cargo,Solomon Islands,173,16702
-2025,10,Cargo,Tokelau,9,823
-2025,10,Cargo,Tonga,26,2927
-2025,10,Cargo,Tuvalu,24,1740
-2025,10,Cargo,Vanuatu,43,4349
-2025,10,Fishing,Cook Islands,66,751
-2025,10,Fishing,Fiji,181,966
-2025,10,Fishing,Kiribati,285,7583
-2025,10,Fishing,Marshall Islands,174,2812
-2025,10,Fishing,Micronesia,205,6238
-2025,10,Fishing,Nauru,38,647
-2025,10,Fishing,Niue,1,2
-2025,10,Fishing,Palau,62,564
-2025,10,Fishing,Papua New Guinea,248,11069
-2025,10,Fishing,Samoa,31,47
-2025,10,Fishing,Solomon Islands,128,1920
-2025,10,Fishing,Tokelau,13,65
-2025,10,Fishing,Tonga,25,57
-2025,10,Fishing,Tuvalu,56,776
-2025,10,Fishing,Vanuatu,66,720
-2025,10,Others,Cook Islands,56,2764
-2025,10,Others,Fiji,844,32966
-2025,10,Others,Kiribati,115,9017
-2025,10,Others,Marshall Islands,51,2755
-2025,10,Others,Micronesia,80,4904
-2025,10,Others,Nauru,20,262
-2025,10,Others,Niue,34,969
-2025,10,Others,Palau,41,966
-2025,10,Others,Papua New Guinea,445,9932
-2025,10,Others,Samoa,25,271
-2025,10,Others,Solomon Islands,109,4974
-2025,10,Others,Tokelau,6,75
-2025,10,Others,Tonga,178,5632
-2025,10,Others,Tuvalu,75,2237
-2025,10,Others,Vanuatu,243,10915
-2025,10,Passenger,Cook Islands,9,2676
-2025,10,Passenger,Fiji,27,3811
-2025,10,Passenger,Kiribati,10,2548
-2025,10,Passenger,Marshall Islands,7,135
-2025,10,Passenger,Micronesia,8,394
-2025,10,Passenger,Niue,3,670
-2025,10,Passenger,Palau,12,425
-2025,10,Passenger,Papua New Guinea,41,2248
-2025,10,Passenger,Samoa,10,935
-2025,10,Passenger,Solomon Islands,8,282
-2025,10,Passenger,Tokelau,5,595
-2025,10,Passenger,Tonga,10,2030
-2025,10,Passenger,Vanuatu,14,1897
-2025,10,Tanker,Cook Islands,11,1233
-2025,10,Tanker,Fiji,16,1970
-2025,10,Tanker,Kiribati,16,2437
-2025,10,Tanker,Marshall Islands,39,2729
-2025,10,Tanker,Micronesia,216,48259
-2025,10,Tanker,Nauru,16,732
-2025,10,Tanker,Niue,6,442
-2025,10,Tanker,Palau,88,7928
-2025,10,Tanker,Papua New Guinea,250,102170
-2025,10,Tanker,Samoa,3,224
-2025,10,Tanker,Solomon Islands,40,3359
-2025,10,Tanker,Tokelau,2,56
-2025,10,Tanker,Tonga,11,637
-2025,10,Tanker,Tuvalu,5,412
-2025,10,Tanker,Vanuatu,12,1197
-2025,11,Cargo,Cook Islands,49,7405
-2025,11,Cargo,Fiji,62,8722
-2025,11,Cargo,Kiribati,136,23483
-2025,11,Cargo,Marshall Islands,186,15554
-2025,11,Cargo,Micronesia,989,130974
-2025,11,Cargo,Nauru,31,1313
-2025,11,Cargo,Niue,17,1387
-2025,11,Cargo,Palau,495,38886
-2025,11,Cargo,Papua New Guinea,1312,321319
-2025,11,Cargo,Samoa,21,757
-2025,11,Cargo,Solomon Islands,184,18218
-2025,11,Cargo,Tokelau,8,425
-2025,11,Cargo,Tonga,28,3426
-2025,11,Cargo,Tuvalu,26,2431
-2025,11,Cargo,Vanuatu,47,4687
-2025,11,Fishing,Cook Islands,51,952
-2025,11,Fishing,Fiji,121,702
-2025,11,Fishing,Kiribati,260,8281
-2025,11,Fishing,Marshall Islands,133,2531
-2025,11,Fishing,Micronesia,202,8279
-2025,11,Fishing,Nauru,34,607
-2025,11,Fishing,Niue,3,9
-2025,11,Fishing,Palau,58,501
-2025,11,Fishing,Papua New Guinea,236,9300
-2025,11,Fishing,Samoa,29,98
-2025,11,Fishing,Solomon Islands,134,2715
-2025,11,Fishing,Tokelau,12,43
-2025,11,Fishing,Tonga,16,115
-2025,11,Fishing,Tuvalu,54,808
-2025,11,Fishing,Vanuatu,90,1260
-2025,11,Others,Cook Islands,29,1735
-2025,11,Others,Fiji,490,21290
-2025,11,Others,Kiribati,125,9098
-2025,11,Others,Marshall Islands,35,1571
-2025,11,Others,Micronesia,93,4003
-2025,11,Others,Nauru,23,411
-2025,11,Others,Niue,12,382
-2025,11,Others,Palau,39,586
-2025,11,Others,Papua New Guinea,419,10246
-2025,11,Others,Samoa,24,97
-2025,11,Others,Solomon Islands,78,4519
-2025,11,Others,Tokelau,1,32
-2025,11,Others,Tonga,64,1666
-2025,11,Others,Tuvalu,68,2387
-2025,11,Others,Vanuatu,155,7385
-2025,11,Passenger,Cook Islands,7,1279
-2025,11,Passenger,Fiji,24,2610
-2025,11,Passenger,Kiribati,7,867
-2025,11,Passenger,Marshall Islands,5,133
-2025,11,Passenger,Micronesia,8,169
-2025,11,Passenger,Niue,2,217
-2025,11,Passenger,Palau,4,31
-2025,11,Passenger,Papua New Guinea,47,4459
-2025,11,Passenger,Samoa,5,196
-2025,11,Passenger,Solomon Islands,9,739
-2025,11,Passenger,Tokelau,1,15
-2025,11,Passenger,Tonga,5,545
-2025,11,Passenger,Tuvalu,1,0
-2025,11,Passenger,Vanuatu,13,1563
-2025,11,Tanker,Cook Islands,8,938
-2025,11,Tanker,Fiji,18,1485
-2025,11,Tanker,Kiribati,22,2059
-2025,11,Tanker,Marshall Islands,34,1328
-2025,11,Tanker,Micronesia,205,42609
-2025,11,Tanker,Nauru,10,754
-2025,11,Tanker,Niue,4,246
-2025,11,Tanker,Palau,102,10921
-2025,11,Tanker,Papua New Guinea,249,107720
-2025,11,Tanker,Samoa,3,138
-2025,11,Tanker,Solomon Islands,35,3721
-2025,11,Tanker,Tonga,10,583
-2025,11,Tanker,Tuvalu,5,404
-2025,11,Tanker,Vanuatu,7,563
-2025,12,Cargo,Cook Islands,54,8431
-2025,12,Cargo,Fiji,59,8458
-2025,12,Cargo,Kiribati,163,29805
-2025,12,Cargo,Marshall Islands,208,17767
-2025,12,Cargo,Micronesia,1007,145426
-2025,12,Cargo,Nauru,43,2145
-2025,12,Cargo,Niue,19,1632
-2025,12,Cargo,Palau,452,36013
-2025,12,Cargo,Papua New Guinea,1320,330219
-2025,12,Cargo,Samoa,20,815
-2025,12,Cargo,Solomon Islands,190,18124
-2025,12,Cargo,Tokelau,13,953
-2025,12,Cargo,Tonga,34,4783
-2025,12,Cargo,Tuvalu,29,3291
-2025,12,Cargo,Vanuatu,39,4804
-2025,12,Fishing,Cook Islands,53,964
-2025,12,Fishing,Fiji,159,994
-2025,12,Fishing,Kiribati,271,7903
-2025,12,Fishing,Marshall Islands,159,2783
-2025,12,Fishing,Micronesia,242,8469
-2025,12,Fishing,Nauru,54,1368
-2025,12,Fishing,Niue,6,10
-2025,12,Fishing,Palau,64,274
-2025,12,Fishing,Papua New Guinea,206,7987
-2025,12,Fishing,Samoa,22,52
-2025,12,Fishing,Solomon Islands,146,3123
-2025,12,Fishing,Tokelau,17,88
-2025,12,Fishing,Tonga,27,159
-2025,12,Fishing,Tuvalu,47,507
-2025,12,Fishing,Vanuatu,89,1021
-2025,12,Others,Cook Islands,85,3886
-2025,12,Others,Fiji,522,24560
-2025,12,Others,Kiribati,347,17894
-2025,12,Others,Marshall Islands,112,1849
-2025,12,Others,Micronesia,348,5652
-2025,12,Others,Nauru,48,179
-2025,12,Others,Niue,12,303
-2025,12,Others,Palau,157,1426
-2025,12,Others,Papua New Guinea,1068,15432
-2025,12,Others,Samoa,24,120
-2025,12,Others,Solomon Islands,188,5449
-2025,12,Others,Tokelau,13,985
-2025,12,Others,Tonga,38,623
-2025,12,Others,Tuvalu,101,3217
-2025,12,Others,Vanuatu,173,6504
-2025,12,Passenger,Cook Islands,4,753
-2025,12,Passenger,Fiji,25,2183
-2025,12,Passenger,Kiribati,6,401
-2025,12,Passenger,Marshall Islands,6,141
-2025,12,Passenger,Micronesia,17,484
-2025,12,Passenger,Palau,10,167
-2025,12,Passenger,Papua New Guinea,48,2144
-2025,12,Passenger,Samoa,8,439
-2025,12,Passenger,Solomon Islands,11,214
-2025,12,Passenger,Tokelau,2,30
-2025,12,Passenger,Tonga,7,579
-2025,12,Passenger,Tuvalu,1,2
-2025,12,Passenger,Vanuatu,18,2657
-2025,12,Tanker,Cook Islands,11,1587
-2025,12,Tanker,Fiji,17,2285
-2025,12,Tanker,Kiribati,22,2132
-2025,12,Tanker,Marshall Islands,49,2890
-2025,12,Tanker,Micronesia,207,45719
-2025,12,Tanker,Nauru,12,750
-2025,12,Tanker,Niue,6,392
-2025,12,Tanker,Palau,102,9202
-2025,12,Tanker,Papua New Guinea,270,106065
-2025,12,Tanker,Samoa,5,173
-2025,12,Tanker,Solomon Islands,43,4676
-2025,12,Tanker,Tokelau,2,35
-2025,12,Tanker,Tonga,11,890
-2025,12,Tanker,Tuvalu,9,776
-2025,12,Tanker,Vanuatu,12,1067
-2026,1,Cargo,Cook Islands,55,21691
-2026,1,Cargo,Fiji,59,17520
-2026,1,Cargo,Kiribati,162,62970
-2026,1,Cargo,Marshall Islands,245,47851
-2026,1,Cargo,Micronesia,977,255187
-2026,1,Cargo,Nauru,43,3202
-2026,1,Cargo,Niue,15,2538
-2026,1,Cargo,Palau,469,68283
-2026,1,Cargo,Papua New Guinea,1238,573029
-2026,1,Cargo,Samoa,16,1198
-2026,1,Cargo,Solomon Islands,165,31763
-2026,1,Cargo,Tokelau,16,2344
-2026,1,Cargo,Tonga,25,7153
-2026,1,Cargo,Tuvalu,28,6233
-2026,1,Cargo,Vanuatu,48,7920
-2026,1,Fishing,Cook Islands,38,1328
-2026,1,Fishing,Fiji,128,1331
-2026,1,Fishing,Kiribati,296,17853
-2026,1,Fishing,Marshall Islands,169,5430
-2026,1,Fishing,Micronesia,224,12592
-2026,1,Fishing,Nauru,64,3571
-2026,1,Fishing,Niue,5,10
-2026,1,Fishing,Palau,81,561
-2026,1,Fishing,Papua New Guinea,209,15079
-2026,1,Fishing,Samoa,14,103
-2026,1,Fishing,Solomon Islands,122,3241
-2026,1,Fishing,Tokelau,14,125
-2026,1,Fishing,Tonga,19,240
-2026,1,Fishing,Tuvalu,50,1294
-2026,1,Fishing,Vanuatu,58,1577
-2026,1,Others,Cook Islands,35,1686
-2026,1,Others,Fiji,338,21647
-2026,1,Others,Kiribati,244,20143
-2026,1,Others,Marshall Islands,43,3444
-2026,1,Others,Micronesia,111,6585
-2026,1,Others,Nauru,16,165
-2026,1,Others,Niue,2,70
-2026,1,Others,Palau,54,952
-2026,1,Others,Papua New Guinea,427,13361
-2026,1,Others,Samoa,11,76
-2026,1,Others,Solomon Islands,67,2864
-2026,1,Others,Tokelau,11,870
-2026,1,Others,Tonga,8,158
-2026,1,Others,Tuvalu,15,326
-2026,1,Others,Vanuatu,46,1506
-2026,1,Passenger,Cook Islands,10,3784
-2026,1,Passenger,Fiji,28,11400
-2026,1,Passenger,Kiribati,6,2454
-2026,1,Passenger,Marshall Islands,8,203
-2026,1,Passenger,Micronesia,16,446
-2026,1,Passenger,Nauru,2,0
-2026,1,Passenger,Niue,4,914
-2026,1,Passenger,Palau,10,88
-2026,1,Passenger,Papua New Guinea,42,5509
-2026,1,Passenger,Samoa,8,1254
-2026,1,Passenger,Solomon Islands,6,2355
-2026,1,Passenger,Tokelau,1,42
-2026,1,Passenger,Tonga,10,4007
-2026,1,Passenger,Tuvalu,1,0
-2026,1,Passenger,Vanuatu,19,12993
-2026,1,Tanker,Cook Islands,11,1985
-2026,1,Tanker,Fiji,15,3906
-2026,1,Tanker,Kiribati,22,6423
-2026,1,Tanker,Marshall Islands,57,4586
-2026,1,Tanker,Micronesia,208,81614
-2026,1,Tanker,Nauru,16,2210
-2026,1,Tanker,Niue,2,234
-2026,1,Tanker,Palau,96,14272
-2026,1,Tanker,Papua New Guinea,252,197652
-2026,1,Tanker,Samoa,4,354
-2026,1,Tanker,Solomon Islands,40,6478
-2026,1,Tanker,Tokelau,2,263
-2026,1,Tanker,Tonga,8,868
-2026,1,Tanker,Tuvalu,6,1034
-2026,1,Tanker,Vanuatu,14,2096
+2025,6,Passenger,Vanuatu,1017,13
+2025,6,Tanker,Cook Islands,1045,8
+2025,6,Tanker,Fiji,1411,15
+2025,6,Tanker,Kiribati,2310,20
+2025,6,Tanker,Marshall Islands,2006,35
+2025,6,Tanker,Micronesia,31014,164
+2025,6,Tanker,Nauru,1114,20
+2025,6,Tanker,Niue,299,6
+2025,6,Tanker,Palau,8750,78
+2025,6,Tanker,Papua New Guinea,86984,231
+2025,6,Tanker,Samoa,96,3
+2025,6,Tanker,Solomon Islands,3288,36
+2025,6,Tanker,Tokelau,30,1
+2025,6,Tanker,Tonga,432,9
+2025,6,Tanker,Tuvalu,220,4
+2025,6,Tanker,Vanuatu,511,9
+2025,7,Cargo,Cook Islands,8758,62
+2025,7,Cargo,Fiji,7298,59
+2025,7,Cargo,Kiribati,20908,125
+2025,7,Cargo,Marshall Islands,10651,122
+2025,7,Cargo,Micronesia,142500,1013
+2025,7,Cargo,Nauru,1359,28
+2025,7,Cargo,Niue,1379,22
+2025,7,Cargo,Palau,40154,483
+2025,7,Cargo,Papua New Guinea,327870,1315
+2025,7,Cargo,Samoa,726,20
+2025,7,Cargo,Solomon Islands,16866,174
+2025,7,Cargo,Tokelau,937,15
+2025,7,Cargo,Tonga,3641,31
+2025,7,Cargo,Tuvalu,2341,38
+2025,7,Cargo,Vanuatu,4852,45
+2025,7,Fishing,Cook Islands,1009,58
+2025,7,Fishing,Fiji,1033,177
+2025,7,Fishing,Kiribati,5779,233
+2025,7,Fishing,Marshall Islands,2705,146
+2025,7,Fishing,Micronesia,4535,175
+2025,7,Fishing,Nauru,411,32
+2025,7,Fishing,Niue,40,11
+2025,7,Fishing,Palau,365,48
+2025,7,Fishing,Papua New Guinea,8403,271
+2025,7,Fishing,Samoa,75,39
+2025,7,Fishing,Solomon Islands,1982,120
+2025,7,Fishing,Tokelau,133,25
+2025,7,Fishing,Tonga,170,38
+2025,7,Fishing,Tuvalu,916,65
+2025,7,Fishing,Vanuatu,764,68
+2025,7,Others,Cook Islands,5750,122
+2025,7,Others,Fiji,30518,756
+2025,7,Others,Kiribati,9560,133
+2025,7,Others,Marshall Islands,1271,38
+2025,7,Others,Micronesia,2382,58
+2025,7,Others,Nauru,196,13
+2025,7,Others,Niue,1615,63
+2025,7,Others,Palau,487,36
+2025,7,Others,Papua New Guinea,7571,344
+2025,7,Others,Samoa,376,47
+2025,7,Others,Solomon Islands,4923,93
+2025,7,Others,Tokelau,86,7
+2025,7,Others,Tonga,5025,178
+2025,7,Others,Tuvalu,3375,115
+2025,7,Others,Vanuatu,8898,223
+2025,7,Passenger,Cook Islands,454,4
+2025,7,Passenger,Fiji,1644,18
+2025,7,Passenger,Kiribati,461,5
+2025,7,Passenger,Marshall Islands,225,9
+2025,7,Passenger,Micronesia,195,9
+2025,7,Passenger,Niue,13,1
+2025,7,Passenger,Palau,114,7
+2025,7,Passenger,Papua New Guinea,1827,36
+2025,7,Passenger,Samoa,242,6
+2025,7,Passenger,Solomon Islands,87,7
+2025,7,Passenger,Tokelau,15,1
+2025,7,Passenger,Tonga,132,3
+2025,7,Passenger,Tuvalu,0,2
+2025,7,Passenger,Vanuatu,1026,10
+2025,7,Tanker,Cook Islands,1484,11
+2025,7,Tanker,Fiji,2151,16
+2025,7,Tanker,Kiribati,2966,23
+2025,7,Tanker,Marshall Islands,2187,39
+2025,7,Tanker,Micronesia,40837,170
+2025,7,Tanker,Nauru,1199,20
+2025,7,Tanker,Niue,524,7
+2025,7,Tanker,Palau,10260,80
+2025,7,Tanker,Papua New Guinea,98710,234
+2025,7,Tanker,Samoa,103,3
+2025,7,Tanker,Solomon Islands,3381,37
+2025,7,Tanker,Tonga,999,11
+2025,7,Tanker,Tuvalu,211,6
+2025,7,Tanker,Vanuatu,864,8
+2025,8,Cargo,Cook Islands,8686,57
+2025,8,Cargo,Fiji,8095,56
+2025,8,Cargo,Kiribati,16225,107
+2025,8,Cargo,Marshall Islands,11853,145
+2025,8,Cargo,Micronesia,133078,979
+2025,8,Cargo,Nauru,1723,38
+2025,8,Cargo,Niue,1654,23
+2025,8,Cargo,Palau,36367,428
+2025,8,Cargo,Papua New Guinea,313406,1293
+2025,8,Cargo,Samoa,513,17
+2025,8,Cargo,Solomon Islands,15966,160
+2025,8,Cargo,Tokelau,657,13
+2025,8,Cargo,Tonga,3880,37
+2025,8,Cargo,Tuvalu,1716,24
+2025,8,Cargo,Vanuatu,4340,46
+2025,8,Fishing,Cook Islands,925,46
+2025,8,Fishing,Fiji,770,131
+2025,8,Fishing,Kiribati,7176,211
+2025,8,Fishing,Marshall Islands,2689,144
+2025,8,Fishing,Micronesia,5219,200
+2025,8,Fishing,Nauru,288,20
+2025,8,Fishing,Niue,70,17
+2025,8,Fishing,Palau,429,62
+2025,8,Fishing,Papua New Guinea,8442,257
+2025,8,Fishing,Samoa,38,41
+2025,8,Fishing,Solomon Islands,1713,109
+2025,8,Fishing,Tokelau,75,11
+2025,8,Fishing,Tonga,162,26
+2025,8,Fishing,Tuvalu,805,49
+2025,8,Fishing,Vanuatu,963,57
+2025,8,Others,Cook Islands,7041,143
+2025,8,Others,Fiji,31992,764
+2025,8,Others,Kiribati,7232,95
+2025,8,Others,Marshall Islands,1732,41
+2025,8,Others,Micronesia,5338,71
+2025,8,Others,Nauru,304,21
+2025,8,Others,Niue,2047,74
+2025,8,Others,Palau,700,28
+2025,8,Others,Papua New Guinea,8567,389
+2025,8,Others,Samoa,985,80
+2025,8,Others,Solomon Islands,5719,110
+2025,8,Others,Tokelau,117,6
+2025,8,Others,Tonga,5104,220
+2025,8,Others,Tuvalu,3093,78
+2025,8,Others,Vanuatu,11778,233
+2025,8,Passenger,Cook Islands,48,3
+2025,8,Passenger,Fiji,1746,14
+2025,8,Passenger,Kiribati,31,5
+2025,8,Passenger,Marshall Islands,340,9
+2025,8,Passenger,Micronesia,196,5
+2025,8,Passenger,Nauru,0,1
+2025,8,Passenger,Palau,35,5
+2025,8,Passenger,Papua New Guinea,1268,34
+2025,8,Passenger,Samoa,294,6
+2025,8,Passenger,Solomon Islands,115,7
+2025,8,Passenger,Tokelau,25,2
+2025,8,Passenger,Tonga,152,3
+2025,8,Passenger,Tuvalu,0,1
+2025,8,Passenger,Vanuatu,3088,11
+2025,8,Tanker,Cook Islands,384,4
+2025,8,Tanker,Fiji,1437,14
+2025,8,Tanker,Kiribati,2790,22
+2025,8,Tanker,Marshall Islands,1881,40
+2025,8,Tanker,Micronesia,44814,213
+2025,8,Tanker,Nauru,1001,16
+2025,8,Tanker,Niue,137,2
+2025,8,Tanker,Palau,8918,100
+2025,8,Tanker,Papua New Guinea,101698,243
+2025,8,Tanker,Samoa,41,3
+2025,8,Tanker,Solomon Islands,3259,39
+2025,8,Tanker,Tokelau,68,1
+2025,8,Tanker,Tonga,442,6
+2025,8,Tanker,Tuvalu,367,6
+2025,8,Tanker,Vanuatu,803,12
+2025,9,Cargo,Cook Islands,5573,45
+2025,9,Cargo,Fiji,7115,53
+2025,9,Cargo,Kiribati,15203,125
+2025,9,Cargo,Marshall Islands,12615,144
+2025,9,Cargo,Micronesia,132961,981
+2025,9,Cargo,Nauru,1226,35
+2025,9,Cargo,Niue,1353,16
+2025,9,Cargo,Palau,37793,468
+2025,9,Cargo,Papua New Guinea,310984,1321
+2025,9,Cargo,Samoa,607,16
+2025,9,Cargo,Solomon Islands,16804,171
+2025,9,Cargo,Tokelau,230,8
+2025,9,Cargo,Tonga,2959,25
+2025,9,Cargo,Tuvalu,916,21
+2025,9,Cargo,Vanuatu,4568,42
+2025,9,Fishing,Cook Islands,1007,72
+2025,9,Fishing,Fiji,754,162
+2025,9,Fishing,Kiribati,6408,245
+2025,9,Fishing,Marshall Islands,2869,182
+2025,9,Fishing,Micronesia,5343,206
+2025,9,Fishing,Nauru,617,27
+2025,9,Fishing,Niue,65,15
+2025,9,Fishing,Palau,549,62
+2025,9,Fishing,Papua New Guinea,9054,242
+2025,9,Fishing,Samoa,90,32
+2025,9,Fishing,Solomon Islands,1665,104
+2025,9,Fishing,Tokelau,110,28
+2025,9,Fishing,Tonga,122,23
+2025,9,Fishing,Tuvalu,1031,54
+2025,9,Fishing,Vanuatu,703,56
+2025,9,Others,Cook Islands,5007,98
+2025,9,Others,Fiji,30065,743
+2025,9,Others,Kiribati,8692,112
+2025,9,Others,Marshall Islands,1847,42
+2025,9,Others,Micronesia,2836,67
+2025,9,Others,Nauru,160,11
+2025,9,Others,Niue,1726,65
+2025,9,Others,Palau,529,27
+2025,9,Others,Papua New Guinea,9837,410
+2025,9,Others,Samoa,725,52
+2025,9,Others,Solomon Islands,5368,95
+2025,9,Others,Tokelau,69,3
+2025,9,Others,Tonga,5358,209
+2025,9,Others,Tuvalu,2504,66
+2025,9,Others,Vanuatu,10068,238
+2025,9,Passenger,Cook Islands,908,3
+2025,9,Passenger,Fiji,1869,19
+2025,9,Passenger,Kiribati,1063,5
+2025,9,Passenger,Marshall Islands,83,7
+2025,9,Passenger,Micronesia,345,5
+2025,9,Passenger,Nauru,0,1
+2025,9,Passenger,Palau,117,8
+2025,9,Passenger,Papua New Guinea,1518,36
+2025,9,Passenger,Samoa,258,6
+2025,9,Passenger,Solomon Islands,398,7
+2025,9,Passenger,Tokelau,25,2
+2025,9,Passenger,Tonga,212,5
+2025,9,Passenger,Tuvalu,0,1
+2025,9,Passenger,Vanuatu,1039,13
+2025,9,Tanker,Cook Islands,1415,13
+2025,9,Tanker,Fiji,1668,14
+2025,9,Tanker,Kiribati,3328,24
+2025,9,Tanker,Marshall Islands,1665,30
+2025,9,Tanker,Micronesia,43206,196
+2025,9,Tanker,Nauru,732,16
+2025,9,Tanker,Niue,345,5
+2025,9,Tanker,Palau,7941,90
+2025,9,Tanker,Papua New Guinea,99727,233
+2025,9,Tanker,Samoa,130,5
+2025,9,Tanker,Solomon Islands,2421,30
+2025,9,Tanker,Tokelau,77,3
+2025,9,Tanker,Tonga,835,11
+2025,9,Tanker,Tuvalu,421,10
+2025,9,Tanker,Vanuatu,693,8
+2025,10,Cargo,Cook Islands,7297,51
+2025,10,Cargo,Fiji,7738,54
+2025,10,Cargo,Kiribati,20915,131
+2025,10,Cargo,Marshall Islands,12064,159
+2025,10,Cargo,Micronesia,137732,996
+2025,10,Cargo,Nauru,1443,41
+2025,10,Cargo,Niue,946,18
+2025,10,Cargo,Palau,40823,483
+2025,10,Cargo,Papua New Guinea,330799,1343
+2025,10,Cargo,Samoa,607,19
+2025,10,Cargo,Solomon Islands,16702,173
+2025,10,Cargo,Tokelau,823,9
+2025,10,Cargo,Tonga,2927,26
+2025,10,Cargo,Tuvalu,1740,24
+2025,10,Cargo,Vanuatu,4349,43
+2025,10,Fishing,Cook Islands,751,66
+2025,10,Fishing,Fiji,966,181
+2025,10,Fishing,Kiribati,7583,285
+2025,10,Fishing,Marshall Islands,2812,174
+2025,10,Fishing,Micronesia,6238,205
+2025,10,Fishing,Nauru,647,38
+2025,10,Fishing,Niue,2,1
+2025,10,Fishing,Palau,564,62
+2025,10,Fishing,Papua New Guinea,11069,248
+2025,10,Fishing,Samoa,47,31
+2025,10,Fishing,Solomon Islands,1920,128
+2025,10,Fishing,Tokelau,65,13
+2025,10,Fishing,Tonga,57,25
+2025,10,Fishing,Tuvalu,776,56
+2025,10,Fishing,Vanuatu,720,66
+2025,10,Others,Cook Islands,2764,56
+2025,10,Others,Fiji,32966,844
+2025,10,Others,Kiribati,9017,115
+2025,10,Others,Marshall Islands,2755,51
+2025,10,Others,Micronesia,4904,80
+2025,10,Others,Nauru,262,20
+2025,10,Others,Niue,969,34
+2025,10,Others,Palau,966,41
+2025,10,Others,Papua New Guinea,9932,445
+2025,10,Others,Samoa,271,25
+2025,10,Others,Solomon Islands,4974,109
+2025,10,Others,Tokelau,75,6
+2025,10,Others,Tonga,5632,178
+2025,10,Others,Tuvalu,2237,75
+2025,10,Others,Vanuatu,10915,243
+2025,10,Passenger,Cook Islands,2676,9
+2025,10,Passenger,Fiji,3811,27
+2025,10,Passenger,Kiribati,2548,10
+2025,10,Passenger,Marshall Islands,135,7
+2025,10,Passenger,Micronesia,394,8
+2025,10,Passenger,Niue,670,3
+2025,10,Passenger,Palau,425,12
+2025,10,Passenger,Papua New Guinea,2248,41
+2025,10,Passenger,Samoa,935,10
+2025,10,Passenger,Solomon Islands,282,8
+2025,10,Passenger,Tokelau,595,5
+2025,10,Passenger,Tonga,2030,10
+2025,10,Passenger,Vanuatu,1897,14
+2025,10,Tanker,Cook Islands,1233,11
+2025,10,Tanker,Fiji,1970,16
+2025,10,Tanker,Kiribati,2437,16
+2025,10,Tanker,Marshall Islands,2729,39
+2025,10,Tanker,Micronesia,48259,216
+2025,10,Tanker,Nauru,732,16
+2025,10,Tanker,Niue,442,6
+2025,10,Tanker,Palau,7928,88
+2025,10,Tanker,Papua New Guinea,102170,250
+2025,10,Tanker,Samoa,224,3
+2025,10,Tanker,Solomon Islands,3359,40
+2025,10,Tanker,Tokelau,56,2
+2025,10,Tanker,Tonga,637,11
+2025,10,Tanker,Tuvalu,412,5
+2025,10,Tanker,Vanuatu,1197,12
+2025,11,Cargo,Cook Islands,7405,49
+2025,11,Cargo,Fiji,8722,62
+2025,11,Cargo,Kiribati,23483,136
+2025,11,Cargo,Marshall Islands,15554,186
+2025,11,Cargo,Micronesia,130974,989
+2025,11,Cargo,Nauru,1313,31
+2025,11,Cargo,Niue,1387,17
+2025,11,Cargo,Palau,38886,495
+2025,11,Cargo,Papua New Guinea,321319,1312
+2025,11,Cargo,Samoa,757,21
+2025,11,Cargo,Solomon Islands,18218,184
+2025,11,Cargo,Tokelau,425,8
+2025,11,Cargo,Tonga,3426,28
+2025,11,Cargo,Tuvalu,2431,26
+2025,11,Cargo,Vanuatu,4687,47
+2025,11,Fishing,Cook Islands,952,51
+2025,11,Fishing,Fiji,702,121
+2025,11,Fishing,Kiribati,8281,260
+2025,11,Fishing,Marshall Islands,2531,133
+2025,11,Fishing,Micronesia,8279,202
+2025,11,Fishing,Nauru,607,34
+2025,11,Fishing,Niue,9,3
+2025,11,Fishing,Palau,501,58
+2025,11,Fishing,Papua New Guinea,9300,236
+2025,11,Fishing,Samoa,98,29
+2025,11,Fishing,Solomon Islands,2715,134
+2025,11,Fishing,Tokelau,43,12
+2025,11,Fishing,Tonga,115,16
+2025,11,Fishing,Tuvalu,808,54
+2025,11,Fishing,Vanuatu,1260,90
+2025,11,Others,Cook Islands,1735,29
+2025,11,Others,Fiji,21290,490
+2025,11,Others,Kiribati,9098,125
+2025,11,Others,Marshall Islands,1571,35
+2025,11,Others,Micronesia,4003,93
+2025,11,Others,Nauru,411,23
+2025,11,Others,Niue,382,12
+2025,11,Others,Palau,586,39
+2025,11,Others,Papua New Guinea,10246,419
+2025,11,Others,Samoa,97,24
+2025,11,Others,Solomon Islands,4519,78
+2025,11,Others,Tokelau,32,1
+2025,11,Others,Tonga,1666,64
+2025,11,Others,Tuvalu,2387,68
+2025,11,Others,Vanuatu,7385,155
+2025,11,Passenger,Cook Islands,1279,7
+2025,11,Passenger,Fiji,2610,24
+2025,11,Passenger,Kiribati,867,7
+2025,11,Passenger,Marshall Islands,133,5
+2025,11,Passenger,Micronesia,169,8
+2025,11,Passenger,Niue,217,2
+2025,11,Passenger,Palau,31,4
+2025,11,Passenger,Papua New Guinea,4459,47
+2025,11,Passenger,Samoa,196,5
+2025,11,Passenger,Solomon Islands,739,9
+2025,11,Passenger,Tokelau,15,1
+2025,11,Passenger,Tonga,545,5
+2025,11,Passenger,Tuvalu,0,1
+2025,11,Passenger,Vanuatu,1563,13
+2025,11,Tanker,Cook Islands,938,8
+2025,11,Tanker,Fiji,1485,18
+2025,11,Tanker,Kiribati,2059,22
+2025,11,Tanker,Marshall Islands,1328,34
+2025,11,Tanker,Micronesia,42609,205
+2025,11,Tanker,Nauru,754,10
+2025,11,Tanker,Niue,246,4
+2025,11,Tanker,Palau,10921,102
+2025,11,Tanker,Papua New Guinea,107720,249
+2025,11,Tanker,Samoa,138,3
+2025,11,Tanker,Solomon Islands,3721,35
+2025,11,Tanker,Tonga,583,10
+2025,11,Tanker,Tuvalu,404,5
+2025,11,Tanker,Vanuatu,563,7
+2025,12,Cargo,Cook Islands,8431,54
+2025,12,Cargo,Fiji,8458,59
+2025,12,Cargo,Kiribati,29805,163
+2025,12,Cargo,Marshall Islands,17767,208
+2025,12,Cargo,Micronesia,145426,1007
+2025,12,Cargo,Nauru,2145,43
+2025,12,Cargo,Niue,1632,19
+2025,12,Cargo,Palau,36013,452
+2025,12,Cargo,Papua New Guinea,330219,1320
+2025,12,Cargo,Samoa,815,20
+2025,12,Cargo,Solomon Islands,18124,190
+2025,12,Cargo,Tokelau,953,13
+2025,12,Cargo,Tonga,4783,34
+2025,12,Cargo,Tuvalu,3291,29
+2025,12,Cargo,Vanuatu,4804,39
+2025,12,Fishing,Cook Islands,964,53
+2025,12,Fishing,Fiji,994,159
+2025,12,Fishing,Kiribati,7903,271
+2025,12,Fishing,Marshall Islands,2783,159
+2025,12,Fishing,Micronesia,8469,242
+2025,12,Fishing,Nauru,1368,54
+2025,12,Fishing,Niue,10,6
+2025,12,Fishing,Palau,274,64
+2025,12,Fishing,Papua New Guinea,7987,206
+2025,12,Fishing,Samoa,52,22
+2025,12,Fishing,Solomon Islands,3123,146
+2025,12,Fishing,Tokelau,88,17
+2025,12,Fishing,Tonga,159,27
+2025,12,Fishing,Tuvalu,507,47
+2025,12,Fishing,Vanuatu,1021,89
+2025,12,Others,Cook Islands,3886,85
+2025,12,Others,Fiji,24560,522
+2025,12,Others,Kiribati,17894,347
+2025,12,Others,Marshall Islands,1849,112
+2025,12,Others,Micronesia,5652,348
+2025,12,Others,Nauru,179,48
+2025,12,Others,Niue,303,12
+2025,12,Others,Palau,1426,157
+2025,12,Others,Papua New Guinea,15432,1068
+2025,12,Others,Samoa,120,24
+2025,12,Others,Solomon Islands,5449,188
+2025,12,Others,Tokelau,985,13
+2025,12,Others,Tonga,623,38
+2025,12,Others,Tuvalu,3217,101
+2025,12,Others,Vanuatu,6504,173
+2025,12,Passenger,Cook Islands,753,4
+2025,12,Passenger,Fiji,2183,25
+2025,12,Passenger,Kiribati,401,6
+2025,12,Passenger,Marshall Islands,141,6
+2025,12,Passenger,Micronesia,484,17
+2025,12,Passenger,Palau,167,10
+2025,12,Passenger,Papua New Guinea,2144,48
+2025,12,Passenger,Samoa,439,8
+2025,12,Passenger,Solomon Islands,214,11
+2025,12,Passenger,Tokelau,30,2
+2025,12,Passenger,Tonga,579,7
+2025,12,Passenger,Tuvalu,2,1
+2025,12,Passenger,Vanuatu,2657,18
+2025,12,Tanker,Cook Islands,1587,11
+2025,12,Tanker,Fiji,2285,17
+2025,12,Tanker,Kiribati,2132,22
+2025,12,Tanker,Marshall Islands,2890,49
+2025,12,Tanker,Micronesia,45719,207
+2025,12,Tanker,Nauru,750,12
+2025,12,Tanker,Niue,392,6
+2025,12,Tanker,Palau,9202,102
+2025,12,Tanker,Papua New Guinea,106065,270
+2025,12,Tanker,Samoa,173,5
+2025,12,Tanker,Solomon Islands,4676,43
+2025,12,Tanker,Tokelau,35,2
+2025,12,Tanker,Tonga,890,11
+2025,12,Tanker,Tuvalu,776,9
+2025,12,Tanker,Vanuatu,1067,12
+2026,1,Cargo,Cook Islands,21691,55
+2026,1,Cargo,Fiji,17520,59
+2026,1,Cargo,Kiribati,62970,162
+2026,1,Cargo,Marshall Islands,47851,245
+2026,1,Cargo,Micronesia,255187,977
+2026,1,Cargo,Nauru,3202,43
+2026,1,Cargo,Niue,2538,15
+2026,1,Cargo,Palau,68283,469
+2026,1,Cargo,Papua New Guinea,573029,1238
+2026,1,Cargo,Samoa,1198,16
+2026,1,Cargo,Solomon Islands,31763,165
+2026,1,Cargo,Tokelau,2344,16
+2026,1,Cargo,Tonga,7153,25
+2026,1,Cargo,Tuvalu,6233,28
+2026,1,Cargo,Vanuatu,7920,48
+2026,1,Fishing,Cook Islands,1328,38
+2026,1,Fishing,Fiji,1331,128
+2026,1,Fishing,Kiribati,17853,296
+2026,1,Fishing,Marshall Islands,5430,169
+2026,1,Fishing,Micronesia,12592,224
+2026,1,Fishing,Nauru,3571,64
+2026,1,Fishing,Niue,10,5
+2026,1,Fishing,Palau,561,81
+2026,1,Fishing,Papua New Guinea,15079,209
+2026,1,Fishing,Samoa,103,14
+2026,1,Fishing,Solomon Islands,3241,122
+2026,1,Fishing,Tokelau,125,14
+2026,1,Fishing,Tonga,240,19
+2026,1,Fishing,Tuvalu,1294,50
+2026,1,Fishing,Vanuatu,1577,58
+2026,1,Others,Cook Islands,1686,35
+2026,1,Others,Fiji,21647,338
+2026,1,Others,Kiribati,20143,244
+2026,1,Others,Marshall Islands,3444,43
+2026,1,Others,Micronesia,6585,111
+2026,1,Others,Nauru,165,16
+2026,1,Others,Niue,70,2
+2026,1,Others,Palau,952,54
+2026,1,Others,Papua New Guinea,13361,427
+2026,1,Others,Samoa,76,11
+2026,1,Others,Solomon Islands,2864,67
+2026,1,Others,Tokelau,870,11
+2026,1,Others,Tonga,158,8
+2026,1,Others,Tuvalu,326,15
+2026,1,Others,Vanuatu,1506,46
+2026,1,Passenger,Cook Islands,3784,10
+2026,1,Passenger,Fiji,11400,28
+2026,1,Passenger,Kiribati,2454,6
+2026,1,Passenger,Marshall Islands,203,8
+2026,1,Passenger,Micronesia,446,16
+2026,1,Passenger,Nauru,0,2
+2026,1,Passenger,Niue,914,4
+2026,1,Passenger,Palau,88,10
+2026,1,Passenger,Papua New Guinea,5509,42
+2026,1,Passenger,Samoa,1254,8
+2026,1,Passenger,Solomon Islands,2355,6
+2026,1,Passenger,Tokelau,42,1
+2026,1,Passenger,Tonga,4007,10
+2026,1,Passenger,Tuvalu,0,1
+2026,1,Passenger,Vanuatu,12993,19
+2026,1,Tanker,Cook Islands,1985,11
+2026,1,Tanker,Fiji,3906,15
+2026,1,Tanker,Kiribati,6423,22
+2026,1,Tanker,Marshall Islands,4586,57
+2026,1,Tanker,Micronesia,81614,208
+2026,1,Tanker,Nauru,2210,16
+2026,1,Tanker,Niue,234,2
+2026,1,Tanker,Palau,14272,96
+2026,1,Tanker,Papua New Guinea,197652,252
+2026,1,Tanker,Samoa,354,4
+2026,1,Tanker,Solomon Islands,6478,40
+2026,1,Tanker,Tokelau,263,2
+2026,1,Tanker,Tonga,868,8
+2026,1,Tanker,Tuvalu,1034,6
+2026,1,Tanker,Vanuatu,2096,14

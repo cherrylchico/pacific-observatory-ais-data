@@ -12427,128 +12427,729 @@
 2025,12,Vanuatu,Port Vila,Tanker,Exports,1254.9
 2025,12,Vanuatu,Port Vila,Tanker,Imports,3897.2
 2026,1,Fiji,Lautoka Harbor,Bulk Carrier,Exports,27101.3
-2026,1,Fiji,Lautoka Harbor,Container,Exports,2474.3
-2026,1,Fiji,Lautoka Harbor,Container,Imports,13157.3
-2026,1,Fiji,Lautoka Harbor,General Cargo,Imports,973.3
+2026,1,Fiji,Lautoka Harbor,Container,Exports,9010.9
+2026,1,Fiji,Lautoka Harbor,Container,Imports,9537.7
+2026,1,Fiji,Lautoka Harbor,General Cargo,Imports,1126.8
 2026,1,Fiji,Lautoka Harbor,Tanker,Exports,3699.3
-2026,1,Fiji,Lautoka Harbor,Tanker,Imports,24179.7
-2026,1,Fiji,Malai,Tanker,Exports,9636.6
-2026,1,Fiji,Malai,Tanker,Imports,291.6
-2026,1,Fiji,Suva Harbor,Bulk Carrier,Imports,29328.4
-2026,1,Fiji,Suva Harbor,Container,Exports,6291.2
-2026,1,Fiji,Suva Harbor,Container,Imports,15315.8
-2026,1,Fiji,Suva Harbor,General Cargo,Exports,2738.8
-2026,1,Fiji,Suva Harbor,General Cargo,Imports,10727.5
+2026,1,Fiji,Lautoka Harbor,Tanker,Imports,25815
+2026,1,Fiji,Malai,Bulk Carrier,Exports,4397.7
+2026,1,Fiji,Malai,Tanker,Exports,9788.9
+2026,1,Fiji,Malai,Tanker,Imports,291.5
+2026,1,Fiji,Suva Harbor,Bulk Carrier,Imports,29416.4
+2026,1,Fiji,Suva Harbor,Container,Exports,9231
+2026,1,Fiji,Suva Harbor,Container,Imports,19493.4
+2026,1,Fiji,Suva Harbor,General Cargo,Exports,2763
+2026,1,Fiji,Suva Harbor,General Cargo,Imports,16919
 2026,1,Fiji,Suva Harbor,Tanker,Exports,145.7
-2026,1,Fiji,Suva Harbor,Tanker,Imports,11041.4
+2026,1,Fiji,Suva Harbor,Tanker,Imports,12016.8
+2026,1,Kiribati,Kiribati,Tanker,Exports,1520.3
 2026,1,Kiribati,Tarawa Atoll,Container,Imports,3206.6
-2026,1,Kiribati,Tarawa Atoll,General Cargo,Exports,471.8
-2026,1,Kiribati,Tarawa Atoll,General Cargo,Imports,5491.2
-2026,1,Marshall Islands,Ebeye,General Cargo,Exports,476.2
-2026,1,Marshall Islands,Ebeye,General Cargo,Imports,1062.1
+2026,1,Kiribati,Tarawa Atoll,General Cargo,Exports,2764.1
+2026,1,Kiribati,Tarawa Atoll,General Cargo,Imports,5616
+2026,1,Marshall Islands,Ebeye,General Cargo,Imports,1989.4
 2026,1,Marshall Islands,Kwajalein,General Cargo,Imports,1395.4
 2026,1,Marshall Islands,Kwajalein,Tanker,Imports,325.6
-2026,1,Marshall Islands,Majuro Atoll,Container,Imports,818.3
-2026,1,Marshall Islands,Majuro Atoll,General Cargo,Exports,1302.6
-2026,1,Marshall Islands,Majuro Atoll,General Cargo,Imports,2130
-2026,1,Marshall Islands,Majuro Atoll,Tanker,Imports,3138.5
-2026,1,Micronesia,Colonia,General Cargo,Exports,74.9
-2026,1,Micronesia,Lele Harbor,Container,Exports,1811.2
-2026,1,Micronesia,Lele Harbor,General Cargo,Exports,1573.4
-2026,1,Micronesia,Lele Harbor,General Cargo,Imports,752.9
-2026,1,Micronesia,Moen,General Cargo,Imports,2794.7
-2026,1,Micronesia,Pornpei Harbor,Container,Exports,2407.8
-2026,1,Micronesia,Pornpei Harbor,General Cargo,Exports,1573.4
-2026,1,Micronesia,Pornpei Harbor,General Cargo,Imports,503.7
-2026,1,Nauru,Nauru,General Cargo,Exports,26939.9
-2026,1,Palau,Malakal Harbor,Container,Exports,1987
-2026,1,Palau,Malakal Harbor,General Cargo,Exports,77
+2026,1,Marshall Islands,Majuro Atoll,Container,Imports,851.3
+2026,1,Marshall Islands,Majuro Atoll,General Cargo,Exports,4397.8
+2026,1,Marshall Islands,Majuro Atoll,General Cargo,Imports,3004
+2026,1,Marshall Islands,Majuro Atoll,Tanker,Imports,413.8
+2026,1,Micronesia,Colonia,Container,Exports,365.2
+2026,1,Micronesia,Colonia,Container,Imports,499.3
+2026,1,Micronesia,Colonia,General Cargo,Exports,76.9
+2026,1,Micronesia,Colonia,Tanker,Exports,622.4
+2026,1,Micronesia,Lele Harbor,Container,Exports,1814.9
+2026,1,Micronesia,Lele Harbor,General Cargo,Exports,4847.6
+2026,1,Micronesia,Lele Harbor,General Cargo,Imports,726.1
+2026,1,Micronesia,Moen,General Cargo,Imports,2852.5
+2026,1,Micronesia,Pornpei Harbor,Container,Exports,901.9
+2026,1,Micronesia,Pornpei Harbor,General Cargo,Exports,4847.6
+2026,1,Micronesia,Pornpei Harbor,General Cargo,Imports,511.2
+2026,1,Nauru,Nauru,Bulk Carrier,Exports,25993.2
+2026,1,Nauru,Nauru,General Cargo,Exports,27393.3
+2026,1,Palau,Malakal Harbor,Container,Imports,3892.1
+2026,1,Palau,Malakal Harbor,General Cargo,Exports,74.9
+2026,1,Palau,Malakal Harbor,Tanker,Imports,1638.4
+2026,1,Papua New Guinea,Alotoa,Bulk Carrier,Exports,6657.5
 2026,1,Papua New Guinea,Alotoa,Container,Exports,574.8
-2026,1,Papua New Guinea,Alotoa,General Cargo,Exports,14707.8
-2026,1,Papua New Guinea,Alotoa,General Cargo,Imports,354.6
-2026,1,Papua New Guinea,Alotoa,Tanker,Imports,3545.2
+2026,1,Papua New Guinea,Alotoa,General Cargo,Exports,8103.5
+2026,1,Papua New Guinea,Alotoa,Tanker,Imports,2531.7
 2026,1,Papua New Guinea,Buka,Container,Imports,2452.4
-2026,1,Papua New Guinea,Buka,General Cargo,Exports,676.6
+2026,1,Papua New Guinea,Buka,General Cargo,Exports,821.2
 2026,1,Papua New Guinea,Daru,Bulk Carrier,Exports,3800
-2026,1,Papua New Guinea,Daru,General Cargo,Exports,424.5
-2026,1,Papua New Guinea,Kavieng Harbor,Container,Imports,3897.8
-2026,1,Papua New Guinea,Kavieng Harbor,General Cargo,Exports,15.4
-2026,1,Papua New Guinea,Kavieng Harbor,Tanker,Exports,541.5
-2026,1,Papua New Guinea,Kieta,Container,Exports,324.2
-2026,1,Papua New Guinea,Kieta,Container,Imports,751.6
-2026,1,Papua New Guinea,Kimbe,Bulk Carrier,Exports,4741.9
+2026,1,Papua New Guinea,Daru,General Cargo,Exports,214.2
+2026,1,Papua New Guinea,Kavieng Harbor,Container,Exports,82.8
+2026,1,Papua New Guinea,Kavieng Harbor,Container,Imports,1942.5
+2026,1,Papua New Guinea,Kavieng Harbor,General Cargo,Exports,15.1
+2026,1,Papua New Guinea,Kavieng Harbor,Tanker,Imports,190.4
+2026,1,Papua New Guinea,Kieta,Container,Imports,1496.1
+2026,1,Papua New Guinea,Kimbe,Bulk Carrier,Exports,22893.2
 2026,1,Papua New Guinea,Kimbe,Container,Exports,711.1
-2026,1,Papua New Guinea,Kimbe,Container,Imports,535.5
-2026,1,Papua New Guinea,Kimbe,General Cargo,Exports,12903.4
-2026,1,Papua New Guinea,Kimbe,Tanker,Exports,9398
-2026,1,Papua New Guinea,Kimbe,Tanker,Imports,571.9
+2026,1,Papua New Guinea,Kimbe,Container,Imports,1575.2
+2026,1,Papua New Guinea,Kimbe,General Cargo,Exports,12899.7
+2026,1,Papua New Guinea,Kimbe,Tanker,Exports,8856.5
+2026,1,Papua New Guinea,Kimbe,Tanker,Imports,255.6
 2026,1,Papua New Guinea,Lae,Bulk Carrier,Imports,13217.8
-2026,1,Papua New Guinea,Lae,Container,Exports,19521.4
-2026,1,Papua New Guinea,Lae,Container,Imports,45697.5
-2026,1,Papua New Guinea,Lae,General Cargo,Exports,12699.9
-2026,1,Papua New Guinea,Lae,General Cargo,Imports,12579.6
-2026,1,Papua New Guinea,Lae,Tanker,Exports,541.5
-2026,1,Papua New Guinea,Lae,Tanker,Imports,25647.4
-2026,1,Papua New Guinea,Madang,Container,Exports,535.1
-2026,1,Papua New Guinea,Madang,General Cargo,Exports,571.6
+2026,1,Papua New Guinea,Lae,Container,Exports,25590.2
+2026,1,Papua New Guinea,Lae,Container,Imports,63955.3
+2026,1,Papua New Guinea,Lae,General Cargo,Exports,13106.4
+2026,1,Papua New Guinea,Lae,General Cargo,Imports,12407.1
+2026,1,Papua New Guinea,Lae,Tanker,Imports,29793.4
+2026,1,Papua New Guinea,Madang,Container,Imports,5175.5
+2026,1,Papua New Guinea,Madang,General Cargo,Exports,561.9
 2026,1,Papua New Guinea,Madang,General Cargo,Imports,791.1
-2026,1,Papua New Guinea,Madang,Tanker,Imports,7775.2
-2026,1,Papua New Guinea,Oro Bay,Bulk Carrier,Exports,332.5
-2026,1,Papua New Guinea,Oro Bay,General Cargo,Exports,179.5
-2026,1,Papua New Guinea,Oro Bay,General Cargo,Imports,1336.5
+2026,1,Papua New Guinea,Madang,Tanker,Exports,1525.7
+2026,1,Papua New Guinea,Madang,Tanker,Imports,65.2
+2026,1,Papua New Guinea,Oro Bay,Bulk Carrier,Exports,15966.6
+2026,1,Papua New Guinea,Oro Bay,Bulk Carrier,Imports,2683.8
+2026,1,Papua New Guinea,Oro Bay,General Cargo,Imports,2100.1
 2026,1,Papua New Guinea,Oro Bay,Tanker,Imports,476.7
-2026,1,Papua New Guinea,Port Moresby,Bulk Carrier,Exports,9090.2
+2026,1,Papua New Guinea,Port Moresby,Bulk Carrier,Exports,8313.6
 2026,1,Papua New Guinea,Port Moresby,Bulk Carrier,Imports,4743.1
-2026,1,Papua New Guinea,Port Moresby,Container,Exports,5537
-2026,1,Papua New Guinea,Port Moresby,Container,Imports,25823.9
-2026,1,Papua New Guinea,Port Moresby,General Cargo,Exports,11771.6
-2026,1,Papua New Guinea,Port Moresby,General Cargo,Imports,17461.9
-2026,1,Papua New Guinea,Port Moresby,Tanker,Exports,11545.8
-2026,1,Papua New Guinea,Port Moresby,Tanker,Imports,20491.1
+2026,1,Papua New Guinea,Port Moresby,Container,Exports,6927.6
+2026,1,Papua New Guinea,Port Moresby,Container,Imports,41200.4
+2026,1,Papua New Guinea,Port Moresby,General Cargo,Exports,23896
+2026,1,Papua New Guinea,Port Moresby,General Cargo,Imports,15430
+2026,1,Papua New Guinea,Port Moresby,Tanker,Exports,194214.1
+2026,1,Papua New Guinea,Port Moresby,Tanker,Imports,19597.7
 2026,1,Papua New Guinea,Put Put,General Cargo,Exports,4710.7
 2026,1,Papua New Guinea,Put Put,General Cargo,Imports,6971
-2026,1,Papua New Guinea,Put Put,Tanker,Imports,4788.4
-2026,1,Papua New Guinea,Rabaul,Bulk Carrier,Exports,2216.1
+2026,1,Papua New Guinea,Put Put,Tanker,Imports,10675.7
+2026,1,Papua New Guinea,Rabaul,Bulk Carrier,Exports,38923.1
 2026,1,Papua New Guinea,Rabaul,Container,Exports,191.6
-2026,1,Papua New Guinea,Rabaul,Container,Imports,4029.9
-2026,1,Papua New Guinea,Rabaul,General Cargo,Exports,1109.2
-2026,1,Papua New Guinea,Rabaul,General Cargo,Imports,1925.8
-2026,1,Papua New Guinea,Rabaul,Tanker,Exports,541.5
-2026,1,Papua New Guinea,Rabaul,Tanker,Imports,7203.3
-2026,1,Papua New Guinea,Vanimo,Bulk Carrier,Exports,15136.8
-2026,1,Papua New Guinea,Vanimo,General Cargo,Exports,288
-2026,1,Papua New Guinea,Vanimo,General Cargo,Imports,1075.3
-2026,1,Papua New Guinea,Wewak Harbor,General Cargo,Exports,982.7
+2026,1,Papua New Guinea,Rabaul,Container,Imports,4013.9
+2026,1,Papua New Guinea,Rabaul,General Cargo,Exports,9943.8
+2026,1,Papua New Guinea,Rabaul,General Cargo,Imports,1937.1
+2026,1,Papua New Guinea,Rabaul,Tanker,Imports,4484
+2026,1,Papua New Guinea,Vanimo,Bulk Carrier,Exports,25099.3
+2026,1,Papua New Guinea,Vanimo,General Cargo,Exports,36.1
+2026,1,Papua New Guinea,Vanimo,General Cargo,Imports,1764.7
+2026,1,Papua New Guinea,Wewak Harbor,General Cargo,Exports,726.8
 2026,1,Papua New Guinea,Wewak Harbor,General Cargo,Imports,493
+2026,1,Papua New Guinea,Wewak Harbor,Tanker,Exports,1627.3
 2026,1,Papua New Guinea,Wewak Harbor,Tanker,Imports,3099.8
-2026,1,Samoa,Apia,Container,Exports,5769
-2026,1,Samoa,Apia,Container,Imports,1436.1
-2026,1,Samoa,Apia,General Cargo,Exports,31.6
-2026,1,Samoa,Apia,General Cargo,Imports,3555.4
+2026,1,Samoa,Apia,Container,Exports,1571.3
+2026,1,Samoa,Apia,Container,Imports,5058
+2026,1,Samoa,Apia,General Cargo,Exports,154.8
+2026,1,Samoa,Apia,General Cargo,Imports,3529
 2026,1,Samoa,Apia,Tanker,Imports,2669.5
-2026,1,Samoa,Salelologa,General Cargo,Exports,15.7
+2026,1,Samoa,Salelologa,General Cargo,Exports,15.6
+2026,1,Solomon Islands,Honiara,Bulk Carrier,Exports,3529.7
+2026,1,Solomon Islands,Honiara,Bulk Carrier,Imports,11157.2
 2026,1,Solomon Islands,Honiara,Container,Exports,1558.2
-2026,1,Solomon Islands,Honiara,Container,Imports,3046.1
-2026,1,Solomon Islands,Honiara,General Cargo,Exports,3259.9
-2026,1,Solomon Islands,Honiara,General Cargo,Imports,3352.9
+2026,1,Solomon Islands,Honiara,Container,Imports,11672.3
+2026,1,Solomon Islands,Honiara,General Cargo,Exports,7661.9
+2026,1,Solomon Islands,Honiara,General Cargo,Imports,4116.2
 2026,1,Solomon Islands,Honiara,Tanker,Exports,279
 2026,1,Solomon Islands,Honiara,Tanker,Imports,18731.7
-2026,1,Solomon Islands,Port Noro,Bulk Carrier,Exports,13444
+2026,1,Solomon Islands,Port Noro,Bulk Carrier,Exports,64015.6
 2026,1,Solomon Islands,Port Noro,Container,Exports,264.6
+2026,1,Solomon Islands,Port Noro,General Cargo,Imports,172.9
+2026,1,Solomon Islands,Port Noro,Tanker,Imports,174.2
 2026,1,Solomon Islands,Ringgi Cove,Bulk Carrier,Exports,8661
+2026,1,Solomon Islands,Seghe,Bulk Carrier,Exports,3970.8
 2026,1,Tonga,Neiafu,General Cargo,Exports,388.7
+2026,1,Tonga,Neiafu,General Cargo,Imports,449.9
 2026,1,Tonga,Nuku Alofa,Container,Exports,384.8
-2026,1,Tonga,Nuku Alofa,Container,Imports,4444.6
-2026,1,Tonga,Nuku Alofa,General Cargo,Exports,2088.8
-2026,1,Tonga,Nuku Alofa,General Cargo,Imports,980.8
+2026,1,Tonga,Nuku Alofa,Container,Imports,7698.9
+2026,1,Tonga,Nuku Alofa,General Cargo,Exports,3261.4
+2026,1,Tonga,Nuku Alofa,General Cargo,Imports,973.7
 2026,1,Tonga,Nuku Alofa,Tanker,Exports,1502.3
 2026,1,Tonga,Nuku Alofa,Tanker,Imports,145.5
 2026,1,Tonga,Pangai,General Cargo,Exports,388.7
+2026,1,Tuvalu,Funafuti Atoll,Container,Imports,2326
 2026,1,Tuvalu,Funafuti Atoll,Tanker,Imports,561.3
-2026,1,Vanuatu,Luganville,Container,Imports,4671
+2026,1,Vanuatu,Luganville,Container,Exports,1041.8
+2026,1,Vanuatu,Luganville,Container,Imports,2779.8
 2026,1,Vanuatu,Luganville,General Cargo,Exports,517.1
-2026,1,Vanuatu,Luganville,General Cargo,Imports,647.5
-2026,1,Vanuatu,Luganville,Tanker,Imports,2479.6
-2026,1,Vanuatu,Port Vila,Container,Imports,5745.9
+2026,1,Vanuatu,Luganville,General Cargo,Imports,626.5
+2026,1,Vanuatu,Luganville,Tanker,Imports,2468
+2026,1,Vanuatu,Port Vila,Container,Imports,7114
 2026,1,Vanuatu,Port Vila,General Cargo,Exports,517.1
-2026,1,Vanuatu,Port Vila,General Cargo,Imports,973.6
+2026,1,Vanuatu,Port Vila,General Cargo,Imports,942.4
+2026,1,Vanuatu,Port Vila,Tanker,Imports,137.7
+2026,2,Fiji,Lautoka Harbor,Bulk Carrier,Exports,14926.6
+2026,2,Fiji,Lautoka Harbor,Bulk Carrier,Imports,6656.5
+2026,2,Fiji,Lautoka Harbor,Container,Exports,16581.9
+2026,2,Fiji,Lautoka Harbor,Container,Imports,11593.2
+2026,2,Fiji,Lautoka Harbor,General Cargo,Imports,6695.7
+2026,2,Fiji,Lautoka Harbor,Tanker,Exports,7067.8
+2026,2,Fiji,Lautoka Harbor,Tanker,Imports,33786.4
+2026,2,Fiji,Malai,Tanker,Exports,260.8
+2026,2,Fiji,Malai,Tanker,Imports,380.4
+2026,2,Fiji,Suva Harbor,Bulk Carrier,Imports,12010
+2026,2,Fiji,Suva Harbor,Container,Exports,13816.6
+2026,2,Fiji,Suva Harbor,Container,Imports,13549.1
+2026,2,Fiji,Suva Harbor,General Cargo,Exports,3217.6
+2026,2,Fiji,Suva Harbor,General Cargo,Imports,1339.4
+2026,2,Fiji,Suva Harbor,Tanker,Imports,21508.7
+2026,2,Kiribati,Kiribati,General Cargo,Exports,4184.4
+2026,2,Kiribati,Tarawa Atoll,Container,Imports,1807.6
+2026,2,Kiribati,Tarawa Atoll,General Cargo,Exports,192.2
+2026,2,Kiribati,Tarawa Atoll,General Cargo,Imports,2730.3
+2026,2,Kiribati,Tarawa Atoll,Tanker,Exports,5042.8
+2026,2,Marshall Islands,Ebeye,General Cargo,Imports,956.4
+2026,2,Marshall Islands,Kwajalein,General Cargo,Imports,1092.6
+2026,2,Marshall Islands,Kwajalein,Tanker,Imports,318.6
+2026,2,Marshall Islands,Majuro Atoll,Container,Imports,1605.3
+2026,2,Marshall Islands,Majuro Atoll,General Cargo,Exports,2264.1
+2026,2,Marshall Islands,Majuro Atoll,General Cargo,Imports,1514.7
+2026,2,Marshall Islands,Majuro Atoll,Tanker,Imports,5452
+2026,2,Micronesia,Colonia,Container,Exports,489.9
+2026,2,Micronesia,Colonia,Container,Imports,311.6
+2026,2,Micronesia,Colonia,General Cargo,Imports,824.2
+2026,2,Micronesia,Lele Harbor,Container,Exports,1486.6
+2026,2,Micronesia,Lele Harbor,General Cargo,Exports,3237.4
+2026,2,Micronesia,Lele Harbor,General Cargo,Imports,2948.7
+2026,2,Micronesia,Moen,General Cargo,Exports,4830.7
+2026,2,Micronesia,Moen,General Cargo,Imports,791.2
+2026,2,Micronesia,Moen,Tanker,Imports,1253.3
+2026,2,Micronesia,Pornpei Harbor,Container,Exports,2173.3
+2026,2,Micronesia,Pornpei Harbor,General Cargo,Exports,1610.2
+2026,2,Micronesia,Pornpei Harbor,General Cargo,Imports,1312.7
+2026,2,Micronesia,Pornpei Harbor,Tanker,Imports,895.7
+2026,2,Nauru,Nauru,Bulk Carrier,Exports,12996.6
+2026,2,Nauru,Nauru,Container,Exports,273
+2026,2,Nauru,Nauru,General Cargo,Exports,18262.2
+2026,2,Nauru,Nauru,General Cargo,Imports,727.9
+2026,2,Nauru,Nauru,Tanker,Exports,4282.6
+2026,2,Palau,Malakal Harbor,Container,Imports,6864
+2026,2,Palau,Malakal Harbor,Tanker,Imports,1865
+2026,2,Papua New Guinea,Alotoa,Container,Exports,575.6
+2026,2,Papua New Guinea,Alotoa,Container,Imports,382
+2026,2,Papua New Guinea,Alotoa,General Cargo,Exports,7643.2
+2026,2,Papua New Guinea,Alotoa,Tanker,Imports,2848.7
+2026,2,Papua New Guinea,Buka,Container,Imports,1510.9
+2026,2,Papua New Guinea,Buka,General Cargo,Exports,678.8
+2026,2,Papua New Guinea,Kavieng Harbor,Bulk Carrier,Exports,5551.5
+2026,2,Papua New Guinea,Kavieng Harbor,Container,Imports,3751.5
+2026,2,Papua New Guinea,Kavieng Harbor,General Cargo,Exports,4588
+2026,2,Papua New Guinea,Kavieng Harbor,General Cargo,Imports,655
+2026,2,Papua New Guinea,Kavieng Harbor,Tanker,Imports,180.5
+2026,2,Papua New Guinea,Kieta,Container,Imports,561.1
+2026,2,Papua New Guinea,Kimbe,Bulk Carrier,Exports,14787.9
+2026,2,Papua New Guinea,Kimbe,Container,Exports,247.4
+2026,2,Papua New Guinea,Kimbe,Container,Imports,3582.1
+2026,2,Papua New Guinea,Kimbe,General Cargo,Exports,2389.5
+2026,2,Papua New Guinea,Kimbe,General Cargo,Imports,197.4
+2026,2,Papua New Guinea,Kimbe,Tanker,Exports,14884.5
+2026,2,Papua New Guinea,Kimbe,Tanker,Imports,190.4
+2026,2,Papua New Guinea,Lae,Bulk Carrier,Exports,459.9
+2026,2,Papua New Guinea,Lae,Bulk Carrier,Imports,14508.6
+2026,2,Papua New Guinea,Lae,Container,Exports,14294.1
+2026,2,Papua New Guinea,Lae,Container,Imports,36615.1
+2026,2,Papua New Guinea,Lae,General Cargo,Exports,13832.2
+2026,2,Papua New Guinea,Lae,General Cargo,Imports,10487.1
+2026,2,Papua New Guinea,Lae,Tanker,Exports,834
+2026,2,Papua New Guinea,Lae,Tanker,Imports,23673.6
+2026,2,Papua New Guinea,Madang,Bulk Carrier,Exports,5276.4
+2026,2,Papua New Guinea,Madang,Container,Exports,350.3
+2026,2,Papua New Guinea,Madang,Container,Imports,2354.4
+2026,2,Papua New Guinea,Madang,General Cargo,Exports,404
+2026,2,Papua New Guinea,Madang,Tanker,Imports,3868.9
+2026,2,Papua New Guinea,Oro Bay,Bulk Carrier,Exports,9209.7
+2026,2,Papua New Guinea,Oro Bay,Container,Imports,1631.7
+2026,2,Papua New Guinea,Oro Bay,General Cargo,Imports,3175.1
+2026,2,Papua New Guinea,Oro Bay,Tanker,Exports,13931.1
+2026,2,Papua New Guinea,Oro Bay,Tanker,Imports,476.1
+2026,2,Papua New Guinea,Port Moresby,Bulk Carrier,Exports,12853.9
+2026,2,Papua New Guinea,Port Moresby,Bulk Carrier,Imports,2751.9
+2026,2,Papua New Guinea,Port Moresby,Container,Exports,2921.1
+2026,2,Papua New Guinea,Port Moresby,Container,Imports,34807.6
+2026,2,Papua New Guinea,Port Moresby,General Cargo,Exports,22679.7
+2026,2,Papua New Guinea,Port Moresby,General Cargo,Imports,13966.6
+2026,2,Papua New Guinea,Port Moresby,Tanker,Exports,215350.4
+2026,2,Papua New Guinea,Port Moresby,Tanker,Imports,16480.4
+2026,2,Papua New Guinea,Put Put,General Cargo,Exports,871.7
+2026,2,Papua New Guinea,Put Put,General Cargo,Imports,15344.7
+2026,2,Papua New Guinea,Put Put,Tanker,Exports,264.9
+2026,2,Papua New Guinea,Rabaul,Bulk Carrier,Exports,1135.2
+2026,2,Papua New Guinea,Rabaul,Container,Exports,3132.8
+2026,2,Papua New Guinea,Rabaul,Container,Imports,4362
+2026,2,Papua New Guinea,Rabaul,General Cargo,Exports,12324.3
+2026,2,Papua New Guinea,Rabaul,General Cargo,Imports,1511.7
+2026,2,Papua New Guinea,Rabaul,Tanker,Exports,924.9
+2026,2,Papua New Guinea,Rabaul,Tanker,Imports,6090.8
+2026,2,Papua New Guinea,Vanimo,Bulk Carrier,Exports,12071.9
+2026,2,Papua New Guinea,Vanimo,Bulk Carrier,Imports,3473.4
+2026,2,Papua New Guinea,Vanimo,General Cargo,Exports,36.1
+2026,2,Papua New Guinea,Vanimo,General Cargo,Imports,836.4
+2026,2,Papua New Guinea,Vanimo,Tanker,Exports,3312.1
+2026,2,Papua New Guinea,Wewak Harbor,Container,Exports,82.8
+2026,2,Papua New Guinea,Wewak Harbor,General Cargo,Exports,359.4
+2026,2,Papua New Guinea,Wewak Harbor,Tanker,Exports,2092.2
+2026,2,Papua New Guinea,Wewak Harbor,Tanker,Imports,656
+2026,2,Samoa,Apia,Container,Exports,2679.5
+2026,2,Samoa,Apia,Container,Imports,5540.2
+2026,2,Samoa,Apia,General Cargo,Exports,113.7
+2026,2,Samoa,Apia,General Cargo,Imports,1622.2
+2026,2,Samoa,Apia,Tanker,Exports,1399.5
+2026,2,Samoa,Apia,Tanker,Imports,5361.1
+2026,2,Solomon Islands,Honiara,Bulk Carrier,Imports,9951.9
+2026,2,Solomon Islands,Honiara,Container,Exports,2745.1
+2026,2,Solomon Islands,Honiara,Container,Imports,14372.4
+2026,2,Solomon Islands,Honiara,General Cargo,Exports,1247.6
+2026,2,Solomon Islands,Honiara,General Cargo,Imports,1870.8
+2026,2,Solomon Islands,Honiara,Tanker,Imports,7764.2
+2026,2,Solomon Islands,Ndora,Bulk Carrier,Exports,10800.1
+2026,2,Solomon Islands,Port Noro,Bulk Carrier,Exports,87325.1
+2026,2,Solomon Islands,Port Noro,Container,Exports,1063.1
+2026,2,Solomon Islands,Port Noro,General Cargo,Imports,819.8
+2026,2,Solomon Islands,Ringgi Cove,Bulk Carrier,Exports,5072.3
+2026,2,Tonga,Neiafu,General Cargo,Exports,485.9
+2026,2,Tonga,Neiafu,General Cargo,Imports,449.9
+2026,2,Tonga,Neiafu,Tanker,Imports,336.3
+2026,2,Tonga,Nuku Alofa,Container,Imports,8413.2
+2026,2,Tonga,Nuku Alofa,General Cargo,Exports,509.5
+2026,2,Tonga,Nuku Alofa,General Cargo,Imports,3084.8
+2026,2,Tonga,Nuku Alofa,Tanker,Exports,897.2
+2026,2,Tonga,Nuku Alofa,Tanker,Imports,654.1
+2026,2,Tonga,Pangai,General Cargo,Exports,777.4
+2026,2,Tuvalu,Funafuti Atoll,Container,Exports,128
+2026,2,Tuvalu,Funafuti Atoll,Container,Imports,1547.5
+2026,2,Tuvalu,Funafuti Atoll,General Cargo,Exports,2110.2
+2026,2,Tuvalu,Funafuti Atoll,Tanker,Imports,502.4
+2026,2,Vanuatu,Luganville,Container,Exports,799.4
+2026,2,Vanuatu,Luganville,Container,Imports,516.1
+2026,2,Vanuatu,Luganville,General Cargo,Exports,258.5
+2026,2,Vanuatu,Luganville,General Cargo,Imports,315
+2026,2,Vanuatu,Luganville,Tanker,Imports,501.3
+2026,2,Vanuatu,Port Vila,Container,Exports,250.9
+2026,2,Vanuatu,Port Vila,Container,Imports,6723.4
+2026,2,Vanuatu,Port Vila,General Cargo,Exports,258.5
+2026,2,Vanuatu,Port Vila,General Cargo,Imports,1837.1
+2026,2,Vanuatu,Port Vila,Tanker,Imports,1464.6
+2026,3,Fiji,Lautoka Harbor,Bulk Carrier,Exports,6541.3
+2026,3,Fiji,Lautoka Harbor,Container,Exports,22153.8
+2026,3,Fiji,Lautoka Harbor,Container,Imports,9627.1
+2026,3,Fiji,Lautoka Harbor,General Cargo,Exports,317
+2026,3,Fiji,Lautoka Harbor,General Cargo,Imports,1251.7
+2026,3,Fiji,Lautoka Harbor,Tanker,Exports,3749.4
+2026,3,Fiji,Lautoka Harbor,Tanker,Imports,32457
+2026,3,Fiji,Malai,Tanker,Imports,453.2
+2026,3,Fiji,Port of Savusavu Bay,General Cargo,Exports,553.8
+2026,3,Fiji,Suva Harbor,Container,Exports,16736.8
+2026,3,Fiji,Suva Harbor,Container,Imports,25095.9
+2026,3,Fiji,Suva Harbor,General Cargo,Exports,3628.1
+2026,3,Fiji,Suva Harbor,General Cargo,Imports,6681.1
+2026,3,Fiji,Suva Harbor,Tanker,Exports,3495.9
+2026,3,Fiji,Suva Harbor,Tanker,Imports,11578.7
+2026,3,Kiribati,Kiribati,Tanker,Exports,1520.3
+2026,3,Kiribati,Tarawa Atoll,Container,Imports,2560.7
+2026,3,Kiribati,Tarawa Atoll,General Cargo,Exports,192.2
+2026,3,Kiribati,Tarawa Atoll,General Cargo,Imports,7105.1
+2026,3,Kiribati,Tarawa Atoll,Tanker,Exports,578.8
+2026,3,Marshall Islands,Ebeye,General Cargo,Imports,3132.8
+2026,3,Marshall Islands,Kwajalein,General Cargo,Imports,1567.2
+2026,3,Marshall Islands,Majuro Atoll,Container,Imports,1301.8
+2026,3,Marshall Islands,Majuro Atoll,General Cargo,Exports,4669.9
+2026,3,Marshall Islands,Majuro Atoll,General Cargo,Imports,6458.5
+2026,3,Marshall Islands,Majuro Atoll,Tanker,Imports,1453.9
+2026,3,Micronesia,Colonia,Container,Exports,365.2
+2026,3,Micronesia,Colonia,Container,Imports,246.8
+2026,3,Micronesia,Colonia,General Cargo,Imports,465.1
+2026,3,Micronesia,Colonia,Tanker,Imports,2721.7
+2026,3,Micronesia,Lele Harbor,General Cargo,Imports,1328.8
+2026,3,Micronesia,Lele Harbor,Tanker,Exports,260.7
+2026,3,Micronesia,Moen,General Cargo,Exports,9661.4
+2026,3,Micronesia,Moen,General Cargo,Imports,1564.4
+2026,3,Micronesia,Moen,Tanker,Imports,206.5
+2026,3,Micronesia,Pornpei Harbor,General Cargo,Exports,2376.6
+2026,3,Micronesia,Pornpei Harbor,Tanker,Exports,2868.6
+2026,3,Micronesia,Pornpei Harbor,Tanker,Imports,206.8
+2026,3,Nauru,Nauru,General Cargo,Exports,45655.6
+2026,3,Palau,Malakal Harbor,Container,Imports,963.4
+2026,3,Palau,Malakal Harbor,General Cargo,Exports,251.8
+2026,3,Palau,Malakal Harbor,General Cargo,Imports,218.6
+2026,3,Papua New Guinea,Alotoa,Bulk Carrier,Exports,14288.3
+2026,3,Papua New Guinea,Alotoa,Container,Exports,767.9
+2026,3,Papua New Guinea,Alotoa,Container,Imports,1331.6
+2026,3,Papua New Guinea,Alotoa,General Cargo,Exports,6366.1
+2026,3,Papua New Guinea,Alotoa,Tanker,Imports,5167
+2026,3,Papua New Guinea,Buka,Container,Imports,1886.1
+2026,3,Papua New Guinea,Buka,General Cargo,Exports,2087.3
+2026,3,Papua New Guinea,Daru,Bulk Carrier,Exports,3973.5
+2026,3,Papua New Guinea,Daru,General Cargo,Exports,4995.4
+2026,3,Papua New Guinea,Kavieng Harbor,Bulk Carrier,Exports,2239.5
+2026,3,Papua New Guinea,Kavieng Harbor,Container,Imports,1785.5
+2026,3,Papua New Guinea,Kavieng Harbor,General Cargo,Exports,7696.9
+2026,3,Papua New Guinea,Kavieng Harbor,General Cargo,Imports,655
+2026,3,Papua New Guinea,Kavieng Harbor,Tanker,Imports,541.5
+2026,3,Papua New Guinea,Kieta,Container,Imports,1312.4
+2026,3,Papua New Guinea,Kieta,General Cargo,Exports,6414.6
+2026,3,Papua New Guinea,Kieta,General Cargo,Imports,1084.3
+2026,3,Papua New Guinea,Kimbe,Bulk Carrier,Exports,35178.3
+2026,3,Papua New Guinea,Kimbe,Container,Exports,258.2
+2026,3,Papua New Guinea,Kimbe,Container,Imports,3108
+2026,3,Papua New Guinea,Kimbe,General Cargo,Exports,1937.4
+2026,3,Papua New Guinea,Kimbe,General Cargo,Imports,324.9
+2026,3,Papua New Guinea,Kimbe,Tanker,Exports,36652
+2026,3,Papua New Guinea,Kimbe,Tanker,Imports,190.4
+2026,3,Papua New Guinea,Lae,Bulk Carrier,Imports,15477.8
+2026,3,Papua New Guinea,Lae,Container,Exports,21209.8
+2026,3,Papua New Guinea,Lae,Container,Imports,56874.2
+2026,3,Papua New Guinea,Lae,General Cargo,Exports,10544.7
+2026,3,Papua New Guinea,Lae,General Cargo,Imports,8897.1
+2026,3,Papua New Guinea,Lae,Tanker,Exports,13683.6
+2026,3,Papua New Guinea,Lae,Tanker,Imports,13412.5
+2026,3,Papua New Guinea,Madang,Container,Exports,2079.9
+2026,3,Papua New Guinea,Madang,General Cargo,Exports,546.5
+2026,3,Papua New Guinea,Madang,Tanker,Exports,5022.4
+2026,3,Papua New Guinea,Madang,Tanker,Imports,237.2
+2026,3,Papua New Guinea,Oro Bay,Bulk Carrier,Exports,2785.3
+2026,3,Papua New Guinea,Oro Bay,General Cargo,Exports,957
+2026,3,Papua New Guinea,Oro Bay,Tanker,Exports,971.7
+2026,3,Papua New Guinea,Oro Bay,Tanker,Imports,714.6
+2026,3,Papua New Guinea,Port Moresby,Bulk Carrier,Exports,1080.1
+2026,3,Papua New Guinea,Port Moresby,Bulk Carrier,Imports,8945.5
+2026,3,Papua New Guinea,Port Moresby,Container,Exports,6184.7
+2026,3,Papua New Guinea,Port Moresby,Container,Imports,27378.3
+2026,3,Papua New Guinea,Port Moresby,General Cargo,Exports,18470.1
+2026,3,Papua New Guinea,Port Moresby,General Cargo,Imports,15239.7
+2026,3,Papua New Guinea,Port Moresby,Tanker,Exports,202501.6
+2026,3,Papua New Guinea,Port Moresby,Tanker,Imports,19651
+2026,3,Papua New Guinea,Put Put,General Cargo,Exports,865.9
+2026,3,Papua New Guinea,Put Put,General Cargo,Imports,6062
+2026,3,Papua New Guinea,Put Put,Tanker,Imports,4042.1
+2026,3,Papua New Guinea,Rabaul,Container,Exports,2018.8
+2026,3,Papua New Guinea,Rabaul,Container,Imports,4372.9
+2026,3,Papua New Guinea,Rabaul,General Cargo,Exports,7463.6
+2026,3,Papua New Guinea,Rabaul,General Cargo,Imports,859.8
+2026,3,Papua New Guinea,Rabaul,Tanker,Exports,7739
+2026,3,Papua New Guinea,Rabaul,Tanker,Imports,2523.8
+2026,3,Papua New Guinea,Vanimo,General Cargo,Exports,119.5
+2026,3,Papua New Guinea,Vanimo,Tanker,Exports,3126.6
+2026,3,Papua New Guinea,Wewak Harbor,Bulk Carrier,Exports,2609.8
+2026,3,Papua New Guinea,Wewak Harbor,Container,Exports,165.7
+2026,3,Papua New Guinea,Wewak Harbor,Container,Imports,721.6
+2026,3,Papua New Guinea,Wewak Harbor,General Cargo,Exports,245.1
+2026,3,Papua New Guinea,Wewak Harbor,General Cargo,Imports,229.1
+2026,3,Papua New Guinea,Wewak Harbor,Tanker,Exports,4004.5
+2026,3,Papua New Guinea,Wewak Harbor,Tanker,Imports,2629.5
+2026,3,Samoa,Apia,Container,Exports,4117.9
+2026,3,Samoa,Apia,Container,Imports,10932.3
+2026,3,Samoa,Apia,General Cargo,Exports,239.9
+2026,3,Samoa,Apia,General Cargo,Imports,2781
+2026,3,Samoa,Apia,Tanker,Exports,977.7
+2026,3,Samoa,Apia,Tanker,Imports,841.2
+2026,3,Solomon Islands,Honiara,Bulk Carrier,Exports,8211.5
+2026,3,Solomon Islands,Honiara,Container,Exports,382
+2026,3,Solomon Islands,Honiara,Container,Imports,19205.9
+2026,3,Solomon Islands,Honiara,General Cargo,Exports,8208.8
+2026,3,Solomon Islands,Honiara,General Cargo,Imports,5110.8
+2026,3,Solomon Islands,Honiara,Tanker,Exports,1206.8
+2026,3,Solomon Islands,Honiara,Tanker,Imports,4642.6
+2026,3,Solomon Islands,Ndora,Bulk Carrier,Exports,3145.1
+2026,3,Solomon Islands,Port Noro,Bulk Carrier,Exports,56830.7
+2026,3,Solomon Islands,Port Noro,Container,Imports,582.8
+2026,3,Solomon Islands,Port Noro,General Cargo,Exports,10815.1
+2026,3,Solomon Islands,Port Noro,Tanker,Exports,1927.7
+2026,3,Solomon Islands,Ringgi Cove,General Cargo,Exports,999.6
+2026,3,Solomon Islands,Seghe,General Cargo,Exports,16086.8
+2026,3,Tonga,Neiafu,General Cargo,Exports,583
+2026,3,Tonga,Neiafu,General Cargo,Imports,334.5
+2026,3,Tonga,Neiafu,Tanker,Exports,336.3
+2026,3,Tonga,Neiafu,Tanker,Imports,171.3
+2026,3,Tonga,Nuku Alofa,Container,Imports,7605
+2026,3,Tonga,Nuku Alofa,General Cargo,Exports,1629.1
+2026,3,Tonga,Nuku Alofa,General Cargo,Imports,3539.4
+2026,3,Tonga,Nuku Alofa,Tanker,Imports,1286.9
+2026,3,Tonga,Pangai,General Cargo,Exports,1068.9
+2026,3,Tuvalu,Funafuti Atoll,Container,Imports,778.5
+2026,3,Tuvalu,Funafuti Atoll,General Cargo,Exports,1934.5
+2026,3,Tuvalu,Funafuti Atoll,Tanker,Exports,57.6
+2026,3,Vanuatu,Luganville,Container,Exports,255.6
+2026,3,Vanuatu,Luganville,Container,Imports,4248.5
+2026,3,Vanuatu,Luganville,General Cargo,Imports,1204.3
+2026,3,Vanuatu,Port Vila,Container,Exports,645.3
+2026,3,Vanuatu,Port Vila,Container,Imports,5044.4
+2026,3,Vanuatu,Port Vila,General Cargo,Imports,629.2
+2026,3,Vanuatu,Port Vila,Tanker,Exports,491.2
+2026,3,Vanuatu,Port Vila,Tanker,Imports,696.2
+2026,4,Fiji,Lautoka Harbor,Bulk Carrier,Imports,13825.2
+2026,4,Fiji,Lautoka Harbor,Container,Exports,9964.9
+2026,4,Fiji,Lautoka Harbor,Container,Imports,15624.8
+2026,4,Fiji,Lautoka Harbor,General Cargo,Exports,339.9
+2026,4,Fiji,Lautoka Harbor,General Cargo,Imports,953.3
+2026,4,Fiji,Lautoka Harbor,Tanker,Exports,12118.6
+2026,4,Fiji,Lautoka Harbor,Tanker,Imports,31474.6
+2026,4,Fiji,Malai,Tanker,Imports,698.7
+2026,4,Fiji,Port of Savusavu Bay,General Cargo,Exports,553.8
+2026,4,Fiji,Suva Harbor,Bulk Carrier,Imports,15476.6
+2026,4,Fiji,Suva Harbor,Container,Exports,2186.9
+2026,4,Fiji,Suva Harbor,Container,Imports,21956.4
+2026,4,Fiji,Suva Harbor,General Cargo,Exports,2636.7
+2026,4,Fiji,Suva Harbor,General Cargo,Imports,3553.1
+2026,4,Fiji,Suva Harbor,Tanker,Imports,9524.8
+2026,4,Kiribati,Kiribati,Container,Imports,2009.7
+2026,4,Kiribati,Kiribati,Tanker,Exports,2810.8
+2026,4,Kiribati,Tarawa Atoll,General Cargo,Exports,96.1
+2026,4,Kiribati,Tarawa Atoll,General Cargo,Imports,3179
+2026,4,Marshall Islands,Ebeye,General Cargo,Exports,275
+2026,4,Marshall Islands,Ebeye,General Cargo,Imports,565
+2026,4,Marshall Islands,Kwajalein,General Cargo,Imports,938.9
+2026,4,Marshall Islands,Kwajalein,Tanker,Imports,318.6
+2026,4,Marshall Islands,Majuro Atoll,Container,Imports,1178.5
+2026,4,Marshall Islands,Majuro Atoll,General Cargo,Exports,4484.7
+2026,4,Marshall Islands,Majuro Atoll,General Cargo,Imports,1916.6
+2026,4,Marshall Islands,Majuro Atoll,Tanker,Exports,1902.4
+2026,4,Marshall Islands,Majuro Atoll,Tanker,Imports,933.8
+2026,4,Micronesia,Colonia,Container,Imports,249.4
+2026,4,Micronesia,Colonia,General Cargo,Imports,1054
+2026,4,Micronesia,Lele Harbor,Container,Exports,3336.8
+2026,4,Micronesia,Lele Harbor,General Cargo,Exports,3237.4
+2026,4,Micronesia,Lele Harbor,General Cargo,Imports,725.4
+2026,4,Micronesia,Lele Harbor,Tanker,Imports,207.9
+2026,4,Micronesia,Moen,General Cargo,Exports,1610.2
+2026,4,Micronesia,Moen,General Cargo,Imports,2304
+2026,4,Micronesia,Moen,Tanker,Imports,1441.9
+2026,4,Micronesia,Pornpei Harbor,Container,Exports,2430.8
+2026,4,Micronesia,Pornpei Harbor,General Cargo,Imports,1531.4
+2026,4,Micronesia,Pornpei Harbor,Tanker,Imports,829.4
+2026,4,Nauru,Nauru,General Cargo,Exports,63917.8
+2026,4,Nauru,Nauru,General Cargo,Imports,3811.4
+2026,4,Nauru,Nauru,Tanker,Exports,500.7
+2026,4,Palau,Malakal Harbor,Container,Imports,982.5
+2026,4,Papua New Guinea,Alotoa,Bulk Carrier,Exports,3985.9
+2026,4,Papua New Guinea,Alotoa,Container,Exports,633.7
+2026,4,Papua New Guinea,Alotoa,Container,Imports,1513.5
+2026,4,Papua New Guinea,Alotoa,Tanker,Imports,1155.5
+2026,4,Papua New Guinea,Buka,Container,Exports,328.6
+2026,4,Papua New Guinea,Buka,Container,Imports,377.7
+2026,4,Papua New Guinea,Buka,General Cargo,Exports,951.6
+2026,4,Papua New Guinea,Daru,General Cargo,Exports,44.3
+2026,4,Papua New Guinea,Kavieng Harbor,Bulk Carrier,Exports,16037.4
+2026,4,Papua New Guinea,Kavieng Harbor,Container,Exports,633.7
+2026,4,Papua New Guinea,Kavieng Harbor,General Cargo,Exports,7.6
+2026,4,Papua New Guinea,Kavieng Harbor,Tanker,Imports,734.5
+2026,4,Papua New Guinea,Kieta,Container,Exports,377.7
+2026,4,Papua New Guinea,Kieta,Container,Imports,2064.6
+2026,4,Papua New Guinea,Kimbe,Bulk Carrier,Exports,22997.5
+2026,4,Papua New Guinea,Kimbe,Container,Imports,709.2
+2026,4,Papua New Guinea,Kimbe,General Cargo,Exports,3884
+2026,4,Papua New Guinea,Kimbe,Tanker,Exports,18439.1
+2026,4,Papua New Guinea,Kimbe,Tanker,Imports,2524.6
+2026,4,Papua New Guinea,Lae,Bulk Carrier,Exports,769.1
+2026,4,Papua New Guinea,Lae,Bulk Carrier,Imports,15813.8
+2026,4,Papua New Guinea,Lae,Container,Exports,17385.4
+2026,4,Papua New Guinea,Lae,Container,Imports,66738.7
+2026,4,Papua New Guinea,Lae,General Cargo,Exports,9890
+2026,4,Papua New Guinea,Lae,General Cargo,Imports,9765.4
+2026,4,Papua New Guinea,Lae,Tanker,Exports,278.5
+2026,4,Papua New Guinea,Lae,Tanker,Imports,16464
+2026,4,Papua New Guinea,Madang,Container,Exports,2972.2
+2026,4,Papua New Guinea,Madang,Container,Imports,3354.1
+2026,4,Papua New Guinea,Madang,General Cargo,Exports,15.1
+2026,4,Papua New Guinea,Madang,Tanker,Imports,3986.6
+2026,4,Papua New Guinea,Oro Bay,General Cargo,Exports,120
+2026,4,Papua New Guinea,Oro Bay,Tanker,Imports,481.1
+2026,4,Papua New Guinea,Port Moresby,Bulk Carrier,Exports,18198.1
+2026,4,Papua New Guinea,Port Moresby,Bulk Carrier,Imports,2963.2
+2026,4,Papua New Guinea,Port Moresby,Container,Exports,2362.7
+2026,4,Papua New Guinea,Port Moresby,Container,Imports,44332.4
+2026,4,Papua New Guinea,Port Moresby,General Cargo,Exports,12726
+2026,4,Papua New Guinea,Port Moresby,General Cargo,Imports,7969
+2026,4,Papua New Guinea,Port Moresby,Tanker,Exports,196096.9
+2026,4,Papua New Guinea,Port Moresby,Tanker,Imports,15913
+2026,4,Papua New Guinea,Put Put,General Cargo,Exports,817.9
+2026,4,Papua New Guinea,Put Put,General Cargo,Imports,10182.6
+2026,4,Papua New Guinea,Put Put,Tanker,Exports,264.9
+2026,4,Papua New Guinea,Put Put,Tanker,Imports,3304
+2026,4,Papua New Guinea,Rabaul,Bulk Carrier,Exports,3894.2
+2026,4,Papua New Guinea,Rabaul,Container,Exports,931.4
+2026,4,Papua New Guinea,Rabaul,Container,Imports,3349.3
+2026,4,Papua New Guinea,Rabaul,General Cargo,Exports,6130.3
+2026,4,Papua New Guinea,Rabaul,Tanker,Imports,4791.8
+2026,4,Papua New Guinea,Vanimo,Bulk Carrier,Exports,9690.8
+2026,4,Papua New Guinea,Vanimo,General Cargo,Exports,36.1
+2026,4,Papua New Guinea,Wewak Harbor,Bulk Carrier,Exports,1509.8
+2026,4,Papua New Guinea,Wewak Harbor,Container,Exports,544.5
+2026,4,Papua New Guinea,Wewak Harbor,General Cargo,Exports,59.2
+2026,4,Papua New Guinea,Wewak Harbor,General Cargo,Imports,1529.4
+2026,4,Papua New Guinea,Wewak Harbor,Tanker,Imports,713.6
+2026,4,Samoa,Apia,Container,Exports,3109.1
+2026,4,Samoa,Apia,Container,Imports,3316.5
+2026,4,Samoa,Apia,General Cargo,Exports,88
+2026,4,Samoa,Apia,General Cargo,Imports,3129.1
+2026,4,Samoa,Apia,Tanker,Exports,144
+2026,4,Samoa,Apia,Tanker,Imports,4384.9
+2026,4,Samoa,Salelologa,General Cargo,Exports,31.3
+2026,4,Solomon Islands,Honiara,Bulk Carrier,Exports,31456.1
+2026,4,Solomon Islands,Honiara,Container,Exports,459.7
+2026,4,Solomon Islands,Honiara,Container,Imports,13112.2
+2026,4,Solomon Islands,Honiara,General Cargo,Exports,1300.9
+2026,4,Solomon Islands,Honiara,General Cargo,Imports,5432
+2026,4,Solomon Islands,Honiara,Tanker,Exports,986.8
+2026,4,Solomon Islands,Honiara,Tanker,Imports,11483.7
+2026,4,Solomon Islands,Mbulo,Bulk Carrier,Exports,3948.9
+2026,4,Solomon Islands,Ndora,General Cargo,Exports,12963.2
+2026,4,Solomon Islands,Port Noro,Bulk Carrier,Exports,66633.1
+2026,4,Solomon Islands,Port Noro,Container,Exports,798.9
+2026,4,Solomon Islands,Port Noro,General Cargo,Imports,172.9
+2026,4,Solomon Islands,Ringgi Cove,Bulk Carrier,Exports,3568
+2026,4,Tonga,Neiafu,General Cargo,Exports,485.9
+2026,4,Tonga,Neiafu,General Cargo,Imports,449.9
+2026,4,Tonga,Neiafu,Tanker,Imports,362.1
+2026,4,Tonga,Nuku Alofa,Container,Exports,921.7
+2026,4,Tonga,Nuku Alofa,Container,Imports,2796.8
+2026,4,Tonga,Nuku Alofa,General Cargo,Exports,1172.3
+2026,4,Tonga,Nuku Alofa,General Cargo,Imports,3471.5
+2026,4,Tonga,Nuku Alofa,Tanker,Imports,1818.3
+2026,4,Tonga,Pangai,General Cargo,Exports,777.4
+2026,4,Tuvalu,Funafuti Atoll,Container,Exports,1014.5
+2026,4,Tuvalu,Funafuti Atoll,Container,Imports,1163
+2026,4,Tuvalu,Funafuti Atoll,General Cargo,Exports,523.4
+2026,4,Tuvalu,Funafuti Atoll,Tanker,Exports,337.9
+2026,4,Vanuatu,Luganville,Container,Exports,779.7
+2026,4,Vanuatu,Luganville,Container,Imports,3029.9
+2026,4,Vanuatu,Luganville,General Cargo,Exports,317.8
+2026,4,Vanuatu,Luganville,General Cargo,Imports,1837.3
+2026,4,Vanuatu,Luganville,Tanker,Exports,3473.8
+2026,4,Vanuatu,Port Vila,Container,Exports,1076.6
+2026,4,Vanuatu,Port Vila,Container,Imports,4866.2
+2026,4,Vanuatu,Port Vila,General Cargo,Imports,1582.3
+2026,4,Vanuatu,Port Vila,Tanker,Exports,980.2
+2026,5,Fiji,Lautoka Harbor,Container,Exports,11758.3
+2026,5,Fiji,Lautoka Harbor,Container,Imports,12806
+2026,5,Fiji,Lautoka Harbor,General Cargo,Exports,514.9
+2026,5,Fiji,Lautoka Harbor,General Cargo,Imports,158.7
+2026,5,Fiji,Lautoka Harbor,Tanker,Exports,3852.4
+2026,5,Fiji,Lautoka Harbor,Tanker,Imports,49327.3
+2026,5,Fiji,Malai,Tanker,Exports,395.3
+2026,5,Fiji,Malai,Tanker,Imports,666.5
+2026,5,Fiji,Suva Harbor,Bulk Carrier,Imports,14637.7
+2026,5,Fiji,Suva Harbor,Container,Exports,15712.8
+2026,5,Fiji,Suva Harbor,Container,Imports,13806.5
+2026,5,Fiji,Suva Harbor,General Cargo,Exports,3337.5
+2026,5,Fiji,Suva Harbor,General Cargo,Imports,2677.6
+2026,5,Fiji,Suva Harbor,Tanker,Imports,9313
+2026,5,Kiribati,Tarawa Atoll,Container,Imports,3219.1
+2026,5,Kiribati,Tarawa Atoll,General Cargo,Exports,96.1
+2026,5,Kiribati,Tarawa Atoll,General Cargo,Imports,5962.3
+2026,5,Marshall Islands,Ebeye,General Cargo,Imports,1191.6
+2026,5,Marshall Islands,Kwajalein,General Cargo,Imports,2497.1
+2026,5,Marshall Islands,Kwajalein,Tanker,Imports,318.6
+2026,5,Marshall Islands,Majuro Atoll,Container,Exports,322.5
+2026,5,Marshall Islands,Majuro Atoll,Container,Imports,527
+2026,5,Marshall Islands,Majuro Atoll,General Cargo,Imports,2684
+2026,5,Marshall Islands,Majuro Atoll,Tanker,Exports,62.3
+2026,5,Micronesia,Colonia,Container,Exports,605.8
+2026,5,Micronesia,Colonia,Container,Imports,251
+2026,5,Micronesia,Colonia,General Cargo,Imports,660.2
+2026,5,Micronesia,Lele Harbor,Container,Exports,2615.5
+2026,5,Micronesia,Lele Harbor,General Cargo,Imports,1084.9
+2026,5,Micronesia,Moen,General Cargo,Exports,4830.7
+2026,5,Micronesia,Moen,General Cargo,Imports,3938.7
+2026,5,Micronesia,Moen,Tanker,Imports,1045.9
+2026,5,Micronesia,Pornpei Harbor,Container,Exports,914.8
+2026,5,Micronesia,Pornpei Harbor,General Cargo,Exports,1610.2
+2026,5,Micronesia,Pornpei Harbor,General Cargo,Imports,782.7
+2026,5,Micronesia,Pornpei Harbor,Tanker,Imports,1666
+2026,5,Nauru,Nauru,Bulk Carrier,Exports,12667.3
+2026,5,Nauru,Nauru,Container,Exports,273
+2026,5,Nauru,Nauru,General Cargo,Exports,27393.3
+2026,5,Nauru,Nauru,General Cargo,Imports,945.9
+2026,5,Palau,Malakal Harbor,Container,Imports,4422.6
+2026,5,Palau,Malakal Harbor,General Cargo,Imports,1283.5
+2026,5,Palau,Malakal Harbor,Tanker,Exports,122.7
+2026,5,Palau,Malakal Harbor,Tanker,Imports,1865
+2026,5,Papua New Guinea,Alotoa,Bulk Carrier,Exports,36790.9
+2026,5,Papua New Guinea,Alotoa,Container,Exports,1401.7
+2026,5,Papua New Guinea,Alotoa,Container,Imports,1631.7
+2026,5,Papua New Guinea,Alotoa,General Cargo,Exports,35.2
+2026,5,Papua New Guinea,Alotoa,General Cargo,Imports,3745.5
+2026,5,Papua New Guinea,Alotoa,Tanker,Imports,1556.5
+2026,5,Papua New Guinea,Buka,Container,Imports,1314
+2026,5,Papua New Guinea,Buka,General Cargo,Exports,756.5
+2026,5,Papua New Guinea,Buka,General Cargo,Imports,148.2
+2026,5,Papua New Guinea,Daru,Bulk Carrier,Exports,2424
+2026,5,Papua New Guinea,Daru,General Cargo,Exports,44.3
+2026,5,Papua New Guinea,Kavieng Harbor,Bulk Carrier,Exports,246.7
+2026,5,Papua New Guinea,Kavieng Harbor,Container,Imports,2305.7
+2026,5,Papua New Guinea,Kavieng Harbor,General Cargo,Exports,707.5
+2026,5,Papua New Guinea,Kavieng Harbor,Tanker,Imports,190.4
+2026,5,Papua New Guinea,Kieta,Container,Exports,561.1
+2026,5,Papua New Guinea,Kimbe,Bulk Carrier,Exports,2265.9
+2026,5,Papua New Guinea,Kimbe,Container,Exports,1447
+2026,5,Papua New Guinea,Kimbe,Container,Imports,1837
+2026,5,Papua New Guinea,Kimbe,General Cargo,Exports,1380
+2026,5,Papua New Guinea,Kimbe,Tanker,Exports,8506.4
+2026,5,Papua New Guinea,Kimbe,Tanker,Imports,1371.4
+2026,5,Papua New Guinea,Lae,Container,Exports,26884.1
+2026,5,Papua New Guinea,Lae,Container,Imports,53049.2
+2026,5,Papua New Guinea,Lae,General Cargo,Exports,8440.3
+2026,5,Papua New Guinea,Lae,General Cargo,Imports,12138.8
+2026,5,Papua New Guinea,Lae,Tanker,Exports,5371.3
+2026,5,Papua New Guinea,Lae,Tanker,Imports,26647.1
+2026,5,Papua New Guinea,Madang,Container,Exports,2406.8
+2026,5,Papua New Guinea,Madang,Container,Imports,2896.3
+2026,5,Papua New Guinea,Madang,General Cargo,Exports,134.3
+2026,5,Papua New Guinea,Madang,Tanker,Exports,2927.5
+2026,5,Papua New Guinea,Madang,Tanker,Imports,905.7
+2026,5,Papua New Guinea,Oro Bay,Bulk Carrier,Exports,1867.7
+2026,5,Papua New Guinea,Oro Bay,Container,Imports,1536
+2026,5,Papua New Guinea,Oro Bay,General Cargo,Exports,505
+2026,5,Papua New Guinea,Oro Bay,General Cargo,Imports,955.2
+2026,5,Papua New Guinea,Oro Bay,Tanker,Exports,477.3
+2026,5,Papua New Guinea,Oro Bay,Tanker,Imports,65.2
+2026,5,Papua New Guinea,Port Moresby,Bulk Carrier,Exports,918.5
+2026,5,Papua New Guinea,Port Moresby,Bulk Carrier,Imports,11752.7
+2026,5,Papua New Guinea,Port Moresby,Container,Exports,8516.8
+2026,5,Papua New Guinea,Port Moresby,Container,Imports,29308.6
+2026,5,Papua New Guinea,Port Moresby,General Cargo,Exports,17308.8
+2026,5,Papua New Guinea,Port Moresby,General Cargo,Imports,19269.6
+2026,5,Papua New Guinea,Port Moresby,Tanker,Exports,188145.8
+2026,5,Papua New Guinea,Port Moresby,Tanker,Imports,20498.9
+2026,5,Papua New Guinea,Put Put,General Cargo,Exports,540.3
+2026,5,Papua New Guinea,Put Put,General Cargo,Imports,6002.5
+2026,5,Papua New Guinea,Put Put,Tanker,Imports,8506
+2026,5,Papua New Guinea,Rabaul,Bulk Carrier,Exports,7968.3
+2026,5,Papua New Guinea,Rabaul,Container,Exports,1648.8
+2026,5,Papua New Guinea,Rabaul,Container,Imports,2150.8
+2026,5,Papua New Guinea,Rabaul,General Cargo,Exports,9175.5
+2026,5,Papua New Guinea,Rabaul,General Cargo,Imports,601.9
+2026,5,Papua New Guinea,Rabaul,Tanker,Exports,361.2
+2026,5,Papua New Guinea,Rabaul,Tanker,Imports,4427.4
+2026,5,Papua New Guinea,Vanimo,General Cargo,Exports,191.6
+2026,5,Papua New Guinea,Vanimo,Tanker,Exports,5472.2
+2026,5,Papua New Guinea,Wewak Harbor,Container,Imports,1259.3
+2026,5,Papua New Guinea,Wewak Harbor,General Cargo,Exports,19.6
+2026,5,Papua New Guinea,Wewak Harbor,General Cargo,Imports,2375.9
+2026,5,Papua New Guinea,Wewak Harbor,Tanker,Exports,2426.7
+2026,5,Papua New Guinea,Wewak Harbor,Tanker,Imports,65.2
+2026,5,Samoa,Apia,Container,Exports,4005.8
+2026,5,Samoa,Apia,Container,Imports,8632.8
+2026,5,Samoa,Apia,General Cargo,Exports,157.8
+2026,5,Samoa,Apia,General Cargo,Imports,1190.7
+2026,5,Samoa,Apia,Tanker,Imports,5981.2
+2026,5,Solomon Islands,Honiara,Bulk Carrier,Exports,29583.5
+2026,5,Solomon Islands,Honiara,Bulk Carrier,Imports,12714
+2026,5,Solomon Islands,Honiara,Container,Exports,1161.5
+2026,5,Solomon Islands,Honiara,Container,Imports,12269.7
+2026,5,Solomon Islands,Honiara,General Cargo,Exports,1362.3
+2026,5,Solomon Islands,Honiara,General Cargo,Imports,570
+2026,5,Solomon Islands,Honiara,Tanker,Exports,2515.2
+2026,5,Solomon Islands,Honiara,Tanker,Imports,995.1
+2026,5,Solomon Islands,Port Noro,Bulk Carrier,Exports,4062
+2026,5,Solomon Islands,Port Noro,Container,Imports,4005.4
+2026,5,Solomon Islands,Port Noro,General Cargo,Exports,2365.9
+2026,5,Solomon Islands,Port Noro,Tanker,Imports,1483.3
+2026,5,Solomon Islands,Seghe,Bulk Carrier,Exports,10925.4
+2026,5,Tonga,Neiafu,General Cargo,Exports,680.2
+2026,5,Tonga,Neiafu,Tanker,Imports,339.8
+2026,5,Tonga,Nuku Alofa,Container,Imports,6567.8
+2026,5,Tonga,Nuku Alofa,General Cargo,Exports,2214.6
+2026,5,Tonga,Nuku Alofa,General Cargo,Imports,3436.6
+2026,5,Tonga,Nuku Alofa,Tanker,Imports,2369.9
+2026,5,Tonga,Pangai,General Cargo,Exports,1166.1
+2026,5,Tuvalu,Funafuti Atoll,Container,Exports,612.1
+2026,5,Tuvalu,Funafuti Atoll,General Cargo,Exports,1893.8
+2026,5,Tuvalu,Funafuti Atoll,Tanker,Exports,337.4
+2026,5,Vanuatu,Luganville,Container,Imports,932
+2026,5,Vanuatu,Luganville,General Cargo,Exports,743.2
+2026,5,Vanuatu,Luganville,General Cargo,Imports,627.4
+2026,5,Vanuatu,Luganville,Tanker,Imports,4007
+2026,5,Vanuatu,Port Vila,Container,Imports,9728.9
+2026,5,Vanuatu,Port Vila,General Cargo,Exports,1056.7
+2026,5,Vanuatu,Port Vila,General Cargo,Imports,1266.1
+2026,5,Vanuatu,Port Vila,Tanker,Exports,3540.9
+2026,5,Vanuatu,Port Vila,Tanker,Imports,278

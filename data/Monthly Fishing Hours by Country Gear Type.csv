@@ -5420,31 +5420,146 @@ year,month,Country,Gear Type,total_hours
 2025,12,Tuvalu,Tuna purse seines,125
 2025,12,Vanuatu,Drifting longlines,10346.9
 2025,12,Vanuatu,Others,2163.8
-2026,1,Fiji,Drifting longlines,6714.5
-2026,1,Fiji,Others,197.8
-2026,1,Kiribati,Drifting longlines,26945.3
-2026,1,Kiribati,Others,1357.4
-2026,1,Kiribati,Tuna purse seines,1795.5
-2026,1,Marshall Islands,Drifting longlines,7069.5
-2026,1,Marshall Islands,Others,457.3
-2026,1,Marshall Islands,Tuna purse seines,281.2
-2026,1,Micronesia,Drifting longlines,6807.3
-2026,1,Micronesia,Others,297.7
-2026,1,Micronesia,Tuna purse seines,1144.7
-2026,1,Nauru,Others,160.4
-2026,1,Nauru,Tuna purse seines,1112.4
-2026,1,Palau,Others,247
-2026,1,Papua New Guinea,Drifting longlines,12576.7
-2026,1,Papua New Guinea,Others,194.8
-2026,1,Papua New Guinea,Tuna purse seines,2216
+2026,1,Fiji,Drifting longlines,5719.3
+2026,1,Fiji,Others,570.6
+2026,1,Kiribati,Drifting longlines,25510.5
+2026,1,Kiribati,Others,2398.3
+2026,1,Kiribati,Tuna purse seines,1833.5
+2026,1,Marshall Islands,Drifting longlines,6930.1
+2026,1,Marshall Islands,Others,2.6
+2026,1,Marshall Islands,Tuna purse seines,280.2
+2026,1,Micronesia,Drifting longlines,6995.1
+2026,1,Micronesia,Others,381.3
+2026,1,Micronesia,Tuna purse seines,1189.7
+2026,1,Nauru,Others,157.1
+2026,1,Nauru,Tuna purse seines,1233.5
+2026,1,Palau,Others,250.4
+2026,1,Papua New Guinea,Drifting longlines,12801
+2026,1,Papua New Guinea,Others,1008.1
+2026,1,Papua New Guinea,Tuna purse seines,2363.5
 2026,1,Samoa,Drifting longlines,13.9
-2026,1,Solomon Islands,Drifting longlines,7249.4
-2026,1,Solomon Islands,Others,830.7
-2026,1,Solomon Islands,Tuna purse seines,689.5
+2026,1,Solomon Islands,Drifting longlines,7331.2
+2026,1,Solomon Islands,Others,1607
+2026,1,Solomon Islands,Tuna purse seines,208.7
 2026,1,Tokelau,Drifting longlines,33.5
-2026,1,Tonga,Drifting longlines,1204.2
-2026,1,Tuvalu,Drifting longlines,545.5
-2026,1,Tuvalu,Others,38.9
-2026,1,Tuvalu,Tuna purse seines,137.4
-2026,1,Vanuatu,Drifting longlines,5096.5
+2026,1,Tonga,Drifting longlines,1226.5
+2026,1,Tuvalu,Drifting longlines,613.1
+2026,1,Tuvalu,Others,51.1
+2026,1,Tuvalu,Tuna purse seines,126.2
+2026,1,Vanuatu,Drifting longlines,5500.7
 2026,1,Vanuatu,Others,952.7
+2026,2,Fiji,Drifting longlines,4128.4
+2026,2,Fiji,Others,151.3
+2026,2,Kiribati,Drifting longlines,17475.1
+2026,2,Kiribati,Others,1313
+2026,2,Kiribati,Tuna purse seines,1010.2
+2026,2,Marshall Islands,Drifting longlines,5541.2
+2026,2,Marshall Islands,Others,67.1
+2026,2,Marshall Islands,Tuna purse seines,85.3
+2026,2,Micronesia,Drifting longlines,6983.7
+2026,2,Micronesia,Others,439.6
+2026,2,Micronesia,Tuna purse seines,933.1
+2026,2,Nauru,Others,142.6
+2026,2,Nauru,Tuna purse seines,1044.8
+2026,2,Palau,Others,79.2
+2026,2,Papua New Guinea,Drifting longlines,10402.6
+2026,2,Papua New Guinea,Others,1903.5
+2026,2,Papua New Guinea,Tuna purse seines,1598.7
+2026,2,Samoa,Drifting longlines,45.7
+2026,2,Solomon Islands,Drifting longlines,9063.1
+2026,2,Solomon Islands,Others,1297.9
+2026,2,Solomon Islands,Tuna purse seines,90.8
+2026,2,Tonga,Drifting longlines,1164.2
+2026,2,Tuvalu,Drifting longlines,1300.2
+2026,2,Tuvalu,Others,11.7
+2026,2,Tuvalu,Tuna purse seines,8.4
+2026,2,Vanuatu,Drifting longlines,2010.8
+2026,2,Vanuatu,Others,584
+2026,3,Fiji,Drifting longlines,5373.2
+2026,3,Fiji,Others,216.1
+2026,3,Fiji,Set longlines,17.2
+2026,3,Kiribati,Drifting longlines,15871.2
+2026,3,Kiribati,Others,935.9
+2026,3,Kiribati,Tuna purse seines,1274.9
+2026,3,Marshall Islands,Drifting longlines,6189.2
+2026,3,Marshall Islands,Others,174.9
+2026,3,Marshall Islands,Tuna purse seines,439.8
+2026,3,Micronesia,Drifting longlines,8560.7
+2026,3,Micronesia,Others,1415.4
+2026,3,Micronesia,Tuna purse seines,361.2
+2026,3,Nauru,Others,89.3
+2026,3,Nauru,Tuna purse seines,738.7
+2026,3,Palau,Tuna purse seines,17.1
+2026,3,Papua New Guinea,Drifting longlines,8302.5
+2026,3,Papua New Guinea,Others,1652.1
+2026,3,Papua New Guinea,Tuna purse seines,2079.3
+2026,3,Samoa,Drifting longlines,81.2
+2026,3,Solomon Islands,Drifting longlines,7628.5
+2026,3,Solomon Islands,Others,1564.3
+2026,3,Solomon Islands,Tuna purse seines,454.1
+2026,3,Tokelau,Drifting longlines,26.7
+2026,3,Tonga,Drifting longlines,619.8
+2026,3,Tuvalu,Drifting longlines,1875.1
+2026,3,Tuvalu,Tuna purse seines,42.7
+2026,3,Vanuatu,Drifting longlines,2889.2
+2026,3,Vanuatu,Others,11
+2026,4,Fiji,Drifting longlines,5927.7
+2026,4,Fiji,Others,708.7
+2026,4,Fiji,Set longlines,159.6
+2026,4,Kiribati,Drifting longlines,14395.9
+2026,4,Kiribati,Others,165.8
+2026,4,Kiribati,Tuna purse seines,1907.1
+2026,4,Marshall Islands,Drifting longlines,6044.5
+2026,4,Marshall Islands,Others,571.8
+2026,4,Marshall Islands,Tuna purse seines,1380.2
+2026,4,Micronesia,Drifting longlines,6772
+2026,4,Micronesia,Others,1559.1
+2026,4,Micronesia,Tuna purse seines,1064.9
+2026,4,Nauru,Others,6.9
+2026,4,Nauru,Tuna purse seines,563.8
+2026,4,Papua New Guinea,Drifting longlines,7958
+2026,4,Papua New Guinea,Others,932.2
+2026,4,Papua New Guinea,Tuna purse seines,1978
+2026,4,Samoa,Drifting longlines,561.7
+2026,4,Solomon Islands,Drifting longlines,8035.4
+2026,4,Solomon Islands,Others,737.4
+2026,4,Solomon Islands,Tuna purse seines,206.5
+2026,4,Tokelau,Drifting longlines,8.1
+2026,4,Tonga,Drifting longlines,442.9
+2026,4,Tuvalu,Drifting longlines,5791.7
+2026,4,Tuvalu,Others,32.7
+2026,4,Tuvalu,Tuna purse seines,103.3
+2026,4,Vanuatu,Drifting longlines,1458.8
+2026,4,Vanuatu,Others,10.7
+2026,5,Fiji,Drifting longlines,7479.3
+2026,5,Fiji,Others,899.1
+2026,5,Fiji,Set longlines,158
+2026,5,Kiribati,Drifting longlines,14545.7
+2026,5,Kiribati,Others,131.6
+2026,5,Kiribati,Set longlines,29.2
+2026,5,Kiribati,Tuna purse seines,2200.5
+2026,5,Marshall Islands,Drifting longlines,7394.4
+2026,5,Marshall Islands,Others,305.5
+2026,5,Marshall Islands,Tuna purse seines,1815.9
+2026,5,Micronesia,Drifting longlines,4532.9
+2026,5,Micronesia,Others,55.5
+2026,5,Micronesia,Tuna purse seines,801
+2026,5,Nauru,Others,3
+2026,5,Nauru,Tuna purse seines,610.7
+2026,5,Palau,Drifting longlines,0.7
+2026,5,Palau,Others,1.5
+2026,5,Palau,Tuna purse seines,18.4
+2026,5,Papua New Guinea,Drifting longlines,6062.4
+2026,5,Papua New Guinea,Others,1095.1
+2026,5,Papua New Guinea,Tuna purse seines,1820.3
+2026,5,Samoa,Drifting longlines,139.4
+2026,5,Solomon Islands,Drifting longlines,6735.7
+2026,5,Solomon Islands,Others,875.8
+2026,5,Solomon Islands,Set longlines,36.3
+2026,5,Solomon Islands,Tuna purse seines,754.3
+2026,5,Tonga,Drifting longlines,308.6
+2026,5,Tuvalu,Drifting longlines,6042.1
+2026,5,Tuvalu,Others,14.2
+2026,5,Tuvalu,Tuna purse seines,72.9
+2026,5,Vanuatu,Drifting longlines,4522.2
+2026,5,Vanuatu,Others,1.3
